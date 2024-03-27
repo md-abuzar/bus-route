@@ -7,6 +7,7 @@ stops_df = pd.read_csv("stops.csv")
 
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route("/api/v1/routes")
 def busnum():
