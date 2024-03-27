@@ -32,7 +32,7 @@ def busroutes():
         if request.method == 'POST':
             # Assuming route_short_name is passed as JSON data in the request body
             route_short_name = request.json.get('route_short_name')
-            filtered_routes = routes_df[routes_df['bus_num'] == route_short_name]
+            filtered_routes = routes_df[routes_df['route_long_name'] == route_short_name]
             route_id = filtered_routes['route_id']
 
             filtered_stop_ids = stop_times_df[stop_times_df['trip_id'] == route_id.to_list()[0]]
