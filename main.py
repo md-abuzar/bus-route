@@ -1,5 +1,6 @@
 from flask import Flask, jsonify, request, json
 import pandas as pd
+from flask_cors import CORS
 routes_df = pd.read_csv("routes.csv")
 trips_df = pd.read_csv("trips.csv")
 stop_times_df = pd.read_csv("stop_times.csv")
