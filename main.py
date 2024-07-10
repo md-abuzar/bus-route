@@ -40,8 +40,8 @@ def busroutes():
 
             stop_list = []
             for stop_id in stop_ids:
-                stops = stops_df[stops_df['stop_id'] == stop_id]['stop_name'].tolist()
-                stop_list.extend(stops)
+                stop_data = stops_df[stops_df['stop_id'] == stop_id][['stop_name', 'stop_lat', 'stop_lon']].to_dict(orient='records')
+                stop_list.extend(stop_data)
             
             return jsonify({'stops': stop_list})
         else:
