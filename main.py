@@ -20,6 +20,16 @@ def busnum():
     routes = routes_df['bus_num'].tolist()
     return jsonify(routes)
 
+@app.route("/api/v1/num", methods=['GET', 'POST'])
+def busshortnum():
+    try:
+        route = request.json.get('route')
+        filtered_num = routes_df[routes_df['bus_num'] == route]
+        num = filtered_num['route_long_name'].tolist()
+        return jsonify(num)
+    except Exception as e:
+        return {"error" : str(e)}
+
 @app.route("/api/v1/stops", methods=['GET', 'POST'])
 def busroutes():
     try:
