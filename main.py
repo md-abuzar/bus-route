@@ -20,6 +20,11 @@ def busnum():
     routes = routes_df['bus_num'].tolist()
     return jsonify(routes)
 
+@app.route("/api/v1/routes_long_name")
+def routeLongName():
+    route_long_name = routes_df['route_long_name'].tolist()
+    return jsonify(route_long_name)
+
 @app.route("/api/v1/num", methods=['GET', 'POST'])
 def busshortnum():
     try:
