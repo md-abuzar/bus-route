@@ -102,7 +102,7 @@ def buslive():
 
             print(lat_lon)'''
 
-@app.route("/api/v1/pmpl/routes")
+@app.route("/api/v1/pmpml/routes")
 def pmpmlbusnum():
     routes = trips_pmpl_df['route_short_name'].tolist()
     return jsonify(routes)
@@ -118,7 +118,7 @@ def pmpmlbusshortnum():
         return {"error" : str(e)}
 
 
-@app.route("/api/v1/pmpl/stops", methods=['GET', 'POST'])
+@app.route("/api/v1/pmpml/stops", methods=['GET', 'POST'])
 def pmpmlbusroutes():
     try:
         if request.method == 'POST':
