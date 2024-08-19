@@ -11,7 +11,7 @@ stop_times_df = pd.read_csv("stop_times.csv")
 stops_df = pd.read_csv("stops.csv")
 
 routes_pmpl_df = pd.read_csv("pmpl/routes.csv")
-trips_pmpl_df = pd.read_csv("pmpl/trips.csv")
+trips_pmpl_df = pd.read_csv("pmpl/trip.csv")
 stop_times_pmpl_df = pd.read_csv("pmpl/stop_times.csv")
 stops_pmpl_df = pd.read_csv("pmpl/stops.csv")
 
@@ -106,6 +106,11 @@ def buslive():
 def pmpmlbusnum():
     routes = trips_pmpl_df['route_short_name'].tolist()
     return jsonify(routes)
+
+@app.route("/api/v1/pmpml/routes_id")
+def pmpmlrouteid():
+    route_id = trips_pmpl_df['route_id'].tolist()
+    return jsonify(route_id)
 
 @app.route("/api/v1/pmpml/num", methods=['GET', 'POST'])
 def pmpmlbusshortnum():
