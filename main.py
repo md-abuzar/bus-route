@@ -5,7 +5,7 @@ from google.transit import gtfs_realtime_pb2
 import requests
 from geopy.geocoders import Nominatim
 
-routes_df = pd.read_csv("routes.csv")
+routes_df = pd.read_csv("new_routes.csv")
 trips_df = pd.read_csv("trips.csv")
 stop_times_df = pd.read_csv("stop_times.csv")
 stops_df = pd.read_csv("stops.csv")
@@ -35,7 +35,7 @@ def routeLongName():
 def busshortnum():
     try:
         route = request.json.get('route')
-        filtered_num = routes_df[routes_df['bus_num'] == route]
+        filtered_num = routes_df[routes_df['slug'] == route]
         num = filtered_num['route_long_name'].tolist()
         return jsonify(num)
     except Exception as e:
