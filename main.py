@@ -28,7 +28,7 @@ def busnum():
 
 @app.route("/api/v1/routes_long_name")
 def routeLongName():
-    route_long_name = routes_df['route_long_name'].tolist()
+    route_long_name = routes_df['slug'].tolist()
     return jsonify(route_long_name)
 
 @app.route("/api/v1/num", methods=['GET', 'POST'])
@@ -47,7 +47,7 @@ def busroutes():
         if request.method == 'POST':
             # Assuming route_short_name is passed as JSON data in the request body
             route_short_name = request.json.get('route_short_name')
-            filtered_routes = routes_df[routes_df['route_long_name'] == route_short_name]
+            filtered_routes = routes_df[routes_df['slug'] == route_short_name]
             route_id = filtered_routes['route_id']
 
             filtered_stop_ids = stop_times_df[stop_times_df['trip_id'] == route_id.to_list()[0]]
