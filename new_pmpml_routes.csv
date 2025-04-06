@@ -1,0 +1,966 @@
+route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed,duty,duty_sequence_number,run_sequence_number,route_short_name,slug
+42,1,NORMAL_42_Katraj To Bhakti Shakti_Up-0740_0,Katraj To Bhakti Shakti,,0,,4810,,,42/10,1,1,42 - Katraj To Bhakti Shakti,42-katraj-to-bhakti-shakti
+42,1,NORMAL_42_Bhakti Shakti To Katraj_Down-2010_0,Bhakti Shakti To Katraj,,0,,4811,,,42/5,8,4,42 - Bhakti Shakti To Katraj,42-bhakti-shakti-to-katraj
+366,1,NORMAL_366_Pune Station To Bhakti Shakti (Via Yerwada)_Up-1750_0,Pune Station To Bhakti Shakti (Via Yerwada),,0,,4794,,,366/1,10,4,366 - Pune Station To Bhakti Shakti (Via Yerwada),366-pune-station-to-bhakti-shakti-via-yerwada
+366,1,NORMAL_366_Bhakti Shakti To Pune Station (Via Yerwada)_Down-1440_0,Bhakti Shakti To Pune Station (Via Yerwada),,0,,4795,,,366/3,7,1,366 - Bhakti Shakti To Pune Station (Via Yerwada),366-bhakti-shakti-to-pune-station-via-yerwada
+367,1,NORMAL_367_Gavhanevasti Bhosari To Nigdi_Down-0915_0,Gavhanevasti Bhosari To Nigdi,,0,,3922,,,367/4,6,6,367 - Gavhanevasti Bhosari To Nigdi,367-gavhanevasti-bhosari-to-nigdi
+315,1,NORMAL_315_Pune station To Bhosari via vishrantwadi_Up-1020_0,Pune station To Bhosari via vishrantwadi,,0,,4069,,,315/13,6,6,315 - Pune station To Bhosari via vishrantwadi,315-pune-station-to-bhosari-via-vishrantwadi
+60,1,NORMAL_60_Ghulenagar To Mandai Stand_Down-1000_0,Ghulenagar To Mandai Stand,,1,,4195,,,60/1,6,6,60 - Ghulenagar To Mandai Stand,60-ghulenagar-to-mandai-stand
+186,1,NORMAL_186_Jspm College To Pune Station_Up-1840_0,Jspm College To Pune Station,,0,,3889,,,186/1,10,4,186 - Jspm College To Pune Station,186-jspm-college-to-pune-station
+55,1,NORMAL_55_Mandai To Suncity_Down-1950_0,Mandai To Suncity,,0,,4204,,,55/2,17,7,55 - Mandai To Suncity,55-mandai-to-suncity
+87,1,NORMAL_87_Deccan Gymkhana To Susgaon Thaksen Nagar_Up-1025_0,Deccan Gymkhana To Susgaon Thaksen Nagar,,1,,4656,,,87/8,4,4,87 - Deccan Gymkhana To Susgaon Thaksen Nagar,87-deccan-gymkhana-to-susgaon-thaksen-nagar
+55,1,NORMAL_55_Suncity To Mandai_Up-0700_0,Suncity To Mandai,,0,,4206,,,55/2,2,2,55 - Suncity To Mandai,55-suncity-to-mandai
+114,1,NORMAL_114_Mhalungegaon To Ma Na Pa_Down-0530_0,Mhalungegaon To Ma Na Pa,,0,,3499,,,114/3,1,1,114 - Mhalungegaon To Ma Na Pa,114-mhalungegaon-to-ma-na-pa
+367,1,NORMAL_367_Nigdi To Gavhanevasti Bhosari_Up-1130_0,Nigdi To Gavhanevasti Bhosari,,0,,3921,,,367/8,6,6,367 - Nigdi To Gavhanevasti Bhosari,367-nigdi-to-gavhanevasti-bhosari
+87,1,NORMAL_87_Sutarwadi Pashan To Deccan Gymkhana (Vai Bhagvatinagar)_Down-0720_0,Sutarwadi Pashan To Deccan Gymkhana (Vai Bhagvatinagar),,1,,3450,,,87/4,1,1,87 - Sutarwadi Pashan To Deccan Gymkhana (Vai Bhagvatinagar),87-sutarwadi-pashan-to-deccan-gymkhana-vai-bhagvatinagar
+114,1,NORMAL_114_Ma Na Pa To Mhalungegaon_Up-1520_0,Ma Na Pa To Mhalungegaon,,0,,3500,,,114/3,12,2,114 - Ma Na Pa To Mhalungegaon,114-ma-na-pa-to-mhalungegaon
+87,1,NORMAL_87_Susgaon Thaksen Nagar To Deccan Gymkhana_Down-0830_0,Susgaon Thaksen Nagar To Deccan Gymkhana,,1,,4658,,,87/7,3,3,87 - Susgaon Thaksen Nagar To Deccan Gymkhana,87-susgaon-thaksen-nagar-to-deccan-gymkhana
+87F,1,NORMAL_87F_Deccan Gymkhana To Mhalunge Phata Balewadi_Up-1430_0,Deccan Gymkhana To Mhalunge Phata Balewadi,,1,,4697,,,87/7,8,8,87F - Deccan Gymkhana To Mhalunge Phata Balewadi,87f-deccan-gymkhana-to-mhalunge-phata-balewadi
+87C,1,NORMAL_87C_HMR Company To Deccan Gymkhana_Down-1710_0,HMR Company To Deccan Gymkhana,,0,,3006,,,87/3,11,3,87C - HMR Company To Deccan Gymkhana,87c-hmr-company-to-deccan-gymkhana
+315,1,NORMAL_315_Deccan College To Dighi_Up-1345_0,Deccan College To Dighi,,1,,4844,,,315/13,9,9,315 - Deccan College To Dighi,315-deccan-college-to-dighi
+87D,1,NORMAL_87D_Deccan Gymkhana To Sutarwadi Pashan (Vai Sai Chowk)_Up-1135_0,Deccan Gymkhana To Sutarwadi Pashan (Vai Sai Chowk),,1,,3139,,,87/3,6,6,87D - Deccan Gymkhana To Sutarwadi Pashan (Vai Sai Chowk),87d-deccan-gymkhana-to-sutarwadi-pashan-vai-sai-chowk
+87,1,NORMAL_87_Deccan Gymkhana To Sutarwadi Pashan (Vai Bhagvatinagar)_Up-2235_0,Deccan Gymkhana To Sutarwadi Pashan (Vai Bhagvatinagar),,1,,3451,,,87/2,16,8,87 - Deccan Gymkhana To Sutarwadi Pashan (Vai Bhagvatinagar),87-deccan-gymkhana-to-sutarwadi-pashan-vai-bhagvatinagar
+315,1,NORMAL_315_Pune Station Depot To Deccan College_Up-1315_0,Pune Station Depot To Deccan College,,1,,4846,,,315/13,8,8,315 - Pune Station Depot To Deccan College,315-pune-station-depot-to-deccan-college
+87,1,NORMAL_87_Girme Park To Deccan Gymkhana_Down-0710_0,Girme Park To Deccan Gymkhana,,1,,5241,,,87/6,2,2,87 - Girme Park To Deccan Gymkhana,87-girme-park-to-deccan-gymkhana
+186,1,NORMAL_186_Pune Station To Jspm College_Down-1740_0,Pune Station To Jspm College,,0,,3890,,,186/1,9,3,186 - Pune Station To Jspm College,186-pune-station-to-jspm-college
+315,1,NORMAL_315_Bhosari PMT Chowk To Dighi_Down-0630_0,Bhosari PMT Chowk To Dighi,,1,,4849,,,315/13,1,1,315 - Bhosari PMT Chowk To Dighi,315-bhosari-pmt-chowk-to-dighi
+217,1,NORMAL_217_Mandai Stand To Gujarwadi_Down-0810_0,Mandai Stand To Gujarwadi,,1,,4311,,,217/2,3,3,217 - Mandai Stand To Gujarwadi,217-mandai-stand-to-gujarwadi
+87D,1,NORMAL_87D_Sutarwadi Pashan To Deccan Gymkhana (Vai Sai Chowk)_Down-1140_0,Sutarwadi Pashan To Deccan Gymkhana (Vai Sai Chowk),,1,,3268,,,87/1,7,7,87D - Sutarwadi Pashan To Deccan Gymkhana (Vai Sai Chowk),87d-sutarwadi-pashan-to-deccan-gymkhana-vai-sai-chowk
+43,1,NORMAL_43_Bhakti Shakti To Katraj_Down-0730_0,Bhakti Shakti To Katraj,,0,,4900,,,43/1,2,2,43 - Bhakti Shakti To Katraj,43-bhakti-shakti-to-katraj
+43,1,NORMAL_43_Katraj To Bhakti Shakti_Up-0905_0,Katraj To Bhakti Shakti,,0,,4899,,,43/1,3,3,43 - Katraj To Bhakti Shakti,43-katraj-to-bhakti-shakti
+60,1,NORMAL_60_Mandai Stand To Ghulenagar_Up-0535_0,Mandai Stand To Ghulenagar,,1,,4194,,,60/1,1,1,60 - Mandai Stand To Ghulenagar,60-mandai-stand-to-ghulenagar
+367C,1,NORMAL_367C_Akurdi Railway Station To Bhosari_Down-1720_0,Akurdi Railway Station To Bhosari,,0,,4460,,,367/5,13,3,367C - Akurdi Railway Station To Bhosari,367c-akurdi-railway-station-to-bhosari
+315,1,NORMAL_315_Bhosari To Pune station via vishrantwadi_Down-1140_0,Bhosari To Pune station via vishrantwadi,,0,,4070,,,315/13,7,7,315 - Bhosari To Pune station via vishrantwadi,315-bhosari-to-pune-station-via-vishrantwadi
+87F,1,NORMAL_87F_Mhalunge Phata Balewadi To Deccan Gymkhana_Down-1445_0,Mhalunge Phata Balewadi To Deccan Gymkhana,,1,,4698,,,87/5,9,1,87F - Mhalunge Phata Balewadi To Deccan Gymkhana,87f-mhalunge-phata-balewadi-to-deccan-gymkhana
+315,1,NORMAL_315_Dighi To Bhosari PMT Chowk_Up-1415_0,Dighi To Bhosari PMT Chowk,,1,,4848,,,315/13,10,10,315 - Dighi To Bhosari PMT Chowk,315-dighi-to-bhosari-pmt-chowk
+87,1,NORMAL_87_Deccan Gymkhana To Girmepark_Up-0615_0,Deccan Gymkhana To Girmepark,,1,,5240,,,87/6,1,1,87 - Deccan Gymkhana To Girmepark,87-deccan-gymkhana-to-girmepark
+217,1,NORMAL_217_Gujarwadi To Mandai Stand_Up-1535_0,Gujarwadi To Mandai Stand,,1,,4310,,,217/2,10,2,217 - Gujarwadi To Mandai Stand,217-gujarwadi-to-mandai-stand
+367,1,NORMAL_367_Akurdi Rly Station To Indrayaninagar_Up-0720_0,Akurdi Rly Station To Indrayaninagar,,0,,3914,,,367/5,3,3,367 - Akurdi Rly Station To Indrayaninagar,367-akurdi-rly-station-to-indrayaninagar
+367,1,NORMAL_367_Indrayaninagar To Akurdi Rly Station_Down-0635_0,Indrayaninagar To Akurdi Rly Station,,0,,3915,,,367/5,2,2,367 - Indrayaninagar To Akurdi Rly Station,367-indrayaninagar-to-akurdi-rly-station
+118,1,NORMAL_118_Swargate To Suncity_Up-0540_0,Swargate To Suncity,,0,,3395,,,55/1,1,1,118 - Swargate To Suncity,118-swargate-to-suncity
+315,1,NORMAL_315_Deccan College To Pune Station Depot_Down-0730_0,Deccan College To Pune Station Depot,,1,,4847,,,315/13,3,3,315 - Deccan College To Pune Station Depot,315-deccan-college-to-pune-station-depot
+367,1,NORMAL_367_Bhosari To Chikhale (Gharkul)_Up-0720_0,Bhosari To Chikhale (Gharkul),,0,,4463,,,367/8,1,1,367 - Bhosari To Chikhale (Gharkul),367-bhosari-to-chikhale-gharkul
+19,1,NORMAL_19_Kondhwa Hospital To Shivajinagar_Up-1740_0,Kondhwa Hospital To Shivajinagar,,0,,3407,,,19-Jan,11,4,19 - Kondhwa Hospital To Shivajinagar,19-kondhwa-hospital-to-shivajinagar
+19,1,NORMAL_19_Shivajinagar To Kondhwa Hospital_Down-1900_0,Shivajinagar To Kondhwa Hospital,,0,,3409,,,19-Jan,12,5,19 - Shivajinagar To Kondhwa Hospital,19-shivajinagar-to-kondhwa-hospital
+19A,1,NORMAL_19A_Shivajinagar To Marketyard_Down-2200_0,Shivajinagar To Marketyard,,1,,3424,,,19-Jan,14,7,19A - Shivajinagar To Marketyard,19a-shivajinagar-to-marketyard
+19A,1,NORMAL_19A_Marketyard To Shivajinagar_Up-0545_0,Marketyard To Shivajinagar,,1,,3393,,,19-Feb,1,1,19A - Marketyard To Shivajinagar,19a-marketyard-to-shivajinagar
+167,1,NORMAL_167_Hadapsar Gadital To Kesnand Phata_Up-0545_0,Hadapsar Gadital To Kesnand Phata,,0,,4626,,,167/1,1,1,167 - Hadapsar Gadital To Kesnand Phata,167-hadapsar-gadital-to-kesnand-phata
+167,1,NORMAL_167_Kesnand Phata To Hadapsar Gadital_Down-0630_0,Kesnand Phata To Hadapsar Gadital,,0,,4627,,,167/1,2,2,167 - Kesnand Phata To Hadapsar Gadital,167-kesnand-phata-to-hadapsar-gadital
+152_75,1,NORMAL_152_MNP To Dhanori / KamalPark Via Lohagaon_Up-1000_0,MNP To Dhanori / KamalPark Via Lohagaon,,1,,5242,,,152/4,5,5,152_75 - MNP To Dhanori / KamalPark Via Lohagaon,152-75-mnp-to-dhanori-kamalpark-via-lohagaon
+20,1,NORMAL_20_Maharashtra Housing Board Samtanagar To Sahakarnagar_Down-0900_0,Maharashtra Housing Board Samtanagar To Sahakarnagar,,1,,4600,,,20-Jan,1,1,20 - Maharashtra Housing Board Samtanagar To Sahakarnagar,20-maharashtra-housing-board-samtanagar-to-sahakarnagar
+29,1,NORMAL_29_Swargate To Alandi_Up-0745_0,Swargate To Alandi,,0,,3609,,,29-Jan,2,2,29 - Swargate To Alandi,29-swargate-to-alandi
+119,1,NORMAL_119_Alandi To Ma Na Pa_Down-0835_0,Alandi To Ma Na Pa,,0,,3376,,,119/2,2,2,119 - Alandi To Ma Na Pa,119-alandi-to-ma-na-pa
+118,1,NORMAL_118_Suncity To Swargate_Down-2150_0,Suncity To Swargate,,0,,3511,,,55/1,20,10,118 - Suncity To Swargate,118-suncity-to-swargate
+367,1,NORMAL_367_Chikhale (Gharkul) To Bhosari_Down-0800_0,Chikhale (Gharkul) To Bhosari,,0,,4464,,,367/8,2,2,367 - Chikhale (Gharkul) To Bhosari,367-chikhale-gharkul-to-bhosari
+315,1,NORMAL_315_Dighi To Deccan College_Down-0700_0,Dighi To Deccan College,,1,,4845,,,315/13,2,2,315 - Dighi To Deccan College,315-dighi-to-deccan-college
+22A,1,NORMAL_22A_Swargate To Khandoba Mandir_Up-0545_0,Swargate To Khandoba Mandir,,0,,4431,,,22-Jan,1,1,22A - Swargate To Khandoba Mandir,22a-swargate-to-khandoba-mandir
+22,1,NORMAL_22_Khandoba Mandir To Shivajinagar_Up-0615_0,Khandoba Mandir To Shivajinagar,,0,,2580,,,22-Jan,2,2,22 - Khandoba Mandir To Shivajinagar,22-khandoba-mandir-to-shivajinagar
+22,1,NORMAL_22_Shivajinagar To Khandoba Mandir_Down-0705_0,Shivajinagar To Khandoba Mandir,,0,,2792,,,22-Jan,3,3,22 - Shivajinagar To Khandoba Mandir,22-shivajinagar-to-khandoba-mandir
+22A,1,NORMAL_22A_Khandoba Mandir To Swargate_Down-1230_0,Khandoba Mandir To Swargate,,0,,4432,,,22-Jan,8,8,22A - Khandoba Mandir To Swargate,22a-khandoba-mandir-to-swargate
+115P_90,1,NORMAL_115P_Pune Station to Hinjawadi Phase 3_Up-1945_0,Pune Station to Hinjawadi Phase 3,,0,,3275,,,115P/7,7,3,115P_90 - Pune Station to Hinjawadi Phase 3,115p-90-pune-station-to-hinjawadi-phase-3
+115P_90,1,NORMAL_115P_Hinjawadi Phase 3 to Pune Station_Down-1425_0,Hinjawadi Phase 3 to Pune Station,,0,,3277,,,115P/10,4,4,115P_90 - Hinjawadi Phase 3 to Pune Station,115p-90-hinjawadi-phase-3-to-pune-station
+333,1,NORMAL_333_Pune Station To  Hinjawadi Maan Phase 3_Up-1620_0,Pune Station To  Hinjawadi Maan Phase 3,,0,,4428,,,333/4,7,1,333 - Pune Station To  Hinjawadi Maan Phase 3,333-pune-station-to-hinjawadi-maan-phase-3
+333,1,NORMAL_333_Hinjawadi Maan Phase 3 To Pune Station_Down-1515_0,Hinjawadi Maan Phase 3 To Pune Station,,0,,4429,,,333/1,8,2,333 - Hinjawadi Maan Phase 3 To Pune Station,333-hinjawadi-maan-phase-3-to-pune-station
+43,1,NORMAL_43_Katraj To Hinjawadi Phase 3_Up-0620_0,Katraj To Hinjawadi Phase 3,,0,,4946,,,43/23,1,1,43 - Katraj To Hinjawadi Phase 3,43-katraj-to-hinjawadi-phase-3
+43,1,NORMAL_43_Hinjawadi Phase 3 To Katraj_Down-0740_0,Hinjawadi Phase 3 To Katraj,,0,,4696,,,43/23,2,2,43 - Hinjawadi Phase 3 To Katraj,43-hinjawadi-phase-3-to-katraj
+2,1,NORMAL_2_Shivajinagar To Katraj_Down-2035_0,Shivajinagar To Katraj,,0,,3443,,,02-Oct,14,6,2 - Shivajinagar To Katraj,2-shivajinagar-to-katraj
+2,1,NORMAL_2_Katraj To Shivajinagar_Up-1010_0,Katraj To Shivajinagar,,0,,3442,,,02-Mar,3,3,2 - Katraj To Shivajinagar,2-katraj-to-shivajinagar
+203,1,NORMAL_203_Hadapsar Gadital To Pune station_Up-0830_0,Hadapsar Gadital To Pune station,,1,,5232,,,203/8,1,1,203 - Hadapsar Gadital To Pune station,203-hadapsar-gadital-to-pune-station
+203,1,NORMAL_203_Pune Station To Hadapsar Gadital_Down-0915_0,Pune Station To Hadapsar Gadital,,1,,5233,,,203/8,2,2,203 - Pune Station To Hadapsar Gadital,203-pune-station-to-hadapsar-gadital
+165,1,NORMAL_165_Ma Na Pa To Wadgaonsheri_Up-0530_0,Ma Na Pa To Wadgaonsheri,,0,,3179,,,165/1,1,1,165 - Ma Na Pa To Wadgaonsheri,165-ma-na-pa-to-wadgaonsheri
+119,1,NORMAL_119_Ma Na Pa To Alandi_Up-0530_0,Ma Na Pa To Alandi,,0,,3375,,,119/3,1,1,119 - Ma Na Pa To Alandi,119-ma-na-pa-to-alandi
+94,1,NORMAL_94_Kothrud Depot To Pune Station_Up-1230_0,Kothrud Depot To Pune Station,,0,,3632,,,94/1,7,7,94 - Kothrud Depot To Pune Station,94-kothrud-depot-to-pune-station
+94,1,NORMAL_94_Pune Station To Kothrud Depot_Down-1330_0,Pune Station To Kothrud Depot,,0,,3633,,,94/1,8,8,94 - Pune Station To Kothrud Depot,94-pune-station-to-kothrud-depot
+233,1,NORMAL_233_ST Stand Paud To Marketyard_Down-2100_0,ST Stand Paud To Marketyard,,1,,4877,,,233/5,8,4,233 - ST Stand Paud To Marketyard,233-st-stand-paud-to-marketyard
+233,1,NORMAL_233_Marketyard To ST Stand Paud_Up-0720_0,Marketyard To ST Stand Paud,,1,,4876,,,233/6,1,1,233 - Marketyard To ST Stand Paud,233-marketyard-to-st-stand-paud
+163,1,NORMAL_163_Pune Station To Kharadi Gaon (Dhole Patil College)_Up-1010_0,Pune Station To Kharadi Gaon (Dhole Patil College),,1,,5001,,,163/4,5,5,163 - Pune Station To Kharadi Gaon (Dhole Patil College),163-pune-station-to-kharadi-gaon-dhole-patil-college
+64,1,NORMAL_64_Nehru Stadium To NDA 10 No Gate Bus Stand Via Dattawadi_Up-0540_0,Nehru Stadium To NDA 10 No Gate Bus Stand Via Dattawadi,,1,,4884,,,64/15,1,1,64 - Nehru Stadium To NDA 10 No Gate Bus Stand Via Dattawadi,64-nehru-stadium-to-nda-10-no-gate-bus-stand-via-dattawadi
+64,1,NORMAL_64_NDA 10 No Gate Bus Stand To Nehru Stadium Via Dattawadi_Down-0645_0,NDA 10 No Gate Bus Stand To Nehru Stadium Via Dattawadi,,1,,4885,,,64/15,2,2,64 - NDA 10 No Gate Bus Stand To Nehru Stadium Via Dattawadi,64-nda-10-no-gate-bus-stand-to-nehru-stadium-via-dattawadi
+277A,1,NORMAL_277A_Kothrud Stand To Kondhwagate_Down-0540_0,Kothrud Stand To Kondhwagate,,0,,4026,,,82/1,1,1,277A - Kothrud Stand To Kondhwagate,277a-kothrud-stand-to-kondhwagate
+82,1,NORMAL_82_NDA 10 No Gate Bus Stand To MaNaPa To Kondhwagate_Round-0620_0,NDA 10 No Gate Bus Stand To MaNaPa To Kondhwagate,,1,,4908,,,82/1,2,2,82 - NDA 10 No Gate Bus Stand To MaNaPa To Kondhwagate,82-nda-10-no-gate-bus-stand-to-manapa-to-kondhwagate
+277A,1,NORMAL_277A_Kondhwagate To Kothrud Stand_Up-2200_0,Kondhwagate To Kothrud Stand,,0,,4025,,,82/1,8,3,277A - Kondhwagate To Kothrud Stand,277a-kondhwagate-to-kothrud-stand
+174,1,NORMAL_174_Pune Station To NDA 10 No Gate Bus Stand_Up-0945_0,Pune Station To NDA 10 No Gate Bus Stand,,1,,4891,,,174/7,3,3,174 - Pune Station To NDA 10 No Gate Bus Stand,174-pune-station-to-nda-10-no-gate-bus-stand
+174,1,NORMAL_174_NDA 10 No Gate Bus Stand To Pune Station_Down-1110_0,NDA 10 No Gate Bus Stand To Pune Station,,1,,4893,,,174/7,4,4,174 - NDA 10 No Gate Bus Stand To Pune Station,174-nda-10-no-gate-bus-stand-to-pune-station
+149,1,NORMAL_149_Bhakti Shakti To Shewalwadi_Down-1345_0,Bhakti Shakti To Shewalwadi,,0,,4856,,,149/21,4,4,149 - Bhakti Shakti To Shewalwadi,149-bhakti-shakti-to-shewalwadi
+VJR3,1,NORMAL_VJR3_Hadapsar Gadital To Kothrud Depot_Down-0530_0,Hadapsar Gadital To Kothrud Depot,,0,,3430,,,VJR3/1,1,1,VJR3 - Hadapsar Gadital To Kothrud Depot,vjr3-hadapsar-gadital-to-kothrud-depot
+VJR3,1,NORMAL_VJR3_Kothrud Depot To Hadapsar Gadital_Up-0650_0,Kothrud Depot To Hadapsar Gadital,,0,,4353,,,VJR3/1,2,2,VJR3 - Kothrud Depot To Hadapsar Gadital,vjr3-kothrud-depot-to-hadapsar-gadital
+358,1,NORMAL_358_Bhosari To Rajgurunagar_Up-1630_0,Bhosari To Rajgurunagar,,0,,3817,,,358/12,7,1,358 - Bhosari To Rajgurunagar,358-bhosari-to-rajgurunagar
+358,1,NORMAL_358_Rajgurunagar To Bhosari_Down-1750_0,Rajgurunagar To Bhosari,,0,,3818,,,358/12,8,2,358 - Rajgurunagar To Bhosari,358-rajgurunagar-to-bhosari
+84,1,NORMAL_84_Ganpati Matha To Deccan Gymkhana_Down-1125_0,Ganpati Matha To Deccan Gymkhana,,1,,5091,,,84/5,5,5,84 - Ganpati Matha To Deccan Gymkhana,84-ganpati-matha-to-deccan-gymkhana
+84,1,NORMAL_84_Deccan Gymkhana To Ganpati Matha_Up-1625_0,Deccan Gymkhana To Ganpati Matha,,1,,5090,,,84/5,6,1,84 - Deccan Gymkhana To Ganpati Matha,84-deccan-gymkhana-to-ganpati-matha
+362A,1,NORMAL_362A_Alandi To YCM Hospital (Via Moshi)_Down-0700_0,Alandi To YCM Hospital (Via Moshi),,0,,4006,,,362/1,2,2,362A - Alandi To YCM Hospital (Via Moshi),362a-alandi-to-ycm-hospital-via-moshi
+362A,1,NORMAL_362A_YCM Hospital To Alandi (Via Moshi)_Up-0745_0,YCM Hospital To Alandi (Via Moshi),,0,,4004,,,362/1,3,3,362A - YCM Hospital To Alandi (Via Moshi),362a-ycm-hospital-to-alandi-via-moshi
+126C,1,NORMAL_126C_Pimplenilakh To Khadki Bazar_Up-1320_0,Pimplenilakh To Khadki Bazar,,1,,5175,,,126/1,9,9,126C - Pimplenilakh To Khadki Bazar,126c-pimplenilakh-to-khadki-bazar
+313,1,NORMAL_313_Pimpri Depot To Chinchwadgaon_Up-0510_0,Pimpri Depot To Chinchwadgaon,,1,,4328,,,313/1,1,1,313 - Pimpri Depot To Chinchwadgaon,313-pimpri-depot-to-chinchwadgaon
+313,1,NORMAL_313_Chinchwadgaon To Chandkhed_Up-0530_0,Chinchwadgaon To Chandkhed,,0,,4364,,,313/1,2,2,313 - Chinchwadgaon To Chandkhed,313-chinchwadgaon-to-chandkhed
+313,1,NORMAL_313_Chandkhed To Chinchwadgaon_Down-0620_0,Chandkhed To Chinchwadgaon,,0,,4065,,,313/1,3,3,313 - Chandkhed To Chinchwadgaon,313-chandkhed-to-chinchwadgaon
+368_54,1,NORMAL_368_Nigdi To Kamshet_Up-0510_0,Nigdi To Kamshet,,1,,4934,,,368/1,1,1,368_54 - Nigdi To Kamshet,368-54-nigdi-to-kamshet
+122,1,NORMAL_122_Chinchwadgaon To Ma Na Pa_Down-1425_0,Chinchwadgaon To Ma Na Pa,,0,,4818,,,122/3,10,1,122 - Chinchwadgaon To Ma Na Pa,122-chinchwadgaon-to-ma-na-pa
+122,1,NORMAL_122_Ma Na Pa To Chinchwadgaon_Up-1530_0,Ma Na Pa To Chinchwadgaon,,0,,4817,,,122/3,11,2,122 - Ma Na Pa To Chinchwadgaon,122-ma-na-pa-to-chinchwadgaon
+57,1,NORMAL_57_Vadgaon Bk To Pune Station_Down-2050_0,Vadgaon Bk To Pune Station,,0,,4339,,,57/1,14,6,57 - Vadgaon Bk To Pune Station,57-vadgaon-bk-to-pune-station
+192,1,NORMAL_192_Vadachiwadi To Hadapsar Gadital_Down-1715_0,Vadachiwadi To Hadapsar Gadital,,1,,4681,,,192/2,16,4,192 - Vadachiwadi To Hadapsar Gadital,192-vadachiwadi-to-hadapsar-gadital
+88,1,NORMAL_88_Hinjawadi Maan Phase 3 To Swargate_Down-0805_0,Hinjawadi Maan Phase 3 To Swargate,,1,,4987,,,88/2,2,2,88 - Hinjawadi Maan Phase 3 To Swargate,88-hinjawadi-maan-phase-3-to-swargate
+88,1,NORMAL_88_Swargate To Hinjawadi Maan Phase 3_Up-1015_0,Swargate To Hinjawadi Maan Phase 3,,1,,4986,,,88/2,3,3,88 - Swargate To Hinjawadi Maan Phase 3,88-swargate-to-hinjawadi-maan-phase-3
+304,1,NORMAL_304_Gavhanevasti Bhosari To Chinchwadgaon_Down-2120_0,Gavhanevasti Bhosari To Chinchwadgaon,,0,,4055,,,304/1,23,11,304 - Gavhanevasti Bhosari To Chinchwadgaon,304-gavhanevasti-bhosari-to-chinchwadgaon
+338,1,NORMAL_338_Sawtamali Mandir Chikhli To Ma Na Pa Main Bus Stand_Down-2115_0,Sawtamali Mandir Chikhli To Ma Na Pa Main Bus Stand,,1,,4928,,,338/1,12,6,338 - Sawtamali Mandir Chikhli To Ma Na Pa Main Bus Stand,338-sawtamali-mandir-chikhli-to-ma-na-pa-main-bus-stand
+76,1,NORMAL_76_Swargate To Kumbare Park_Down-1900_0,Swargate To Kumbare Park,,1,,5121,,,76/1,8,4,76 - Swargate To Kumbare Park,76-swargate-to-kumbare-park
+362,1,NORMAL_362_YCM Hospital To Alandi_Down-0620_0,YCM Hospital To Alandi,,0,,4003,,,362/1,1,1,362 - YCM Hospital To Alandi,362-ycm-hospital-to-alandi
+362,1,NORMAL_362_Alandi To YCM Hospital_Up-0840_0,Alandi To YCM Hospital,,0,,4002,,,362/1,4,4,362 - Alandi To YCM Hospital,362-alandi-to-ycm-hospital
+301,1,NORMAL_301_Shewalwadi To Katraj_Down-0525_0,Shewalwadi To Katraj,,0,,4349,,,301/1,1,1,301 - Shewalwadi To Katraj,301-shewalwadi-to-katraj
+301,1,NORMAL_301_Katraj To Shewalwadi_Up-0630_0,Katraj To Shewalwadi,,0,,4348,,,301/1,2,2,301 - Katraj To Shewalwadi,301-katraj-to-shewalwadi
+322,1,NORMAL_322_Akurdi Railway Station To Ma Na Pa River Side_Down-0905_0,Akurdi Railway Station To Ma Na Pa River Side,,1,,5134,,,322/5,3,3,322 - Akurdi Railway Station To Ma Na Pa River Side,322-akurdi-railway-station-to-ma-na-pa-river-side
+322,1,NORMAL_322_Ma Na Pa River Side To Akurdi Railway Station_Up-1030_0,Ma Na Pa River Side To Akurdi Railway Station,,1,,5133,,,322/5,4,4,322 - Ma Na Pa River Side To Akurdi Railway Station,322-ma-na-pa-river-side-to-akurdi-railway-station
+70,1,NORMAL_70_Deccan Gymkhana To Sheregaon_Up-0835_0,Deccan Gymkhana To Sheregaon,,0,,3601,,,70/1,3,3,70 - Deccan Gymkhana To Sheregaon,70-deccan-gymkhana-to-sheregaon
+70,1,NORMAL_70_Sheregaon To Deccan Gymkhana_Down-1010_0,Sheregaon To Deccan Gymkhana,,0,,3602,,,70/1,4,4,70 - Sheregaon To Deccan Gymkhana,70-sheregaon-to-deccan-gymkhana
+70C,1,NORMAL_70C_Sheregaon To Kothrud Depot_Down-2010_0,Sheregaon To Kothrud Depot,,1,,3611,,,70/1,10,4,70C - Sheregaon To Kothrud Depot,70c-sheregaon-to-kothrud-depot
+109,1,NORMAL_109_Ma Na Pa To Ma Na Pa_Round-0745_0,Ma Na Pa To Ma Na Pa,,0,,3488,,,109/4,1,1,109 - Ma Na Pa To Ma Na Pa,109-ma-na-pa-to-ma-na-pa
+155,1,NORMAL_155_Lohgaon To Pune Station (Via Dhanori)_Down-0635_0,Lohgaon To Pune Station (Via Dhanori),,0,,3881,,,174/11,2,2,155 - Lohgaon To Pune Station (Via Dhanori),155-lohgaon-to-pune-station-via-dhanori
+143,1,NORMAL_143_Galinde Path To Pune Station (Vai Mhatre Pul)_Up-2145_0,Galinde Path To Pune Station (Vai Mhatre Pul),,0,,2670,,,143/2,13,5,143 - Galinde Path To Pune Station (Vai Mhatre Pul),143-galinde-path-to-pune-station-vai-mhatre-pul
+58,1,NORMAL_58_Shanipar To Gokhalenagar_Up-0540_0,Shanipar To Gokhalenagar,,0,,3581,,,58/1,1,1,58 - Shanipar To Gokhalenagar,58-shanipar-to-gokhalenagar
+58,1,NORMAL_58_Gokhalenagar To Shanipar_Down-0610_0,Gokhalenagar To Shanipar,,0,,3582,,,58/1,2,2,58 - Gokhalenagar To Shanipar,58-gokhalenagar-to-shanipar
+2,1,NORMAL_2_Shivaji Nagar To Katraj (Ladies Sp)_Down-1720_0,Shivaji Nagar To Katraj (Ladies Sp),,0,,4491,,,Feb-24,12,4,2 - Shivaji Nagar To Katraj (Ladies Sp),2-shivaji-nagar-to-katraj-ladies-sp
+2,1,NORMAL_2_Katraj To Shivaji Nagar (Ladies Sp)_Up-1815_0,Katraj To Shivaji Nagar (Ladies Sp),,0,,4490,,,Feb-24,13,5,2 - Katraj To Shivaji Nagar (Ladies Sp),2-katraj-to-shivaji-nagar-ladies-sp
+186A,1,NORMAL_186A_Swargate To Jspm College_Down-1440_0,Swargate To Jspm College,,1,,3783,,,186/2,9,1,186A - Swargate To Jspm College,186a-swargate-to-jspm-college
+186A,1,NORMAL_186A_Jspm College To Swargate_Up-1535_0,Jspm College To Swargate,,1,,3784,,,186/2,10,2,186A - Jspm College To Swargate,186a-jspm-college-to-swargate
+24,1,NORMAL_24_Katraj To Maharashtra Housing Board Samtanagar_Up-0535_0,Katraj To Maharashtra Housing Board Samtanagar,,0,,4473,,,24/24,1,1,24 - Katraj To Maharashtra Housing Board Samtanagar,24-katraj-to-maharashtra-housing-board-samtanagar
+24,1,NORMAL_24_Maharashtra Housing Board Samtanagar To Katraj_Down-0650_0,Maharashtra Housing Board Samtanagar To Katraj,,0,,4474,,,24/24,2,2,24 - Maharashtra Housing Board Samtanagar To Katraj,24-maharashtra-housing-board-samtanagar-to-katraj
+24,1,NORMAL_24_Katraj To Maharashtra Housing Board Samtanagar (Ladies Sp)_Up-0805_0,Katraj To Maharashtra Housing Board Samtanagar (Ladies Sp),,1,,4498,,,24/24,3,3,24 - Katraj To Maharashtra Housing Board Samtanagar (Ladies Sp),24-katraj-to-maharashtra-housing-board-samtanagar-ladies-sp
+24,1,NORMAL_24_Maharashtra Housing Board Samtanagar To Katraj (Ladies Sp)_Down-0925_0,Maharashtra Housing Board Samtanagar To Katraj (Ladies Sp),,1,,4508,,,24/24,4,4,24 - Maharashtra Housing Board Samtanagar To Katraj (Ladies Sp),24-maharashtra-housing-board-samtanagar-to-katraj-ladies-sp
+125,1,NORMAL_125_Bopkhel To Vasantdada Putala Sangvi_Up-0605_0,Bopkhel To Vasantdada Putala Sangvi,,1,,5104,,,125/1,2,2,125 - Bopkhel To Vasantdada Putala Sangvi,125-bopkhel-to-vasantdada-putala-sangvi
+311,1,NORMAL_311_Pimprigaon To Pune Station_Down-2230_0,Pimprigaon To Pune Station,,0,,4860,,,311/2,12,5,311 - Pimprigaon To Pune Station,311-pimprigaon-to-pune-station
+125,1,NORMAL_125_Bopkhel To Khadki Bazar_Up-1625_0,Bopkhel To Khadki Bazar,,1,,5102,,,125/3,12,2,125 - Bopkhel To Khadki Bazar,125-bopkhel-to-khadki-bazar
+125,1,NORMAL_125_Khadki Bazar To Bopkhel_Down-1715_0,Khadki Bazar To Bopkhel,,1,,5103,,,125/3,13,3,125 - Khadki Bazar To Bopkhel,125-khadki-bazar-to-bopkhel
+97,1,NORMAL_97_Warje Malwadi To Sahkarnagar_Up-1130_0,Warje Malwadi To Sahkarnagar,,0,,3473,,,97/2,3,3,97 - Warje Malwadi To Sahkarnagar,97-warje-malwadi-to-sahkarnagar
+97,1,NORMAL_97_Sahkarnagar To Warje Malwadi_Down-1245_0,Sahkarnagar To Warje Malwadi,,0,,3474,,,97/2,4,4,97 - Sahkarnagar To Warje Malwadi,97-sahkarnagar-to-warje-malwadi
+376,1,NORMAL_376_Warje Malwadi To Bhakti Shakti_Up-2100_0,Warje Malwadi To Bhakti Shakti,,1,,4804,,,376/9,8,4,376 - Warje Malwadi To Bhakti Shakti,376-warje-malwadi-to-bhakti-shakti
+21,1,NORMAL_21_Swargate To Vasantdada Putala Sangvi_Up-0520_0,Swargate To Vasantdada Putala Sangvi,,0,,2616,,,21-Jan,1,1,21 - Swargate To Vasantdada Putala Sangvi,21-swargate-to-vasantdada-putala-sangvi
+21,1,NORMAL_21_Vasantdada Putala Sangvi To Swargate_Down-0605_0,Vasantdada Putala Sangvi To Swargate,,0,,2377,,,21-Jan,2,2,21 - Vasantdada Putala Sangvi To Swargate,21-vasantdada-putala-sangvi-to-swargate
+13,1,NORMAL_13_Upper Depot To Shivajinagar_Up-2045_0,Upper Depot To Shivajinagar,,0,,3394,,,13-Mar,15,7,13 - Upper Depot To Shivajinagar,13-upper-depot-to-shivajinagar
+13,1,NORMAL_13_Shivajinagar To Upper Depot_Down-0005_0,Shivajinagar To Upper Depot,,0,,3396,,,13-Aug,16,8,13 - Shivajinagar To Upper Depot,13-shivajinagar-to-upper-depot
+363,1,NORMAL_363_Nigdi To Adarshnagar_Up-1145_0,Nigdi To Adarshnagar,,0,,3958,,,363/4,9,9,363 - Nigdi To Adarshnagar,363-nigdi-to-adarshnagar
+363,1,NORMAL_363_Adarshnagar To Nigdi_Down-1220_0,Adarshnagar To Nigdi,,0,,3959,,,363/4,10,10,363 - Adarshnagar To Nigdi,363-adarshnagar-to-nigdi
+158,1,NORMAL_158_Ma Na Pa To Lohgaon_Up-1945_0,Ma Na Pa To Lohgaon,,0,,3884,,,158/5,15,5,158 - Ma Na Pa To Lohgaon,158-ma-na-pa-to-lohgaon
+158,1,NORMAL_158_Lohgaon To Ma Na Pa_Down-2115_0,Lohgaon To Ma Na Pa,,0,,3885,,,158/5,16,6,158 - Lohgaon To Ma Na Pa,158-lohgaon-to-ma-na-pa
+11,1,NORMAL_11_Marketyard To Pimplegurav_Up-0720_0,Marketyard To Pimplegurav,,0,,2356,,,11-Oct,1,1,11 - Marketyard To Pimplegurav,11-marketyard-to-pimplegurav
+126,1,NORMAL_126_Pimplenilakh To Vishrantwadi_Down-1840_0,Pimplenilakh To Vishrantwadi,,0,,3540,,,126/5,11,3,126 - Pimplenilakh To Vishrantwadi,126-pimplenilakh-to-vishrantwadi
+126,1,NORMAL_126_Vishrantwadi To Pimplenilakh_Up-1940_0,Vishrantwadi To Pimplenilakh,,0,,3539,,,126/5,12,4,126 - Vishrantwadi To Pimplenilakh,126-vishrantwadi-to-pimplenilakh
+126D,1,NORMAL_126D_Khadki Bazar To Vishrantwadi_Up-2250_0,Khadki Bazar To Vishrantwadi,,0,,4087,,,126/5,15,7,126D - Khadki Bazar To Vishrantwadi,126d-khadki-bazar-to-vishrantwadi
+100_18,1,NORMAL_100_Ma Na Pa to Hinjawadi Maan Phase 3_Up-1310_0,Ma Na Pa to Hinjawadi Maan Phase 3,,0,,4475,,,100/1,7,1,100_18 - Ma Na Pa to Hinjawadi Maan Phase 3,100-18-ma-na-pa-to-hinjawadi-maan-phase-3
+100_18,1,NORMAL_100_Hinjawadi Maan Phase 3 to Ma Na Pa_Down-0610_0,Hinjawadi Maan Phase 3 to Ma Na Pa,,0,,4476,,,100/1,2,2,100_18 - Hinjawadi Maan Phase 3 to Ma Na Pa,100-18-hinjawadi-maan-phase-3-to-ma-na-pa
+139,1,NORMAL_139_Bhekrai nagar To Nigdi_Up-0805_0,Bhekrai nagar To Nigdi,,0,,4855,,,139/9,2,2,139 - Bhekrai nagar To Nigdi,139-bhekrai-nagar-to-nigdi
+139,1,NORMAL_139_Nigdi To Bhekrai nagar_Down-1000_0,Nigdi To Bhekrai nagar,,0,,4854,,,139/9,3,3,139 - Nigdi To Bhekrai nagar,139-nigdi-to-bhekrai-nagar
+185,1,NORMAL_185_Hadapsar Gadital To Wagholi Kesnand_Up-0545_0,Hadapsar Gadital To Wagholi Kesnand,,1,,4659,,,185/3,1,1,185 - Hadapsar Gadital To Wagholi Kesnand,185-hadapsar-gadital-to-wagholi-kesnand
+336,1,NORMAL_336_Kesnand Phata To Bhakti Shakti_Up-1330_0,Kesnand Phata To Bhakti Shakti,,0,,4857,,,336/6,5,5,336 - Kesnand Phata To Bhakti Shakti,336-kesnand-phata-to-bhakti-shakti
+336,1,NORMAL_336_Bhakti Shakti To Kesnand Phata_Down-1535_0,Bhakti Shakti To Kesnand Phata,,0,,4827,,,336/6,6,1,336 - Bhakti Shakti To Kesnand Phata,336-bhakti-shakti-to-kesnand-phata
+103,1,NORMAL_103_Katraj To Kothrud Depot_Up-0735_0,Katraj To Kothrud Depot,,0,,3481,,,103/7,3,3,103 - Katraj To Kothrud Depot,103-katraj-to-kothrud-depot
+103,1,NORMAL_103_Kothrud Depot To Katraj_Down-0835_0,Kothrud Depot To Katraj,,0,,3479,,,103/7,4,4,103 - Kothrud Depot To Katraj,103-kothrud-depot-to-katraj
+185,1,NORMAL_185_Wagholi Kesnand To Hadapsar Gadital_Down-1225_0,Wagholi Kesnand To Hadapsar Gadital,,1,,4660,,,185/5,8,8,185 - Wagholi Kesnand To Hadapsar Gadital,185-wagholi-kesnand-to-hadapsar-gadital
+2I,1,NORMAL_2I_Pune Vidhyapeeth To Katraj_Down-1030_0,Pune Vidhyapeeth To Katraj,,0,,3484,,,02-Nov,6,6,2I - Pune Vidhyapeeth To Katraj,2i-pune-vidhyapeeth-to-katraj
+2I,1,NORMAL_2I_Katraj To Pune Vidhyapeeth_Up-1650_0,Katraj To Pune Vidhyapeeth,,0,,3480,,,02-Nov,9,1,2I - Katraj To Pune Vidhyapeeth,2i-katraj-to-pune-vidhyapeeth
+103M,1,NORMAL_103M_MIT College To Katraj_Down-0655_0,MIT College To Katraj,,0,,3808,,,103/9,2,2,103M - MIT College To Katraj,103m-mit-college-to-katraj
+VJR4,1,NORMAL_VJR4_Kothrud Depot To Vishrantwadi_Up-0910_0,Kothrud Depot To Vishrantwadi,,0,,3302,,,VJR4/13,3,3,VJR4 - Kothrud Depot To Vishrantwadi,vjr4-kothrud-depot-to-vishrantwadi
+2L,1,NORMAL_2L_Katraj To Narhegaon_Down-0750_0,Katraj To Narhegaon,,0,,3475,,,Feb-20,1,1,2L - Katraj To Narhegaon,2l-katraj-to-narhegaon
+2,1,NORMAL_2_Naregaon To Shivaji Nagar_Up-0805_0,Naregaon To Shivaji Nagar,,0,,2199,,,Feb-20,2,2,2 - Naregaon To Shivaji Nagar,2-naregaon-to-shivaji-nagar
+2,1,NORMAL_2_Shivaji Nagar To Naregaon_Down-0905_0,Shivaji Nagar To Naregaon,,0,,2903,,,Feb-20,3,3,2 - Shivaji Nagar To Naregaon,2-shivaji-nagar-to-naregaon
+2L,1,NORMAL_2L_Narhegaon To Katraj_Up-1520_0,Narhegaon To Katraj,,0,,3678,,,Feb-20,8,8,2L - Narhegaon To Katraj,2l-narhegaon-to-katraj
+VJR4,1,NORMAL_VJR4_Vishrantwadi To Kothrud Depot_Down-0930_0,Vishrantwadi To Kothrud Depot,,0,,3304,,,VJR4/7,4,4,VJR4 - Vishrantwadi To Kothrud Depot,vjr4-vishrantwadi-to-kothrud-depot
+214,1,NORMAL_214_Katraj To Sinhgad Collage_Up-0715_0,Katraj To Sinhgad Collage,,1,,4850,,,214/1,1,1,214 - Katraj To Sinhgad Collage,214-katraj-to-sinhgad-collage
+214,1,NORMAL_214_Sinhgad Collage To Katraj_Down-0740_0,Sinhgad Collage To Katraj,,1,,4851,,,214/1,2,2,214 - Sinhgad Collage To Katraj,214-sinhgad-collage-to-katraj
+2H,1,NORMAL_2H_Shivajinagar To Sachchai Mata Mandir_Up-1620_0,Shivajinagar To Sachchai Mata Mandir,,0,,3497,,,02-Dec,7,1,2H - Shivajinagar To Sachchai Mata Mandir,2h-shivajinagar-to-sachchai-mata-mandir
+143,1,NORMAL_143_Pune Station To Galinde Path (Vai Mhatre Pul)_Down-0800_0,Pune Station To Galinde Path (Vai Mhatre Pul),,0,,2724,,,143/7,2,2,143 - Pune Station To Galinde Path (Vai Mhatre Pul),143-pune-station-to-galinde-path-vai-mhatre-pul
+205,1,NORMAL_205_Hadapsar Gadital To Vasantdada Putala Sangvi_Up-0600_0,Hadapsar Gadital To Vasantdada Putala Sangvi,,0,,3661,,,205/2,1,1,205 - Hadapsar Gadital To Vasantdada Putala Sangvi,205-hadapsar-gadital-to-vasantdada-putala-sangvi
+205,1,NORMAL_205_Vasantdada Putala Sangvi To Hadapsar Gadital_Down-0710_0,Vasantdada Putala Sangvi To Hadapsar Gadital,,0,,3663,,,205/2,2,2,205 - Vasantdada Putala Sangvi To Hadapsar Gadital,205-vasantdada-putala-sangvi-to-hadapsar-gadital
+VJR5,1,NORMAL_VJR5_Mukai Chowk To Ma Na Pa_Down-1835_0,Mukai Chowk To Ma Na Pa,,0,,3293,,,VJR5/5,10,4,VJR5 - Mukai Chowk To Ma Na Pa,vjr5-mukai-chowk-to-ma-na-pa
+VJR5,1,NORMAL_VJR5_Ma Na Pa To Mukai Chowk_Up-2020_0,Ma Na Pa To Mukai Chowk,,0,,3290,,,VJR5/8,10,4,VJR5 - Ma Na Pa To Mukai Chowk,vjr5-ma-na-pa-to-mukai-chowk
+149,1,NORMAL_149_Shewalwadi To Bhakti Shakti_Up-0955_0,Shewalwadi To Bhakti Shakti,,0,,4629,,,149/17,3,3,149 - Shewalwadi To Bhakti Shakti,149-shewalwadi-to-bhakti-shakti
+14,1,NORMAL_14_Dhayari Maruti Mandir To Kesnand Phata_Up-1515_0,Dhayari Maruti Mandir To Kesnand Phata,,0,,3355,,,14-Mar,6,1,14 - Dhayari Maruti Mandir To Kesnand Phata,14-dhayari-maruti-mandir-to-kesnand-phata
+303,1,NORMAL_303_Nigdi To Akurdi Railway Station_Up-0945_0,Nigdi To Akurdi Railway Station,,0,,4013,,,303/1,9,9,303 - Nigdi To Akurdi Railway Station,303-nigdi-to-akurdi-railway-station
+303,1,NORMAL_303_Akurdi Railway Station To Nigdi_Down-1015_0,Akurdi Railway Station To Nigdi,,0,,4014,,,303/1,10,10,303 - Akurdi Railway Station To Nigdi,303-akurdi-railway-station-to-nigdi
+133,1,NORMAL_133_Ma Na Pa Dengle Pul 2 To Sainathnagar Coloumbia Hospital_Up-1115_0,Ma Na Pa Dengle Pul 2 To Sainathnagar Coloumbia Hospital,,1,,4583,,,133/7,7,7,133 - Ma Na Pa Dengle Pul 2 To Sainathnagar Coloumbia Hospital,133-ma-na-pa-dengle-pul-2-to-sainathnagar-coloumbia-hospital
+148,1,NORMAL_148_Shewalwadi To Pimple Gurav_Up-1225_0,Shewalwadi To Pimple Gurav,,1,,3878,,,148/3,5,5,148 - Shewalwadi To Pimple Gurav,148-shewalwadi-to-pimple-gurav
+148,1,NORMAL_148_Pimple Gurav To Shewalwadi_Down-1355_0,Pimple Gurav To Shewalwadi,,1,,3879,,,148/3,6,6,148 - Pimple Gurav To Shewalwadi,148-pimple-gurav-to-shewalwadi
+11,1,NORMAL_11_Pimplegurav To Marketyard_Down-1805_0,Pimplegurav To Marketyard,,0,,2924,,,11-Jan,10,4,11 - Pimplegurav To Marketyard,11-pimplegurav-to-marketyard
+309,1,NORMAL_309_Alandi To Dehugaon_Up-1715_0,Alandi To Dehugaon,,0,,3757,,,309/6,12,2,309 - Alandi To Dehugaon,309-alandi-to-dehugaon
+43,1,NORMAL_43_Balewadi Depo To Dange Chowk_Up-0625_0,Balewadi Depo To Dange Chowk,,1,,5005,,,43/29,1,1,43 - Balewadi Depo To Dange Chowk,43-balewadi-depo-to-dange-chowk
+43,1,NORMAL_43_Dange Chowk To Katraj Via Chandani Chowk_Down-0645_0,Dange Chowk To Katraj Via Chandani Chowk,,1,,5004,,,43/29,2,2,43 - Dange Chowk To Katraj Via Chandani Chowk,43-dange-chowk-to-katraj-via-chandani-chowk
+43,1,NORMAL_43_Katraj To Dange Chowk Via Chandani Chowk_Up-0805_0,Katraj To Dange Chowk Via Chandani Chowk,,1,,5003,,,43/29,3,3,43 - Katraj To Dange Chowk Via Chandani Chowk,43-katraj-to-dange-chowk-via-chandani-chowk
+43,1,NORMAL_43_Dange Chowk To Balewadi Depo_Down-1920_0,Dange Chowk To Balewadi Depo,,1,,5006,,,43/29,10,4,43 - Dange Chowk To Balewadi Depo,43-dange-chowk-to-balewadi-depo
+47A,1,NORMAL_47A_Vadgaon Bk To Shaniwarwada Stand_Down-2340_0,Vadgaon Bk To Shaniwarwada Stand,,0,,2646,,,50/5,12,6,47A - Vadgaon Bk To Shaniwarwada Stand,47a-vadgaon-bk-to-shaniwarwada-stand
+208,1,NORMAL_208_Hinjawadi Maan Phase 3 To Hadapsar Gadital_Down-2350_0,Hinjawadi Maan Phase 3 To Hadapsar Gadital,,0,,3943,,,208/5,8,4,208 - Hinjawadi Maan Phase 3 To Hadapsar Gadital,208-hinjawadi-maan-phase-3-to-hadapsar-gadital
+208,1,NORMAL_208_Hadapsar Gadital To Hinjawadi Maan Phase 3_Up-0800_0,Hadapsar Gadital To Hinjawadi Maan Phase 3,,0,,3940,,,208/7,1,1,208 - Hadapsar Gadital To Hinjawadi Maan Phase 3,208-hadapsar-gadital-to-hinjawadi-maan-phase-3
+298,1,NORMAL_298_Katraj To Chinchwad Gaon_Up-1535_0,Katraj To Chinchwad Gaon,,0,,3310,,,298/9,5,1,298 - Katraj To Chinchwad Gaon,298-katraj-to-chinchwad-gaon
+33,1,NORMAL_33_Taljai Pathar To Na Ta Wadi_Up-1045_1,Taljai Pathar To Na Ta Wadi,,0,,2275,,,33/4,5,5,33 - Taljai Pathar To Na Ta Wadi,33-taljai-pathar-to-na-ta-wadi
+33,1,NORMAL_33_Na Ta Wadi To Taljai Pathar_Down-1130_0,Na Ta Wadi To Taljai Pathar,,0,,2928,,,33/4,6,6,33 - Na Ta Wadi To Taljai Pathar,33-na-ta-wadi-to-taljai-pathar
+117A,1,NORMAL_117A_Swargate To DSK Vishwa_Up-1340_0,Swargate To DSK Vishwa,,0,,3795,,,117/14,9,9,117A - Swargate To DSK Vishwa,117a-swargate-to-dsk-vishwa
+117A,1,NORMAL_117A_DSK Vishwa To Swargate_Down-1430_0,DSK Vishwa To Swargate,,0,,3797,,,117/14,10,10,117A - DSK Vishwa To Swargate,117a-dsk-vishwa-to-swargate
+351,1,NORMAL_351_Jambe To Alandi_Down-1600_0,Jambe To Alandi,,0,,4916,,,351/1,8,2,351 - Jambe To Alandi,351-jambe-to-alandi
+78,1,NORMAL_78_NDA 10 No Gate Bus Stand To Marketyard_Down-1800_0,NDA 10 No Gate Bus Stand To Marketyard,,1,,4889,,,78/3,8,2,78 - NDA 10 No Gate Bus Stand To Marketyard,78-nda-10-no-gate-bus-stand-to-marketyard
+78,1,NORMAL_78_Marketyard To NDA 10 No Gate Bus Stand_Up-2030_0,Marketyard To NDA 10 No Gate Bus Stand,,1,,4888,,,78/3,9,3,78 - Marketyard To NDA 10 No Gate Bus Stand,78-marketyard-to-nda-10-no-gate-bus-stand
+162,1,NORMAL_162_Pune Station To Kendurgaon_Up-0500_0,Pune Station To Kendurgaon,,0,,3967,,,162/1,1,1,162 - Pune Station To Kendurgaon,162-pune-station-to-kendurgaon
+162,1,NORMAL_162_Kendurgaon To Pune Station_Down-0625_0,Kendurgaon To Pune Station,,0,,3980,,,162/1,2,2,162 - Kendurgaon To Pune Station,162-kendurgaon-to-pune-station
+351,1,NORMAL_351_Alandi To Jambe_Up-1805_0,Alandi To Jambe,,0,,4915,,,351/1,9,3,351 - Alandi To Jambe,351-alandi-to-jambe
+374_81,1,NORMAL_374_Nigdi To Sai Nagar_Up-1510_0,Nigdi To Sai Nagar,,1,,4293,,,374/1,13,3,374_81 - Nigdi To Sai Nagar,374-81-nigdi-to-sai-nagar
+374_81,1,NORMAL_374_Sai Nagar To Nigdi_Down-0705_0,Sai Nagar To Nigdi,,1,,4244,,,374/2,2,2,374_81 - Sai Nagar To Nigdi,374-81-sai-nagar-to-nigdi
+82,1,NORMAL_82_Ganpati Matha To Ma Na Pa To Ganpati Matha_Round-0800_0,Ganpati Matha To Ma Na Pa To Ganpati Matha,,1,,5117,,,82/18,1,1,82 - Ganpati Matha To Ma Na Pa To Ganpati Matha,82-ganpati-matha-to-ma-na-pa-to-ganpati-matha
+111,1,NORMAL_111_Bhekrainagar To Ma Na Pa (Ladies Sp)_Up-0805_0,Bhekrainagar To Ma Na Pa (Ladies Sp),,1,,4484,,,111/13,1,1,111 - Bhekrainagar To Ma Na Pa (Ladies Sp),111-bhekrainagar-to-ma-na-pa-ladies-sp
+111,1,NORMAL_111_Ma Na Pa To Bhekrainagar (Ladies Sp)_Down-0920_0,Ma Na Pa To Bhekrainagar (Ladies Sp),,1,,4489,,,111/13,2,2,111 - Ma Na Pa To Bhekrainagar (Ladies Sp),111-ma-na-pa-to-bhekrainagar-ladies-sp
+111,1,NORMAL_111_Bhekrainagar To Ma Na Pa_Up-1035_0,Bhekrainagar To Ma Na Pa,,0,,3492,,,111/13,3,3,111 - Bhekrainagar To Ma Na Pa,111-bhekrainagar-to-ma-na-pa
+78A,1,NORMAL_78A_Marketyard To Warje Malwadi_Up-1235_0,Marketyard To Warje Malwadi,,0,,2585,,,78/2,5,5,78A - Marketyard To Warje Malwadi,78a-marketyard-to-warje-malwadi
+203,1,NORMAL_203_Bhekarai Depot To Pune station_Up-0620_0,Bhekarai Depot To Pune station,,1,,4351,,,203/3,1,1,203 - Bhekarai Depot To Pune station,203-bhekarai-depot-to-pune-station
+203,1,NORMAL_203_Pune Station To Bhekarai Depot_Down-0710_0,Pune Station To Bhekarai Depot,,1,,4352,,,203/3,2,2,203 - Pune Station To Bhekarai Depot,203-pune-station-to-bhekarai-depot
+VJR1,1,NORMAL_VJR1_Hadapsar Gadital To Dhayari Maruti Mandir_Up-1940_0,Hadapsar Gadital To Dhayari Maruti Mandir,,0,,4359,,,VJR1/3,9,3,VJR1 - Hadapsar Gadital To Dhayari Maruti Mandir,vjr1-hadapsar-gadital-to-dhayari-maruti-mandir
+VJR1,1,NORMAL_VJR1_Dhayari Maruti Mandir To Hadapsar Gadital_Down-2125_0,Dhayari Maruti Mandir To Hadapsar Gadital,,0,,4365,,,VJR1/3,10,4,VJR1 - Dhayari Maruti Mandir To Hadapsar Gadital,vjr1-dhayari-maruti-mandir-to-hadapsar-gadital
+129,1,NORMAL_129_Balewadi Depot To Pune Station_Down-0655_0,Balewadi Depot To Pune Station,,0,,2217,,,129/1,1,1,129 - Balewadi Depot To Pune Station,129-balewadi-depot-to-pune-station
+129,1,NORMAL_129_Pune Station To Balewadi Depot_Up-0755_0,Pune Station To Balewadi Depot,,0,,2501,,,129/1,2,2,129 - Pune Station To Balewadi Depot,129-pune-station-to-balewadi-depot
+302,1,NORMAL_302_Gavhanevasti Bhosari To Pimprigaon_Down-1155_0,Gavhanevasti Bhosari To Pimprigaon,,0,,4039,,,302/1,12,12,302 - Gavhanevasti Bhosari To Pimprigaon,302-gavhanevasti-bhosari-to-pimprigaon
+302,1,NORMAL_302_Pimprigaon To Gavhanevasti Bhosari_Up-1230_0,Pimprigaon To Gavhanevasti Bhosari,,0,,4038,,,302/1,13,13,302 - Pimprigaon To Gavhanevasti Bhosari,302-pimprigaon-to-gavhanevasti-bhosari
+302A(New),1,NORMAL_302A(New)_Alandi To Pimprigaon_Down-1720_0,Alandi To Pimprigaon,,0,,4041,,,302/5,12,4,302A(New) - Alandi To Pimprigaon,302anew-alandi-to-pimprigaon
+302A(New),1,NORMAL_302A(New)_Pimprigaon To Alandi_Up-1830_0,Pimprigaon To Alandi,,0,,4040,,,302/5,13,5,302A(New) - Pimprigaon To Alandi,302anew-pimprigaon-to-alandi
+302D,1,NORMAL_302D_Pimprigaon To Nehrunagar Depo_Down-2120_0,Pimprigaon To Nehrunagar Depo,,0,,4437,,,302/5,15,7,302D - Pimprigaon To Nehrunagar Depo,302d-pimprigaon-to-nehrunagar-depo
+302B,1,NORMAL_302B_Pimprigaon To Bopkhel_Up-0615_0,Pimprigaon To Bopkhel,,0,,4050,,,302/6,1,1,302B - Pimprigaon To Bopkhel,302b-pimprigaon-to-bopkhel
+302B,1,NORMAL_302B_Bopkhel To Pimprigaon_Down-0705_0,Bopkhel To Pimprigaon,,0,,4051,,,302/6,2,2,302B - Bopkhel To Pimprigaon,302b-bopkhel-to-pimprigaon
+301,1,NORMAL_301_Swargate To Hadapsar Gadital_Up-1600_0,Swargate To Hadapsar Gadital,,1,,5234,,,301/21,7,1,301 - Swargate To Hadapsar Gadital,301-swargate-to-hadapsar-gadital
+301,1,NORMAL_301_Hadapsar Gadital To Swargate_Down-1645_0,Hadapsar Gadital To Swargate,,1,,5235,,,301/21,8,2,301 - Hadapsar Gadital To Swargate,301-hadapsar-gadital-to-swargate
+335A,1,NORMAL_335A_Jambe To Dange Chowk_Down-1820_0,Jambe To Dange Chowk,,0,,3867,,,335/1,20,8,335A - Jambe To Dange Chowk,335a-jambe-to-dange-chowk
+335,1,NORMAL_335_Jambe To Nehrunagar Depot_Down-2115_0,Jambe To Nehrunagar Depot,,1,,3869,,,335/1,24,12,335 - Jambe To Nehrunagar Depot,335-jambe-to-nehrunagar-depot
+335,1,NORMAL_335_Nehrunagar Depot To Nere Dattawadi_Up-0600_0,Nehrunagar Depot To Nere Dattawadi,,1,,5086,,,335/2,1,1,335 - Nehrunagar Depot To Nere Dattawadi,335-nehrunagar-depot-to-nere-dattawadi
+335,1,NORMAL_335_Nere Dattawadi To Dange Chowk_Down-0700_0,Nere Dattawadi To Dange Chowk,,1,,5084,,,335/2,2,2,335 - Nere Dattawadi To Dange Chowk,335-nere-dattawadi-to-dange-chowk
+335,1,NORMAL_335_Dange Chowk To Nere Dattawadi_Up-0750_0,Dange Chowk To Nere Dattawadi,,1,,5083,,,335/2,3,3,335 - Dange Chowk To Nere Dattawadi,335-dange-chowk-to-nere-dattawadi
+203P,1,NORMAL_203P_Pune Station To Shewalwadi_Down-0725_0,Pune Station To Shewalwadi,,0,,4350,,,203/6,2,2,203P - Pune Station To Shewalwadi,203p-pune-station-to-shewalwadi
+203P,1,NORMAL_203P_Shewalwadi To Pune station_Up-0815_0,Shewalwadi To Pune station,,1,,3703,,,203/6,3,3,203P - Shewalwadi To Pune station,203p-shewalwadi-to-pune-station
+180,1,NORMAL_180_Bhekrainagar To Na Ta Wadi_Down-1100_0,Bhekrainagar To Na Ta Wadi,,0,,3639,,,180/7,5,5,180 - Bhekrainagar To Na Ta Wadi,180-bhekrainagar-to-na-ta-wadi
+180,1,NORMAL_180_Na Ta Wadi To Bhekrainagar_Up-1210_0,Na Ta Wadi To Bhekrainagar,,0,,3638,,,180/7,6,6,180 - Na Ta Wadi To Bhekrainagar,180-na-ta-wadi-to-bhekrainagar
+148,1,NORMAL_148_Bhekhrainagar To Pimplegurav_Up-0630_0,Bhekhrainagar To Pimplegurav,,1,,5190,,,148/12,1,1,148 - Bhekhrainagar To Pimplegurav,148-bhekhrainagar-to-pimplegurav
+148,1,NORMAL_148_Pimplegurav To Bhekhrainagar_Down-0720_0,Pimplegurav To Bhekhrainagar,,1,,5191,,,148/12,2,2,148 - Pimplegurav To Bhekhrainagar,148-pimplegurav-to-bhekhrainagar
+323B,4,NORMAL_323B_Nehrunagar Depo To Chikhali_Up-0630_0,Nehrunagar Depo To Chikhali,,0,,3963,,,355/7,1,1,323B - Nehrunagar Depo To Chikhali,323b-nehrunagar-depo-to-chikhali
+355,4,NORMAL_355_Chikhali To Dange Chowk_Down-0700_0,Chikhali To Dange Chowk,,0,,4902,,,355/7,2,2,355 - Chikhali To Dange Chowk,355-chikhali-to-dange-chowk
+355,4,NORMAL_355_Dange Chowk To Chikhali_Up-0740_0,Dange Chowk To Chikhali,,0,,4901,,,355/7,4,3,355 - Dange Chowk To Chikhali,355-dange-chowk-to-chikhali
+355,4,NORMAL_355_Chikhali To Dange Chowk (Ladies Sp)_Down-0825_0,Chikhali To Dange Chowk (Ladies Sp),,1,,5212,,,355/7,5,4,355 - Chikhali To Dange Chowk (Ladies Sp),355-chikhali-to-dange-chowk-ladies-sp
+355,4,NORMAL_355_Dange Chowk To Chikhali (Ladies Sp)_Up-0910_0,Dange Chowk To Chikhali (Ladies Sp),,1,,5211,,,355/7,5,5,355 - Dange Chowk To Chikhali (Ladies Sp),355-dange-chowk-to-chikhali-ladies-sp
+7A,1,NORMAL_7A_Hadapsar Gadital To Uruli Kanchan_Up-1550_0,Hadapsar Gadital To Uruli Kanchan,,0,,4370,,,07-Aug,11,1,7A - Hadapsar Gadital To Uruli Kanchan,7a-hadapsar-gadital-to-uruli-kanchan
+7A,1,NORMAL_7A_Uruli Kanchan To Hadapsar Gadital_Down-1640_0,Uruli Kanchan To Hadapsar Gadital,,0,,4372,,,07-Aug,12,2,7A - Uruli Kanchan To Hadapsar Gadital,7a-uruli-kanchan-to-hadapsar-gadital
+308,1,NORMAL_308_Bhakti Shakti To Gharkul Vasahat Chikhli_Up-1510_0,Bhakti Shakti To Gharkul Vasahat Chikhli,,0,,3753,,,308/2,15,1,308 - Bhakti Shakti To Gharkul Vasahat Chikhli,308-bhakti-shakti-to-gharkul-vasahat-chikhli
+308,1,NORMAL_308_Gharkul Vasahat Chikhli To Bhakti Shakti_Down-1540_0,Gharkul Vasahat Chikhli To Bhakti Shakti,,0,,3755,,,308/2,16,2,308 - Gharkul Vasahat Chikhli To Bhakti Shakti,308-gharkul-vasahat-chikhli-to-bhakti-shakti
+312,1,NORMAL_312_Chinchwadgaon To Pune Station_Down-0615_0,Chinchwadgaon To Pune Station,,0,,4759,,,312/4,1,1,312 - Chinchwadgaon To Pune Station,312-chinchwadgaon-to-pune-station
+291,1,NORMAL_291_Katraj To Hadapsar Gadital_Up-2215_0,Katraj To Hadapsar Gadital,,0,,4029,,,209/7,11,5,291 - Katraj To Hadapsar Gadital,291-katraj-to-hadapsar-gadital
+291,1,NORMAL_291_Hadapsar Gadital To Katraj_Down-2315_0,Hadapsar Gadital To Katraj,,0,,4030,,,209/7,12,6,291 - Hadapsar Gadital To Katraj,291-hadapsar-gadital-to-katraj
+36_47,1,NORMAL_36_Chinchwadgaon To Ma Na Pa_Down-2235_0,Chinchwadgaon To Ma Na Pa,,0,,3309,,,36/3,16,8,36_47 - Chinchwadgaon To Ma Na Pa,36-47-chinchwadgaon-to-ma-na-pa
+204,1,NORMAL_204_Bhekrainagar To Chinchwad Gaon_Up-1145_0,Bhekrainagar To Chinchwad Gaon,,0,,3308,,,204/9,3,3,204 - Bhekrainagar To Chinchwad Gaon,204-bhekrainagar-to-chinchwad-gaon
+256,1,NORMAL_256_Ma Na Pa To Balewadi Depot_Up-2215_0,Ma Na Pa To Balewadi Depot,,0,,3950,,,256/11,16,8,256 - Ma Na Pa To Balewadi Depot,256-ma-na-pa-to-balewadi-depot
+126B,1,NORMAL_126B_Kamalpark To Pimplenilakh_Up-0610_0,Kamalpark To Pimplenilakh,,0,,4085,,,126/1,2,2,126B - Kamalpark To Pimplenilakh,126b-kamalpark-to-pimplenilakh
+20,1,NORMAL_20_Sahakarnagar To Maharashtra Housing Board Samtanagar_Up-0915_0,Sahakarnagar To Maharashtra Housing Board Samtanagar,,1,,4597,,,20-Jan,2,2,20 - Sahakarnagar To Maharashtra Housing Board Samtanagar,20-sahakarnagar-to-maharashtra-housing-board-samtanagar
+380_09,1,NORMAL_380_Bhosari Terminal To Hinjawadi Maan Phase 3_Up-0545_0,Bhosari Terminal To Hinjawadi Maan Phase 3,,1,,4955,,,380/1,1,1,380_09 - Bhosari Terminal To Hinjawadi Maan Phase 3,380-09-bhosari-terminal-to-hinjawadi-maan-phase-3
+380_09,1,NORMAL_380_Hinjawadi Maan Phase 3 To Bhosari Terminal_Down-0705_0,Hinjawadi Maan Phase 3 To Bhosari Terminal,,1,,4956,,,380/1,2,2,380_09 - Hinjawadi Maan Phase 3 To Bhosari Terminal,380-09-hinjawadi-maan-phase-3-to-bhosari-terminal
+165,1,NORMAL_165_Wadgaonsheri To Ma Na Pa_Down-0730_0,Wadgaonsheri To Ma Na Pa,,0,,3180,,,165/13,2,2,165 - Wadgaonsheri To Ma Na Pa,165-wadgaonsheri-to-ma-na-pa
+358,1,NORMAL_358_Bhosari Terminal To Chakan Ambethan Chowk_Up-2105_0,Bhosari Terminal To Chakan Ambethan Chowk,,1,,4963,,,380/1,11,5,358 - Bhosari Terminal To Chakan Ambethan Chowk,358-bhosari-terminal-to-chakan-ambethan-chowk
+128,1,NORMAL_128_Ma Na Pa To Bopkhel_Up-0555_0,Ma Na Pa To Bopkhel,,0,,3541,,,128/1,1,1,128 - Ma Na Pa To Bopkhel,128-ma-na-pa-to-bopkhel
+128,1,NORMAL_128_Bopkhel To Ma Na Pa_Down-0655_0,Bopkhel To Ma Na Pa,,0,,3542,,,128/1,2,2,128 - Bopkhel To Ma Na Pa,128-bopkhel-to-ma-na-pa
+277,1,NORMAL_277_NDA 10 No Gate Bus Stand To Khadki Bazar_Up-0555_0,NDA 10 No Gate Bus Stand To Khadki Bazar,,1,,4895,,,277/1,2,2,277 - NDA 10 No Gate Bus Stand To Khadki Bazar,277-nda-10-no-gate-bus-stand-to-khadki-bazar
+277,1,NORMAL_277_Khadki Bazar To NDA 10 No Gate Bus Stand_Down-0700_0,Khadki Bazar To NDA 10 No Gate Bus Stand,,1,,4897,,,277/1,3,3,277 - Khadki Bazar To NDA 10 No Gate Bus Stand,277-khadki-bazar-to-nda-10-no-gate-bus-stand
+140,1,NORMAL_140_Upper Depot To Pune Station_Up-0530_0,Upper Depot To Pune Station,,0,,3398,,,140/1,1,1,140 - Upper Depot To Pune Station,140-upper-depot-to-pune-station
+140,1,NORMAL_140_Pune Station To Upper Depot_Down-0615_0,Pune Station To Upper Depot,,0,,3399,,,140/1,2,2,140 - Pune Station To Upper Depot,140-pune-station-to-upper-depot
+358,1,NORMAL_358_Chakan Ambethan Chowk To Bhosari Terminal_Down-2155_0,Chakan Ambethan Chowk To Bhosari Terminal,,1,,4964,,,380/1,12,6,358 - Chakan Ambethan Chowk To Bhosari Terminal,358-chakan-ambethan-chowk-to-bhosari-terminal
+367,1,NORMAL_367_Nigdi To Gavhanevasti Bhosari (Ladies Sp)_Up-0805_0,Nigdi To Gavhanevasti Bhosari (Ladies Sp),,1,,5146,,,367/9,3,3,367 - Nigdi To Gavhanevasti Bhosari (Ladies Sp),367-nigdi-to-gavhanevasti-bhosari-ladies-sp
+367,1,NORMAL_367_Gavhanevasti Bhosari To Nigdi (Ladies Sp)_Down-0840_0,Gavhanevasti Bhosari To Nigdi (Ladies Sp),,1,,5147,,,367/9,4,4,367 - Gavhanevasti Bhosari To Nigdi (Ladies Sp),367-gavhanevasti-bhosari-to-nigdi-ladies-sp
+29,1,NORMAL_29_Alandi To Swargate_Down-0615_0,Alandi To Swargate,,0,,3377,,,29-Jan,1,1,29 - Alandi To Swargate,29-alandi-to-swargate
+227,1,NORMAL_227_Marketyard To Marnewadi_Up-0510_0,Marketyard To Marnewadi,,0,,4882,,,227/1,1,1,227 - Marketyard To Marnewadi,227-marketyard-to-marnewadi
+227,1,NORMAL_227_Marnewadi To Marketyard_Down-0650_0,Marnewadi To Marketyard,,0,,4883,,,227/1,2,2,227 - Marnewadi To Marketyard,227-marnewadi-to-marketyard
+320,1,NORMAL_320_Mahalungegaon To Alandi_Down-0600_0,Mahalungegaon To Alandi,,0,,4765,,,320/1,1,1,320 - Mahalungegaon To Alandi,320-mahalungegaon-to-alandi
+320,1,NORMAL_320_Alandi To Mahalungegaon_Up-0715_0,Alandi To Mahalungegaon,,0,,4764,,,320/1,2,2,320 - Alandi To Mahalungegaon,320-alandi-to-mahalungegaon
+320,1,NORMAL_320_Alandi To Bhosari PMT Chowk_Up-2010_0,Alandi To Bhosari PMT Chowk,,1,,4330,,,320/1,10,4,320 - Alandi To Bhosari PMT Chowk,320-alandi-to-bhosari-pmt-chowk
+320,1,NORMAL_320_Bhosari PMT Chowk To Alandi_Down-2040_0,Bhosari PMT Chowk To Alandi,,1,,4331,,,320/1,11,5,320 - Bhosari PMT Chowk To Alandi,320-bhosari-pmt-chowk-to-alandi
+327,1,NORMAL_327_Alandi To Hinjawadi Maan Phase 3_Up-0550_0,Alandi To Hinjawadi Maan Phase 3,,0,,4910,,,327/3,1,1,327 - Alandi To Hinjawadi Maan Phase 3,327-alandi-to-hinjawadi-maan-phase-3
+327,1,NORMAL_327_Hinjawadi Maan Phase 3 To Alandi_Down-0635_0,Hinjawadi Maan Phase 3 To Alandi,,0,,4911,,,327/3,2,2,327 - Hinjawadi Maan Phase 3 To Alandi,327-hinjawadi-maan-phase-3-to-alandi
+5,1,NORMAL_5_Swargate To Pune Station_Up-1010_0,Swargate To Pune Station,,0,,3388,,,05-Feb,8,8,5 - Swargate To Pune Station,5-swargate-to-pune-station
+174A,1,NORMAL_174A_Pune Station To NDA Gol Market_Up-1430_0,Pune Station To NDA Gol Market,,0,,3762,,,174/1,7,1,174A - Pune Station To NDA Gol Market,174a-pune-station-to-nda-gol-market
+174A,1,NORMAL_174A_NDA Golmarket To Pune Station_Down-1610_0,NDA Golmarket To Pune Station,,0,,3764,,,174/1,8,2,174A - NDA Golmarket To Pune Station,174a-nda-golmarket-to-pune-station
+50B,1,NORMAL_50B_Natraj Stand To Sinhgad Paytha_Up-0500_0,Natraj Stand To Sinhgad Paytha,,0,,2450,,,50/1,1,1,50B - Natraj Stand To Sinhgad Paytha,50b-natraj-stand-to-sinhgad-paytha
+50,1,NORMAL_50_Sinhagad To Shaniwarwada_Down-0610_0,Sinhagad To Shaniwarwada,,0,,3564,,,50/1,2,2,50 - Sinhagad To Shaniwarwada,50-sinhagad-to-shaniwarwada
+50,1,NORMAL_50_Shaniwarwada To Sinhagad_Up-0735_0,Shaniwarwada To Sinhagad,,0,,3563,,,50/1,3,3,50 - Shaniwarwada To Sinhagad,50-shaniwarwada-to-sinhagad
+47A,1,NORMAL_47A_Shaniwarwada Stand To Vadgaon Bk_Up-2250_0,Shaniwarwada Stand To Vadgaon Bk,,0,,2402,,,50/5,11,5,47A - Shaniwarwada Stand To Vadgaon Bk,47a-shaniwarwada-stand-to-vadgaon-bk
+337,1,NORMAL_337_Bhakti Shakti To Swargate_Down-0530_0,Bhakti Shakti To Swargate,,1,,4985,,,337/3,1,1,337 - Bhakti Shakti To Swargate,337-bhakti-shakti-to-swargate
+337,1,NORMAL_337_Swargate To Bhakti Shakti_Up-0640_0,Swargate To Bhakti Shakti,,1,,4983,,,337/3,2,2,337 - Swargate To Bhakti Shakti,337-swargate-to-bhakti-shakti
+337,1,NORMAL_337_Bhakti Shakti To Dhayari Maruti Mandir_Down-0500_0,Bhakti Shakti To Dhayari Maruti Mandir,,0,,5000,,,337/1,1,1,337 - Bhakti Shakti To Dhayari Maruti Mandir,337-bhakti-shakti-to-dhayari-maruti-mandir
+337,1,NORMAL_337_Dhayari Maruti Mandir To Bhakti Shakti_Up-0630_0,Dhayari Maruti Mandir To Bhakti Shakti,,0,,4999,,,337/1,2,2,337 - Dhayari Maruti Mandir To Bhakti Shakti,337-dhayari-maruti-mandir-to-bhakti-shakti
+111,1,NORMAL_111_Ma Na Pa To Bhekrainagar_Down-1150_0,Ma Na Pa To Bhekrainagar,,0,,3491,,,111/13,4,4,111 - Ma Na Pa To Bhekrainagar,111-ma-na-pa-to-bhekrainagar
+163,1,NORMAL_163_Kharadi Gaon (Dhole Patil Collage) To Pune Station_Down-0610_0,Kharadi Gaon (Dhole Patil Collage) To Pune Station,,1,,5002,,,163/1,2,2,163 - Kharadi Gaon (Dhole Patil Collage) To Pune Station,163-kharadi-gaon-dhole-patil-collage-to-pune-station
+332,1,NORMAL_332_Pimpri Depot To Pimple Sudagar_Down-0710_0,Pimpri Depot To Pimple Sudagar,,0,,4175,,,332/3,1,1,332 - Pimpri Depot To Pimple Sudagar,332-pimpri-depot-to-pimple-sudagar
+332,1,NORMAL_332_Pimple Sudagar To Ma Na Pa_Down-0735_0,Pimple Sudagar To Ma Na Pa,,0,,3276,,,332/3,2,2,332 - Pimple Sudagar To Ma Na Pa,332-pimple-sudagar-to-ma-na-pa
+332,1,NORMAL_332_Ma Na Pa To Pimple Sudagar_Up-0840_0,Ma Na Pa To Pimple Sudagar,,0,,3274,,,332/3,3,3,332 - Ma Na Pa To Pimple Sudagar,332-ma-na-pa-to-pimple-sudagar
+332,1,NORMAL_332_Pimple Sudagar To Pimpri Depot_Up-1915_0,Pimple Sudagar To Pimpri Depot,,1,,4122,,,332/3,8,3,332 - Pimple Sudagar To Pimpri Depot,332-pimple-sudagar-to-pimpri-depot
+139,1,NORMAL_139_Bhakti Shakti To Shewalwadi_Down-0630_0,Bhakti Shakti To Shewalwadi,,0,,4853,,,139/2,1,1,139 - Bhakti Shakti To Shewalwadi,139-bhakti-shakti-to-shewalwadi
+139,1,NORMAL_139_Shewalwadi To Bhakti Shakti_Up-0820_0,Shewalwadi To Bhakti Shakti,,0,,4852,,,139/2,2,2,139 - Shewalwadi To Bhakti Shakti,139-shewalwadi-to-bhakti-shakti
+140,1,NORMAL_140_Upper Depot To Sangmwadi Phata_Up-0810_0,Upper Depot To Sangmwadi Phata,,1,,5224,,,140/8,3,3,140 - Upper Depot To Sangmwadi Phata,140-upper-depot-to-sangmwadi-phata
+140,1,NORMAL_140_Sangmwadi Phata To Upper Depot_Down-0920_0,Sangmwadi Phata To Upper Depot,,1,,5225,,,140/8,4,4,140 - Sangmwadi Phata To Upper Depot,140-sangmwadi-phata-to-upper-depot
+170,1,NORMAL_170_Pune Station To Kondhwa Bk_Up-0640_0,Pune Station To Kondhwa Bk,,0,,3595,,,170/10,1,1,170 - Pune Station To Kondhwa Bk,170-pune-station-to-kondhwa-bk
+170,1,NORMAL_170_Kondhwa Kh To Pune Station (Ladies Sp)_Down-0725_0,Kondhwa Kh To Pune Station (Ladies Sp),,1,,5161,,,170/10,2,2,170 - Kondhwa Kh To Pune Station (Ladies Sp),170-kondhwa-kh-to-pune-station-ladies-sp
+142,1,NORMAL_142_Pune Station To Ghotawade Phata_Up-0530_0,Pune Station To Ghotawade Phata,,0,,3554,,,142/1,1,1,142 - Pune Station To Ghotawade Phata,142-pune-station-to-ghotawade-phata
+142,1,NORMAL_142_Ghotawade Phata To Pune Station_Down-0655_0,Ghotawade Phata To Pune Station,,0,,3555,,,142/1,2,2,142 - Ghotawade Phata To Pune Station,142-ghotawade-phata-to-pune-station
+152_75,1,NORMAL_152_Dhanori To MNP / KamalPark Via Lohagaon_Down-0650_0,Dhanori To MNP / KamalPark Via Lohagaon,,1,,5243,,,152/2,2,2,152_75 - Dhanori To MNP / KamalPark Via Lohagaon,152-75-dhanori-to-mnp-kamalpark-via-lohagaon
+170,1,NORMAL_170_Kondhwa Bk To Pune Station_Down-1220_0,Kondhwa Bk To Pune Station,,0,,3596,,,170/10,8,8,170 - Kondhwa Bk To Pune Station,170-kondhwa-bk-to-pune-station
+63,1,NORMAL_63_Swargate To Kalyaninagar_Up-0515_0,Swargate To Kalyaninagar,,0,,4701,,,63/1,1,1,63 - Swargate To Kalyaninagar,63-swargate-to-kalyaninagar
+63,1,NORMAL_63_Kalyaninagar To Swargate_Down-0615_0,Kalyaninagar To Swargate,,0,,3586,,,63/1,2,2,63 - Kalyaninagar To Swargate,63-kalyaninagar-to-swargate
+213,1,NORMAL_213_Katraj To Vimananagar_UP-0540_0,Katraj To Vimananagar,,0,,1066,,,213/1,1,1,213 - Katraj To Vimananagar,213-katraj-to-vimananagar
+152_75,1,NORMAL_152_Ma Na Pa To Munjabavasti_Up-0540_0,Ma Na Pa To Munjabavasti,,1,,3384,,,152/1,1,1,152_75 - Ma Na Pa To Munjabavasti,152-75-ma-na-pa-to-munjabavasti
+152_75,1,NORMAL_152_Munjabavasti To Ma Na Pa_Down-0615_0,Munjabavasti To Ma Na Pa,,1,,3383,,,152/1,2,2,152_75 - Munjabavasti To Ma Na Pa,152-75-munjabavasti-to-ma-na-pa
+192,1,NORMAL_192_Undrigaon To Hadapsar Gadital_Down-2210_0,Undrigaon To Hadapsar Gadital,,0,,4542,,,192/2,22,10,192 - Undrigaon To Hadapsar Gadital,192-undrigaon-to-hadapsar-gadital
+170,1,NORMAL_170_Pune Station To Kondhwa Kh (Ladies Sp)_Up-1750_0,Pune Station To Kondhwa Kh (Ladies Sp),,1,,5160,,,170/7,15,5,170 - Pune Station To Kondhwa Kh (Ladies Sp),170-pune-station-to-kondhwa-kh-ladies-sp
+368_54,1,NORMAL_368_Kamshet To Nigdi_Down-0625_0,Kamshet To Nigdi,,1,,4935,,,368/1,2,2,368_54 - Kamshet To Nigdi,368-54-kamshet-to-nigdi
+313A,1,NORMAL_313A_Chinchwadgaon To Kasarsai Karkhana_Up-1740_0,Chinchwadgaon To Kasarsai Karkhana,,0,,4066,,,313/1,12,5,313A - Chinchwadgaon To Kasarsai Karkhana,313a-chinchwadgaon-to-kasarsai-karkhana
+313A,1,NORMAL_313A_Kasarsai Karkhana To Chinchwadgaon_Down-1925_0,Kasarsai Karkhana To Chinchwadgaon,,0,,4067,,,313/1,13,6,313A - Kasarsai Karkhana To Chinchwadgaon,313a-kasarsai-karkhana-to-chinchwadgaon
+152_75,1,NORMAL_152_Ma Na Pa To D Y Patil Vidhyapeeth World Pride City Lohgaon_Up-0705_0,Ma Na Pa To D Y Patil Vidhyapeeth World Pride City Lohgaon,,1,,5088,,,152/6,1,1,152_75 - Ma Na Pa To D Y Patil Vidhyapeeth World Pride City Lohgaon,152-75-ma-na-pa-to-d-y-patil-vidhyapeeth-world-pride-city-lohgaon
+152_75,1,NORMAL_152_D Y Patil Vidhyapeeth World Pride City Lohgaon To Ma Na Pa_Down-0750_0,D Y Patil Vidhyapeeth World Pride City Lohgaon To Ma Na Pa,,1,,5089,,,152/6,2,2,152_75 - D Y Patil Vidhyapeeth World Pride City Lohgaon To Ma Na Pa,152-75-d-y-patil-vidhyapeeth-world-pride-city-lohgaon-to-ma-na-pa
+144,1,NORMAL_144_Kothrud Depot To Pune Station_Up-0605_0,Kothrud Depot To Pune Station,,1,,4951,,,144/9,1,1,144 - Kothrud Depot To Pune Station,144-kothrud-depot-to-pune-station
+144,1,NORMAL_144_Pune Station To Gujrat Colony_Down-0705_0,Pune Station To Gujrat Colony,,1,,4944,,,144/9,2,2,144 - Pune Station To Gujrat Colony,144-pune-station-to-gujrat-colony
+144,1,NORMAL_144_Gujrat Colony To Pune station_Up-0755_0,Gujrat Colony To Pune station,,1,,4945,,,144/9,3,3,144 - Gujrat Colony To Pune station,144-gujrat-colony-to-pune-station
+144,1,NORMAL_144_Pune Station To Kothrud Depot_Down-1315_0,Pune Station To Kothrud Depot,,1,,4952,,,144/9,8,8,144 - Pune Station To Kothrud Depot,144-pune-station-to-kothrud-depot
+313,1,NORMAL_313_Chinchwadgaon To Pimpri Depot_Down-2030_0,Chinchwadgaon To Pimpri Depot,,1,,4329,,,313/1,14,7,313 - Chinchwadgaon To Pimpri Depot,313-chinchwadgaon-to-pimpri-depot
+149,1,NORMAL_149_Shewalwadi To Pimprigaon_Up-0510_0,Shewalwadi To Pimprigaon,,1,,4981,,,149/1,1,1,149 - Shewalwadi To Pimprigaon,149-shewalwadi-to-pimprigaon
+149,1,NORMAL_149_Pimprigaon To Shewalwadi_Down-0710_0,Pimprigaon To Shewalwadi,,1,,4982,,,149/1,2,2,149 - Pimprigaon To Shewalwadi,149-pimprigaon-to-shewalwadi
+57,1,NORMAL_57_Pune Station To Vadgaon Bk_Up-0520_0,Pune Station To Vadgaon Bk,,0,,4338,,,57/1,1,1,57 - Pune Station To Vadgaon Bk,57-pune-station-to-vadgaon-bk
+305B,1,NORMAL_305B_Nigdi To Navlakh Umbre_Up-0550_0,Nigdi To Navlakh Umbre,,0,,3893,,,305/6,1,1,305B - Nigdi To Navlakh Umbre,305b-nigdi-to-navlakh-umbre
+305B,1,NORMAL_305B_Navlakh Umbre To Nigdi_Down-0650_0,Navlakh Umbre To Nigdi,,0,,3894,,,305/6,2,2,305B - Navlakh Umbre To Nigdi,305b-navlakh-umbre-to-nigdi
+305,1,NORMAL_305_Nigdi To Vadgaon Mawal_Up-1115_0,Nigdi To Vadgaon Mawal,,0,,4017,,,305/6,5,5,305 - Nigdi To Vadgaon Mawal,305-nigdi-to-vadgaon-mawal
+305,1,NORMAL_305_Vadgaon Mawal To Nigdi_Down-1215_0,Vadgaon Mawal To Nigdi,,0,,4018,,,305/6,6,6,305 - Vadgaon Mawal To Nigdi,305-vadgaon-mawal-to-nigdi
+192,1,NORMAL_192_Hadapsar Gadital To Vadachiwadi_Up-0600_0,Hadapsar Gadital To Vadachiwadi,,1,,4678,,,192/1,1,1,192 - Hadapsar Gadital To Vadachiwadi,192-hadapsar-gadital-to-vadachiwadi
+192,1,NORMAL_192_Hadapsar Gadital To Undrigaon_Up-0650_0,Hadapsar Gadital To Undrigaon,,0,,4684,,,192/3,1,1,192 - Hadapsar Gadital To Undrigaon,192-hadapsar-gadital-to-undrigaon
+322,1,NORMAL_322_Akurdi Rly Station To Warjemalwadi_Up-0545_0,Akurdi Rly Station To Warjemalwadi,,0,,5170,,,322/13,1,1,322 - Akurdi Rly Station To Warjemalwadi,322-akurdi-rly-station-to-warjemalwadi
+322,1,NORMAL_322_Warjemalwadi To Akurdi Rly Station_Down-0730_0,Warjemalwadi To Akurdi Rly Station,,0,,5169,,,322/13,2,2,322 - Warjemalwadi To Akurdi Rly Station,322-warjemalwadi-to-akurdi-rly-station
+236,1,NORMAL_236_Ma Na Pa To Khulewadi_UP-0550_0,Ma Na Pa To Khulewadi,,0,,3177,,,236/1,1,1,236 - Ma Na Pa To Khulewadi,236-ma-na-pa-to-khulewadi
+24,1,NORMAL_24_Lohagaon To Katraj_Down-2015_0,Lohagaon To Katraj,,0,,4472,,,24/16,10,4,24 - Lohagaon To Katraj,24-lohagaon-to-katraj
+24,1,NORMAL_24_Katraj To Lohagaon_Up-0615_0,Katraj To Lohagaon,,0,,4471,,,24/17,1,1,24 - Katraj To Lohagaon,24-katraj-to-lohagaon
+326,7,NORMAL_326_Pimprigaon To Chikhali_Up-0720_0,Pimprigaon To Chikhali,,0,,3973,,,355/1,3,3,326 - Pimprigaon To Chikhali,326-pimprigaon-to-chikhali
+57,1,NORMAL_57_Pune Station To Venutai Chavan College_Up-0645_0,Pune Station To Venutai Chavan College,,1,,4315,,,57/4,1,1,57 - Pune Station To Venutai Chavan College,57-pune-station-to-venutai-chavan-college
+57,1,NORMAL_57_Venutai Chavan College To Pune Station_Down-0745_0,Venutai Chavan College To Pune Station,,1,,4317,,,57/4,2,2,57 - Venutai Chavan College To Pune Station,57-venutai-chavan-college-to-pune-station
+57A,1,NORMAL_57A_Pune Station To Suncity_Up-0605_0,Pune Station To Suncity,,0,,2477,,,57/5,1,1,57A - Pune Station To Suncity,57a-pune-station-to-suncity
+57A,1,NORMAL_57A_Suncity To Pune Station_Down-0650_0,Suncity To Pune Station,,0,,2707,,,57/5,2,2,57A - Suncity To Pune Station,57a-suncity-to-pune-station
+293,1,NORMAL_293_Kapurhoal To Swargate_Down-0535_0,Kapurhoal To Swargate,,1,,4835,,,293/1,1,1,293 - Kapurhoal To Swargate,293-kapurhoal-to-swargate
+293,1,NORMAL_293_Swargate To Kapurhoal_Up-0650_0,Swargate To Kapurhoal,,1,,4838,,,293/1,2,2,293 - Swargate To Kapurhoal,293-swargate-to-kapurhoal
+71,1,NORMAL_71_Kothrud Depot To Sukhsagarnagar_Up-0530_0,Kothrud Depot To Sukhsagarnagar,,0,,4973,,,71/1,1,1,71 - Kothrud Depot To Sukhsagarnagar,71-kothrud-depot-to-sukhsagarnagar
+71,1,NORMAL_71_Sukhsagarnagar To Kothrud Depot_Down-0620_0,Sukhsagarnagar To Kothrud Depot,,0,,4974,,,71/1,2,2,71 - Sukhsagarnagar To Kothrud Depot,71-sukhsagarnagar-to-kothrud-depot
+71,1,NORMAL_71_Sukhsagarnagar To Gujrath Colony_Down-0810_0,Sukhsagarnagar To Gujrath Colony,,1,,4978,,,71/9,2,2,71 - Sukhsagarnagar To Gujrath Colony,71-sukhsagarnagar-to-gujrath-colony
+71,1,NORMAL_71_Gujrat Colony To Sukhsagarnagar_Up-0915_0,Gujrat Colony To Sukhsagarnagar,,1,,4977,,,71/9,3,3,71 - Gujrat Colony To Sukhsagarnagar,71-gujrat-colony-to-sukhsagarnagar
+136,1,NORMAL_136_Pune Station To Vadegaon_Up-0650_0,Pune Station To Vadegaon,,0,,3547,,,136/1,1,1,136 - Pune Station To Vadegaon,136-pune-station-to-vadegaon
+136,1,NORMAL_136_Vadegaon To Pune Station_Down-0800_0,Vadegaon To Pune Station,,0,,3548,,,136/1,2,2,136 - Vadegaon To Pune Station,136-vadegaon-to-pune-station
+304,1,NORMAL_304_Chinchwadgaon To Gavhanevasti Bhosari_Up-0610_0,Chinchwadgaon To Gavhanevasti Bhosari,,0,,4054,,,304/1,2,2,304 - Chinchwadgaon To Gavhanevasti Bhosari,304-chinchwadgaon-to-gavhanevasti-bhosari
+122B,1,NORMAL_122B_Chinchwadgaon To Nehrunagar Depo_Down-2200_0,Chinchwadgaon To Nehrunagar Depo,,0,,3788,,,304/1,24,12,122B - Chinchwadgaon To Nehrunagar Depo,122b-chinchwadgaon-to-nehrunagar-depo
+304A,1,NORMAL_304A_Nehrunagar Depo To Bhosari_Up-0520_1,Nehrunagar Depo To Bhosari,,0,,4045,,,304/7,1,1,304A - Nehrunagar Depo To Bhosari,304a-nehrunagar-depo-to-bhosari
+76,1,NORMAL_76_Kumbare Park To Swargate_Up-0810_0,Kumbare Park To Swargate,,1,,5120,,,76/1,1,1,76 - Kumbare Park To Swargate,76-kumbare-park-to-swargate
+117,1,NORMAL_117_Shivaji Nagar To Dhayari Maruti Mandir (Ladies Sp)_Up-0630_0,Shivaji Nagar To Dhayari Maruti Mandir (Ladies Sp),,1,,5131,,,117/17,1,1,117 - Shivaji Nagar To Dhayari Maruti Mandir (Ladies Sp),117-shivaji-nagar-to-dhayari-maruti-mandir-ladies-sp
+117,1,NORMAL_117_Dhayari Maruti Mandir To Shivaji Nagar (Ladies Sp)_Down-0735_0,Dhayari Maruti Mandir To Shivaji Nagar (Ladies Sp),,1,,5132,,,117/17,2,2,117 - Dhayari Maruti Mandir To Shivaji Nagar (Ladies Sp),117-dhayari-maruti-mandir-to-shivaji-nagar-ladies-sp
+359_24,1,NORMAL_359_Bhosari PMT Chowk To Nirgudigaon Via Charholi Phata_Down-0545_0,Bhosari PMT Chowk To Nirgudigaon Via Charholi Phata,,1,,5193,,,359/1,1,1,359_24 - Bhosari PMT Chowk To Nirgudigaon Via Charholi Phata,359-24-bhosari-pmt-chowk-to-nirgudigaon-via-charholi-phata
+359_24,1,NORMAL_359_Nirgudigaon To Bhosari PMT Chowk Via Charholi Phata_Up-0630_0,Nirgudigaon To Bhosari PMT Chowk Via Charholi Phata,,1,,5192,,,359/1,2,2,359_24 - Nirgudigaon To Bhosari PMT Chowk Via Charholi Phata,359-24-nirgudigaon-to-bhosari-pmt-chowk-via-charholi-phata
+379_86,1,NORMAL_379_Pimprigaon To Hinjawadi Maan Phase 3_Up-0600_0,Pimprigaon To Hinjawadi Maan Phase 3,,1,,4957,,,379/1,2,2,379_86 - Pimprigaon To Hinjawadi Maan Phase 3,379-86-pimprigaon-to-hinjawadi-maan-phase-3
+379_86,1,NORMAL_379_Hinjawadi Maan Phase 3 To Pimprigaon_Down-0700_0,Hinjawadi Maan Phase 3 To Pimprigaon,,1,,4959,,,379/1,3,3,379_86 - Hinjawadi Maan Phase 3 To Pimprigaon,379-86-hinjawadi-maan-phase-3-to-pimprigaon
+338,1,NORMAL_338_Ma Na Pa Main Bus Stand To Sawtamali Mandir Chikhli_Up-0545_0,Ma Na Pa Main Bus Stand To Sawtamali Mandir Chikhli,,1,,4927,,,338/1,1,1,338 - Ma Na Pa Main Bus Stand To Sawtamali Mandir Chikhli,338-ma-na-pa-main-bus-stand-to-sawtamali-mandir-chikhli
+HA_48,1,NORMAL_HA_Pune Station To Pune Airport_Down-0630_0,Pune Station To Pune Airport,,1,,5029,,,HA/1,1,1,HA_48 - Pune Station To Pune Airport,ha-48-pune-station-to-pune-airport
+HA_48,1,NORMAL_HA_Airport To Hinjawadi Maan Phase 3_Down-0715_0,Airport To Hinjawadi Maan Phase 3,,1,,5027,,,HA/1,2,2,HA_48 - Airport To Hinjawadi Maan Phase 3,ha-48-airport-to-hinjawadi-maan-phase-3
+HA_48,1,NORMAL_HA_Hinjawadi Maan Phase 3 To Airport_Up-0900_0,Hinjawadi Maan Phase 3 To Airport,,1,,5026,,,HA/1,3,3,HA_48 - Hinjawadi Maan Phase 3 To Airport,ha-48-hinjawadi-maan-phase-3-to-airport
+340_83,1,NORMAL_340_Nigdi To Alandi_Up-0530_0,Nigdi To Alandi,,1,,5238,,,340/1,1,1,340_83 - Nigdi To Alandi,340-83-nigdi-to-alandi
+340_83,1,NORMAL_340_Alandi To Nigdi_Down-0615_0,Alandi To Nigdi,,1,,5239,,,340/1,2,2,340_83 - Alandi To Nigdi,340-83-alandi-to-nigdi
+340_83,1,NORMAL_340_Nigdi To Charholigaon_Up-0715_0,Nigdi To Charholigaon,,1,,4267,,,340/1,3,3,340_83 - Nigdi To Charholigaon,340-83-nigdi-to-charholigaon
+340_83,1,NORMAL_340_Charholigaon To Nigdi_Down-0815_0,Charholigaon To Nigdi,,1,,4268,,,340/1,4,4,340_83 - Charholigaon To Nigdi,340-83-charholigaon-to-nigdi
+372,1,NORMAL_372_Bhakti Shakti To Hinjawadi Maan Phase 3 (Ladies Sp)_Up-0715_0,Bhakti Shakti To Hinjawadi Maan Phase 3 (Ladies Sp),,1,,4905,,,372/13,1,1,372 - Bhakti Shakti To Hinjawadi Maan Phase 3 (Ladies Sp),372-bhakti-shakti-to-hinjawadi-maan-phase-3-ladies-sp
+372,1,NORMAL_372_Hinjawadi Maan Phase 3 To Bhakti Shakti (Ladies Sp)_Down-0815_0,Hinjawadi Maan Phase 3 To Bhakti Shakti (Ladies Sp),,1,,4903,,,372/13,2,2,372 - Hinjawadi Maan Phase 3 To Bhakti Shakti (Ladies Sp),372-hinjawadi-maan-phase-3-to-bhakti-shakti-ladies-sp
+372,1,NORMAL_372_Hinjawadi Maan Phase 3 To Bhakti Shakti_Down-1025_0,Hinjawadi Maan Phase 3 To Bhakti Shakti,,0,,4904,,,372/13,4,4,372 - Hinjawadi Maan Phase 3 To Bhakti Shakti,372-hinjawadi-maan-phase-3-to-bhakti-shakti
+372,1,NORMAL_372_Bhakti Shakti To Hinjawadi Maan Phase 3_Up-1200_0,Bhakti Shakti To Hinjawadi Maan Phase 3,,0,,4906,,,372/13,5,5,372 - Bhakti Shakti To Hinjawadi Maan Phase 3,372-bhakti-shakti-to-hinjawadi-maan-phase-3
+317,1,NORMAL_317_Sambhajinagar To Pune Station_Down-0535_0,Sambhajinagar To Pune Station,,0,,4761,,,317/1,1,1,317 - Sambhajinagar To Pune Station,317-sambhajinagar-to-pune-station
+317,1,NORMAL_317_Pune Station To Sambhajinagar_Up-0640_0,Pune Station To Sambhajinagar,,0,,4760,,,317/1,2,2,317 - Pune Station To Sambhajinagar,317-pune-station-to-sambhajinagar
+118B,1,NORMAL_118B_Swargate To Vadgaon Bk_Up-0555_0,Swargate To Vadgaon Bk,,0,,3793,,,56/1,1,1,118B - Swargate To Vadgaon Bk,118b-swargate-to-vadgaon-bk
+56,1,NORMAL_56_Vadgaon Bk To Mandai_Up-0625_0,Vadgaon Bk To Mandai,,0,,4207,,,56/1,2,2,56 - Vadgaon Bk To Mandai,56-vadgaon-bk-to-mandai
+56,1,NORMAL_56_Mandai To Vadgaon Bk_Down-0705_0,Mandai To Vadgaon Bk,,0,,4203,,,56/1,3,3,56 - Mandai To Vadgaon Bk,56-mandai-to-vadgaon-bk
+118B,1,NORMAL_118B_Vadgaon Bk To Swargate_Down-2210_0,Vadgaon Bk To Swargate,,0,,3791,,,56/1,20,12,118B - Vadgaon Bk To Swargate,118b-vadgaon-bk-to-swargate
+103,1,NORMAL_103_Katraj To Hinjawadi - Maan Phase 3_Up-0730_0,Katraj To Hinjawadi - Maan Phase 3,,1,,4700,,,103/17,1,1,103 - Katraj To Hinjawadi - Maan Phase 3,103-katraj-to-hinjawadi-maan-phase-3
+103,1,NORMAL_103_Hinjawadi - Maan Phase 3 To Katraj_Down-0925_0,Hinjawadi - Maan Phase 3 To Katraj,,1,,4699,,,103/17,2,2,103 - Hinjawadi - Maan Phase 3 To Katraj,103-hinjawadi-maan-phase-3-to-katraj
+303,1,NORMAL_303_Nigdi To Mukai chowk Kiwale_Up-0555_0,Nigdi To Mukai chowk Kiwale,,0,,4015,,,303/5,1,1,303 - Nigdi To Mukai chowk Kiwale,303-nigdi-to-mukai-chowk-kiwale
+303,1,NORMAL_303_Mukai chowk Kiwale To Nigdi_Down-0625_0,Mukai chowk Kiwale To Nigdi,,0,,4016,,,303/5,2,2,303 - Mukai chowk Kiwale To Nigdi,303-mukai-chowk-kiwale-to-nigdi
+2D,1,NORMAL_2D_Sachchai Mata Mandir To Katraj_Down-1215_0,Sachchai Mata Mandir To Katraj,,0,,3844,,,02-Dec,6,6,2D - Sachchai Mata Mandir To Katraj,2d-sachchai-mata-mandir-to-katraj
+2,1,NORMAL_2_Katraj To Swargate_Up-0750_0,Katraj To Swargate,,1,,5226,,,Feb-25,1,1,2 - Katraj To Swargate,2-katraj-to-swargate
+2,1,NORMAL_2_Swargate To Katraj_Down-0820_0,Swargate To Katraj,,1,,5227,,,Feb-25,2,2,2 - Swargate To Katraj,2-swargate-to-katraj
+66,1,NORMAL_66_Marketyard To Agalambe (Thakarwadi)_Up-0500_0,Marketyard To Agalambe (Thakarwadi),,1,,4868,,,66/1,1,1,66 - Marketyard To Agalambe (Thakarwadi),66-marketyard-to-agalambe-thakarwadi
+66,1,NORMAL_66_Agalambe (Thakarwadi) To Marketyard_Down-0630_0,Agalambe (Thakarwadi) To Marketyard,,1,,4869,,,66/1,2,2,66 - Agalambe (Thakarwadi) To Marketyard,66-agalambe-thakarwadi-to-marketyard
+70C,1,NORMAL_70C_Kothrud Depot To Sheregaon_Up-0600_0,Kothrud Depot To Sheregaon,,1,,3610,,,70/1,1,1,70C - Kothrud Depot To Sheregaon,70c-kothrud-depot-to-sheregaon
+155,1,NORMAL_155_Pune Station To Lohgaon (Via Dhanori)_Up-0550_0,Pune Station To Lohgaon (Via Dhanori),,0,,3880,,,174/11,1,1,155 - Pune Station To Lohgaon (Via Dhanori),155-pune-station-to-lohgaon-via-dhanori
+328_29,1,NORMAL_328_Nigdi To Rupeenagar_Up-1430_0,Nigdi To Rupeenagar,,1,,4433,,,328/1,25,3,328_29 - Nigdi To Rupeenagar,328-29-nigdi-to-rupeenagar
+601_71,3,NORMAL_601_Khadak Wasla To Renuka Swaroop School_Down-1030_0,Khadak Wasla To Renuka Swaroop School,,1,,4423,,,601/4,1,1,601_71 - Khadak Wasla To Renuka Swaroop School,601-71-khadak-wasla-to-renuka-swaroop-school
+601_71,3,NORMAL_601_Renuka Swaroop School To Khadak Wasla_Up-1645_0,Renuka Swaroop School To Khadak Wasla,,1,,4424,,,601/4,2,2,601_71 - Renuka Swaroop School To Khadak Wasla,601-71-renuka-swaroop-school-to-khadak-wasla
+283,1,NORMAL_283_Kumbare Park To Pune Station_Up-0600_1,Kumbare Park To Pune Station,,0,,3687,,,283/1,1,1,283 - Kumbare Park To Pune Station,283-kumbare-park-to-pune-station
+283,1,NORMAL_283_Pune Station To Kumbare Park_Down-0650_0,Pune Station To Kumbare Park,,0,,3692,,,283/1,2,2,283 - Pune Station To Kumbare Park,283-pune-station-to-kumbare-park
+28,1,NORMAL_28_Katraj To Shivajinagar_Up-0550_0,Katraj To Shivajinagar,,0,,2630,,,28-Jan,1,1,28 - Katraj To Shivajinagar,28-katraj-to-shivajinagar
+28,1,NORMAL_28_Shivajinagar To Katraj_Down-0645_0,Shivajinagar To Katraj,,0,,2945,,,28-Jan,2,2,28 - Shivajinagar To Katraj,28-shivajinagar-to-katraj
+195,1,NORMAL_195_Hadapsar Gadital To Holkarwadi_Up-0600_1,Hadapsar Gadital To Holkarwadi,,0,,3653,,,195/1,1,1,195 - Hadapsar Gadital To Holkarwadi,195-hadapsar-gadital-to-holkarwadi
+195,1,NORMAL_195_Holkarwadi To Hadapsar Gadital_Down-0630_0,Holkarwadi To Hadapsar Gadital,,0,,3654,,,195/1,2,2,195 - Holkarwadi To Hadapsar Gadital,195-holkarwadi-to-hadapsar-gadital
+200A,1,NORMAL_200A_Hadapsar Gadital To Sadesatranali_Down-0800_0,Hadapsar Gadital To Sadesatranali,,1,,3702,,,200/1,1,1,200A - Hadapsar Gadital To Sadesatranali,200a-hadapsar-gadital-to-sadesatranali
+200,1,NORMAL_200_Sadesatranali To Swargate_Up-0810_0,Sadesatranali To Swargate,,0,,3898,,,200/1,2,2,200 - Sadesatranali To Swargate,200-sadesatranali-to-swargate
+200,1,NORMAL_200_Swargate To Sadesatranali_Down-0900_0,Swargate To Sadesatranali,,0,,3900,,,200/1,3,3,200 - Swargate To Sadesatranali,200-swargate-to-sadesatranali
+20B,1,NORMAL_20B_Swargate To Hadapsar Gadital_Up-1215_0,Swargate To Hadapsar Gadital,,0,,3704,,,200/1,7,7,20B - Swargate To Hadapsar Gadital,20b-swargate-to-hadapsar-gadital
+20B,1,NORMAL_20B_Hadapsar Gadital To Swargate_Down-1510_0,Hadapsar Gadital To Swargate,,0,,3705,,,200/1,8,1,20B - Hadapsar Gadital To Swargate,20b-hadapsar-gadital-to-swargate
+200A,1,NORMAL_200A_Sadesatranali To Hadapsar Gadital_Up-1945_0,Sadesatranali To Hadapsar Gadital,,1,,3701,,,200/1,14,7,200A - Sadesatranali To Hadapsar Gadital,200a-sadesatranali-to-hadapsar-gadital
+322,1,NORMAL_322_Akurdi Railway Station To Ma Na Pa River Side (Ladies SP)_Down-0930_0,Akurdi Railway Station To Ma Na Pa River Side (Ladies SP),,1,,5142,,,322/17,3,3,322 - Akurdi Railway Station To Ma Na Pa River Side (Ladies SP),322-akurdi-railway-station-to-ma-na-pa-river-side-ladies-sp
+322,1,NORMAL_322_Ma Na Pa River Side To Akurdi Railway Station (Ladies SP)_Up-1800_0,Ma Na Pa River Side To Akurdi Railway Station (Ladies SP),,1,,5141,,,322/17,8,4,322 - Ma Na Pa River Side To Akurdi Railway Station (Ladies SP),322-ma-na-pa-river-side-to-akurdi-railway-station-ladies-sp
+307,1,NORMAL_307_Chinchwadgaon To Walhekarwadi_Up-0550_0,Chinchwadgaon To Walhekarwadi,,0,,4043,,,307/1,2,2,307 - Chinchwadgaon To Walhekarwadi,307-chinchwadgaon-to-walhekarwadi
+307,1,NORMAL_307_Walhekarwadi To Chinchwadgaon_Down-0610_0,Walhekarwadi To Chinchwadgaon,,0,,4044,,,307/1,3,3,307 - Walhekarwadi To Chinchwadgaon,307-walhekarwadi-to-chinchwadgaon
+328_29,1,NORMAL_328_Rupeenagar To Nigdi_Down-0600_0,Rupeenagar To Nigdi,,1,,4434,,,328/1,2,2,328_29 - Rupeenagar To Nigdi,328-29-rupeenagar-to-nigdi
+330_52,1,NORMAL_330_Akurdi Railway Station To Chikhali_Up-0540_0,Akurdi Railway Station To Chikhali,,1,,4878,,,330/1,1,1,330_52 - Akurdi Railway Station To Chikhali,330-52-akurdi-railway-station-to-chikhali
+330_52,1,NORMAL_330_Chikhali To Akurdi Railway Station_Down-0615_0,Chikhali To Akurdi Railway Station,,1,,4879,,,330/1,2,2,330_52 - Chikhali To Akurdi Railway Station,330-52-chikhali-to-akurdi-railway-station
+334,1,NORMAL_334_Gharkul Vasahat Chikhali To Pimprigaon_Down-0630_0,Gharkul Vasahat Chikhali To Pimprigaon,,0,,3827,,,334/1,2,2,334 - Gharkul Vasahat Chikhali To Pimprigaon,334-gharkul-vasahat-chikhali-to-pimprigaon
+334,1,NORMAL_334_Pimprigaon To Gharkul Vasahat Chikhli_Up-0710_0,Pimprigaon To Gharkul Vasahat Chikhli,,0,,3826,,,334/1,3,3,334 - Pimprigaon To Gharkul Vasahat Chikhli,334-pimprigaon-to-gharkul-vasahat-chikhli
+322,1,NORMAL_322_Ma Na Pa River Side To Mahadev Mandir Pimple Saudagar_Up-0825_0,Ma Na Pa River Side To Mahadev Mandir Pimple Saudagar,,1,,5129,,,322/19,2,2,322 - Ma Na Pa River Side To Mahadev Mandir Pimple Saudagar,322-ma-na-pa-river-side-to-mahadev-mandir-pimple-saudagar
+322,1,NORMAL_322_Mahadev Mandir Pimple Saudagar To Ma Na Pa River side (Ladies SP)_Up-0925_0,Mahadev Mandir Pimple Saudagar To Ma Na Pa River side (Ladies SP),,1,,5143,,,322/19,3,3,322 - Mahadev Mandir Pimple Saudagar To Ma Na Pa River side (Ladies SP),322-mahadev-mandir-pimple-saudagar-to-ma-na-pa-river-side-ladies-sp
+64,1,NORMAL_64_Hadapsar Gadital To Warje Malwadi_Up-0715_0,Hadapsar Gadital To Warje Malwadi,,0,,5166,,,64/11,1,1,64 - Hadapsar Gadital To Warje Malwadi,64-hadapsar-gadital-to-warje-malwadi
+64,1,NORMAL_64_Warje Malwadi To Hadapsar Gadital (Ladies Sp)_Down-0835_0,Warje Malwadi To Hadapsar Gadital (Ladies Sp),,1,,4495,,,64/11,2,2,64 - Warje Malwadi To Hadapsar Gadital (Ladies Sp),64-warje-malwadi-to-hadapsar-gadital-ladies-sp
+64,1,NORMAL_64_Hadapsar Gadital To Warje Malwadi (Ladies Sp)_Up-1015_0,Hadapsar Gadital To Warje Malwadi (Ladies Sp),,1,,4494,,,64/11,3,3,64 - Hadapsar Gadital To Warje Malwadi (Ladies Sp),64-hadapsar-gadital-to-warje-malwadi-ladies-sp
+64,1,NORMAL_64_Warje Malwadi To Hadapsar Gadital_Down-1145_0,Warje Malwadi To Hadapsar Gadital,,0,,5167,,,64/11,4,4,64 - Warje Malwadi To Hadapsar Gadital,64-warje-malwadi-to-hadapsar-gadital
+59,1,NORMAL_59_Shanipar To Niljyoti_Up-0550_0,Shanipar To Niljyoti,,0,,3583,,,59/1,1,1,59 - Shanipar To Niljyoti,59-shanipar-to-niljyoti
+59,1,NORMAL_59_Niljyoti To Shanipar_Down-0620_0,Niljyoti To Shanipar,,0,,3584,,,59/1,2,2,59 - Niljyoti To Shanipar,59-niljyoti-to-shanipar
+37,1,NORMAL_37_Na Ta Wadi To Sahkarnagar_Down-0610_0,Na Ta Wadi To Sahkarnagar,,0,,2930,,,37/1,1,1,37 - Na Ta Wadi To Sahkarnagar,37-na-ta-wadi-to-sahkarnagar
+37,1,NORMAL_37_Sahkarnagar To Na Ta Wadi_Up-0650_0,Sahkarnagar To Na Ta Wadi,,0,,2353,,,37/1,2,2,37 - Sahkarnagar To Na Ta Wadi,37-sahkarnagar-to-na-ta-wadi
+69,1,NORMAL_69_Ghotawadegaon To Marketyard_Down-0630_0,Ghotawadegaon To Marketyard,,0,,2838,,,69/1,1,1,69 - Ghotawadegaon To Marketyard,69-ghotawadegaon-to-marketyard
+69,1,NORMAL_69_Marketyard To Mugawade_Up-0805_0,Marketyard To Mugawade,,1,,4870,,,69/1,2,2,69 - Marketyard To Mugawade,69-marketyard-to-mugawade
+69,1,NORMAL_69_Mugawade To Marketyard_Down-1010_0,Mugawade To Marketyard,,1,,4871,,,69/1,3,3,69 - Mugawade To Marketyard,69-mugawade-to-marketyard
+69,1,NORMAL_69_Marketyard To Ghotawadegaon_Up-1345_0,Marketyard To Ghotawadegaon,,0,,2873,,,69/1,4,1,69 - Marketyard To Ghotawadegaon,69-marketyard-to-ghotawadegaon
+120,1,NORMAL_120_Bhosari To Mhalunge MIDC_Up-0555_0,Bhosari To Mhalunge MIDC,,1,,5044,,,120/6,1,1,120 - Bhosari To Mhalunge MIDC,120-bhosari-to-mhalunge-midc
+120,1,NORMAL_120_Mhalunge MIDC To Bhosari_Down-0650_0,Mhalunge MIDC To Bhosari,,1,,5045,,,120/6,2,2,120 - Mhalunge MIDC To Bhosari,120-mhalunge-midc-to-bhosari
+363A,1,NORMAL_363A_Kiwalegaon To Nigdi_Down-0950_0,Kiwalegaon To Nigdi,,0,,3957,,,363/1,8,8,363A - Kiwalegaon To Nigdi,363a-kiwalegaon-to-nigdi
+300_58,6,NORMAL_300_Dhayari To kirkatwadi_Up-0615_0,Dhayari To kirkatwadi,,1,,4400,,,300/1,1,1,300_58 - Dhayari To kirkatwadi,300-58-dhayari-to-kirkatwadi
+300_58,6,NORMAL_300_Wadgaon to Daru wala Pul_Down-0745_0,Wadgaon to Daru wala Pul,,1,,4395,,,300/1,2,2,300_58 - Wadgaon to Daru wala Pul,300-58-wadgaon-to-daru-wala-pul
+300_58,6,NORMAL_300_Gogate School To Wadgaon_Up-1740_0,Gogate School To Wadgaon,,1,,4386,,,300/1,3,1,300_58 - Gogate School To Wadgaon,300-58-gogate-school-to-wadgaon
+300_58,3,NORMAL_300_Wadgoan To Katariya School_Down-0640_0,Wadgoan To Katariya School,,1,,4403,,,300/2,1,1,300_58 - Wadgoan To Katariya School,300-58-wadgoan-to-katariya-school
+300_58,3,NORMAL_300_Katariya School To Wadgaon Dhayari_Up-1105_0,Katariya School To Wadgaon Dhayari,,1,,4404,,,300/2,2,1,300_58 - Katariya School To Wadgaon Dhayari,300-58-katariya-school-to-wadgaon-dhayari
+300_58,6,NORMAL_300_Swargate To Khanapur_Up-0600_0,Swargate To Khanapur,,1,,4405,,,300/4,1,1,300_58 - Swargate To Khanapur,300-58-swargate-to-khanapur
+300_58,6,NORMAL_300_Daru wala Pul To Wadgaon_Up-1530_0,Daru wala Pul To Wadgaon,,1,,4406,,,300/4,3,2,300_58 - Daru wala Pul To Wadgaon,300-58-daru-wala-pul-to-wadgaon
+401_30,3,NORMAL_401_Venkateshwara To Swargate_Down-1205_0,Venkateshwara To Swargate,,1,,4507,,,401/1,3,2,401_30 - Venkateshwara To Swargate,401-30-venkateshwara-to-swargate
+401_30,3,NORMAL_401_R.D.Kalas To Viddya Niketan School_Down-0645_0,R.D.Kalas To Viddya Niketan School,,1,,4502,,,401/2,1,1,401_30 - R.D.Kalas To Viddya Niketan School,401-30-rdkalas-to-viddya-niketan-school
+401_30,3,NORMAL_401_Viddya Niketan School To R.D.Kalas_Up-1130_0,Viddya Niketan School To R.D.Kalas,,1,,4503,,,401/2,2,1,401_30 - Viddya Niketan School To R.D.Kalas,401-30-viddya-niketan-school-to-rdkalas
+401_30,3,NORMAL_401_Dadachi Padal To Viddya Niketan School_Down-0650_0,Dadachi Padal To Viddya Niketan School,,1,,4382,,,401/3,1,1,401_30 - Dadachi Padal To Viddya Niketan School,401-30-dadachi-padal-to-viddya-niketan-school
+401_30,3,NORMAL_401_Viddya Niketan School To Dadachi Padal_Up-1130_0,Viddya Niketan School To Dadachi Padal,,1,,4381,,,401/3,2,2,401_30 - Viddya Niketan School To Dadachi Padal,401-30-viddya-niketan-school-to-dadachi-padal
+401_30,3,NORMAL_401_A R D Coloney To Kendriya Viddyala_Down-0715_0,A R D Coloney To Kendriya Viddyala,,1,,4492,,,401/4,1,1,401_30 - A R D Coloney To Kendriya Viddyala,401-30-a-r-d-coloney-to-kendriya-viddyala
+401_30,3,NORMAL_401_Kendriya Viddyala To A R D Coloney_Up-1430_0,Kendriya Viddyala To A R D Coloney,,1,,4493,,,401/4,1,1,401_30 - Kendriya Viddyala To A R D Coloney,401-30-kendriya-viddyala-to-a-r-d-coloney
+401_30,6,NORMAL_401_Moze viddyala To Pune Viddyapith_Down-1100_0,Moze viddyala To Pune Viddyapith,,1,,4497,,,401/4,2,2,401_30 - Moze viddyala To Pune Viddyapith,401-30-moze-viddyala-to-pune-viddyapith
+401_30,3,NORMAL_401_Loahgaon To Viddyaniketan School_Down-0630_0,Loahgaon To Viddyaniketan School,,1,,4421,,,401/5,1,1,401_30 - Loahgaon To Viddyaniketan School,401-30-loahgaon-to-viddyaniketan-school
+401_30,3,NORMAL_401_Viddyaniketan School To Loahgaon_Up-1130_0,Viddyaniketan School To Loahgaon,,1,,4420,,,401/5,2,1,401_30 - Viddyaniketan School To Loahgaon,401-30-viddyaniketan-school-to-loahgaon
+401_30,3,NORMAL_401_Kasturba To Viddya Niketan 5 Bopodi_Up-0650_0,Kasturba To Viddya Niketan 5 Bopodi,,1,,4387,,,401/11,1,1,401_30 - Kasturba To Viddya Niketan 5 Bopodi,401-30-kasturba-to-viddya-niketan-5-bopodi
+401_30,3,NORMAL_401_Viddya Niketan 5 Bopodi To Kasturba_Down-1130_0,Viddya Niketan 5 Bopodi To Kasturba,,1,,4388,,,401/11,2,2,401_30 - Viddya Niketan 5 Bopodi To Kasturba,401-30-viddya-niketan-5-bopodi-to-kasturba
+501_01,3,NORMAL_501_Kothrud Depo To Kanned School (Manglwar peth)_Up-0630_0,Kothrud Depo To Kanned School (Manglwar peth),,1,,4469,,,501/2,1,1,501_01 - Kothrud Depo To Kanned School (Manglwar peth),501-01-kothrud-depo-to-kanned-school-manglwar-peth
+501_01,3,NORMAL_501_Kanned School (Manglwar peth) To Kothrud Depo_Down-1130_0,Kanned School (Manglwar peth) To Kothrud Depo,,1,,4470,,,501/2,2,2,501_01 - Kanned School (Manglwar peth) To Kothrud Depo,501-01-kanned-school-manglwar-peth-to-kothrud-depo
+501_01,3,NORMAL_501_Dhayari To Renuka Swaroop School_Down-0630_0,Dhayari To Renuka Swaroop School,,1,,4465,,,501/5,1,1,501_01 - Dhayari To Renuka Swaroop School,501-01-dhayari-to-renuka-swaroop-school
+501_01,3,NORMAL_501_Renuka Swaroop School To Dhayari_Up-1205_0,Renuka Swaroop School To Dhayari,,1,,4466,,,501/5,2,2,501_01 - Renuka Swaroop School To Dhayari,501-01-renuka-swaroop-school-to-dhayari
+501_01,3,NORMAL_501_St.Tukaram School To Kothrud Depo_Down-1130_0,St.Tukaram School To Kothrud Depo,,1,,4524,,,501/6,3,3,501_01 - St.Tukaram School To Kothrud Depo,501-01-sttukaram-school-to-kothrud-depo
+501_01,6,NORMAL_501_Kothrud Depo To St.Tukaram School_Up-1125_0,Kothrud Depo To St.Tukaram School,,1,,4477,,,501/6,1,1,501_01 - Kothrud Depo To St.Tukaram School,501-01-kothrud-depo-to-sttukaram-school
+601_71,3,NORMAL_601_Tukai Nagar To Viddya Niketan (Dhayari)_Up-0630_0,Tukai Nagar To Viddya Niketan (Dhayari),,1,,4487,,,601/1,1,1,601_71 - Tukai Nagar To Viddya Niketan (Dhayari),601-71-tukai-nagar-to-viddya-niketan-dhayari
+601_71,6,NORMAL_601_Viddya Niketan (Dhayari) To Nanded Phata_Up-1740_0,Viddya Niketan (Dhayari) To Nanded Phata,,1,,4488,,,601/1,3,1,601_71 - Viddya Niketan (Dhayari) To Nanded Phata,601-71-viddya-niketan-dhayari-to-nanded-phata
+601_71,3,NORMAL_601_Shani Nagar To Viddya Niketan Shivaji Maratha_Up-0635_0,Shani Nagar To Viddya Niketan Shivaji Maratha,,1,,4391,,,601/2,1,1,601_71 - Shani Nagar To Viddya Niketan Shivaji Maratha,601-71-shani-nagar-to-viddya-niketan-shivaji-maratha
+601_71,3,NORMAL_601_Shivaji Maratha To Shani Nagar (Dattnagar)_Down-1140_0,Shivaji Maratha To Shani Nagar (Dattnagar),,1,,4392,,,601/2,2,2,601_71 - Shivaji Maratha To Shani Nagar (Dattnagar),601-71-shivaji-maratha-to-shani-nagar-dattnagar
+601_71,3,NORMAL_601_Nanded Phata To Gogte School_Down-0630_0,Nanded Phata To Gogte School,,1,,4458,,,601/5,1,1,601_71 - Nanded Phata To Gogte School,601-71-nanded-phata-to-gogte-school
+601_71,3,NORMAL_601_Gogte School To Suncity_Up-1130_0,Gogte School To Suncity,,1,,4457,,,601/5,2,1,601_71 - Gogte School To Suncity,601-71-gogte-school-to-suncity
+601_71,6,NORMAL_601_Wadgoan To Gogte School_Down-1130_0,Wadgoan To Gogte School,,1,,4456,,,601/5,2,2,601_71 - Wadgoan To Gogte School,601-71-wadgoan-to-gogte-school
+601_71,3,NORMAL_601_Sukhsagar Nagar To Kannad School(Mangalwar Peth)_Up-0600_0,Sukhsagar Nagar To Kannad School(Mangalwar Peth),,1,,4401,,,601/7,1,1,601_71 - Sukhsagar Nagar To Kannad School(Mangalwar Peth),601-71-sukhsagar-nagar-to-kannad-schoolmangalwar-peth
+601_71,3,NORMAL_601_Kannad School(Mangalwar Peth) To Sukhsagar Nagar_Down-1130_0,Kannad School(Mangalwar Peth) To Sukhsagar Nagar,,1,,4402,,,601/7,2,1,601_71 - Kannad School(Mangalwar Peth) To Sukhsagar Nagar,601-71-kannad-schoolmangalwar-peth-to-sukhsagar-nagar
+801_13,3,NORMAL_801_GhokulNagar To Viddya Niketan (ChandraBhaga Nagar)_Up-0640_0,GhokulNagar To Viddya Niketan (ChandraBhaga Nagar),,1,,4407,,,801/1,1,1,801_13 - GhokulNagar To Viddya Niketan (ChandraBhaga Nagar),801-13-ghokulnagar-to-viddya-niketan-chandrabhaga-nagar
+801_13,3,NORMAL_801_Viddya Niketan (ChandraBhaga Nagar) To GhokulNagar_Up-1330_0,Viddya Niketan (ChandraBhaga Nagar) To GhokulNagar,,1,,4408,,,801/1,2,1,801_13 - Viddya Niketan (ChandraBhaga Nagar) To GhokulNagar,801-13-viddya-niketan-chandrabhaga-nagar-to-ghokulnagar
+901_83,3,NORMAL_901_Kondhwa (Sheetal Petrol Pump) To Pune Station Urdu Vidyaniketan shala 12_Up-0630_0,Kondhwa (Sheetal Petrol Pump) To Pune Station Urdu Vidyaniketan shala 12,,1,,4687,,,901/1,1,1,901_83 - Kondhwa (Sheetal Petrol Pump) To Pune Station Urdu Vidyaniketan shala 12,901-83-kondhwa-sheetal-petrol-pump-to-pune-station-urdu-vidyaniketan-shala-12
+901_83,3,NORMAL_901_Pune Station Urdu Vidyaniketan Shala 12 To Kondhwa_Down-1140_0,Pune Station Urdu Vidyaniketan Shala 12 To Kondhwa,,1,,4688,,,901/1,2,1,901_83 - Pune Station Urdu Vidyaniketan Shala 12 To Kondhwa,901-83-pune-station-urdu-vidyaniketan-shala-12-to-kondhwa
+901_83,3,NORMAL_901_Ramwadi To KhuleWadi Viddya Niketan School_Up-0620_0,Ramwadi To KhuleWadi Viddya Niketan School,,1,,4521,,,901/2,1,1,901_83 - Ramwadi To KhuleWadi Viddya Niketan School,901-83-ramwadi-to-khulewadi-viddya-niketan-school
+901_83,3,NORMAL_901_KhuleWadi Viddya Niketan School To Ramwadi_Down-1120_0,KhuleWadi Viddya Niketan School To Ramwadi,,1,,4522,,,901/2,2,1,901_83 - KhuleWadi Viddya Niketan School To Ramwadi,901-83-khulewadi-viddya-niketan-school-to-ramwadi
+125,1,NORMAL_125_Vasantdada Putala Sangvi To Bopkhel_Down-0650_0,Vasantdada Putala Sangvi To Bopkhel,,1,,5108,,,125/1,3,3,125 - Vasantdada Putala Sangvi To Bopkhel,125-vasantdada-putala-sangvi-to-bopkhel
+133,1,NORMAL_133_Ma Na Pa To Wadgaonsheri (Via Anand Park)_Up-0540_0,Ma Na Pa To Wadgaonsheri (Via Anand Park),,1,,5046,,,133/13,1,1,133 - Ma Na Pa To Wadgaonsheri (Via Anand Park),133-ma-na-pa-to-wadgaonsheri-via-anand-park
+133,1,NORMAL_133_Wadgaonsheri To Ma Na Pa (Via Anand Park)_Down-0630_0,Wadgaonsheri To Ma Na Pa (Via Anand Park),,0,,3199,,,133/13,2,2,133 - Wadgaonsheri To Ma Na Pa (Via Anand Park),133-wadgaonsheri-to-ma-na-pa-via-anand-park
+310,1,NORMAL_310_Pune Station To Walhekarwadi_Up-0540_0,Pune Station To Walhekarwadi,,0,,4754,,,310/1,1,1,310 - Pune Station To Walhekarwadi,310-pune-station-to-walhekarwadi
+310,1,NORMAL_310_Walhekarwadi To Pune Station_Down-0610_0,Walhekarwadi To Pune Station,,0,,4858,,,310/1,2,2,310 - Walhekarwadi To Pune Station,310-walhekarwadi-to-pune-station
+311,1,NORMAL_311_Pune Station To Pimprigaon_Up-0600_0,Pune Station To Pimprigaon,,0,,4859,,,311/1,1,1,311 - Pune Station To Pimprigaon,311-pune-station-to-pimprigaon
+323,1,NORMAL_323_Gharkul To PMC_Up-0545_0,Gharkul To PMC,,0,,4768,,,323/5,1,1,323 - Gharkul To PMC,323-gharkul-to-pmc
+323,1,NORMAL_323_PMC To Gharkul_Down-0745_0,PMC To Gharkul,,0,,4769,,,323/5,3,3,323 - PMC To Gharkul,323-pmc-to-gharkul
+12,1,NORMAL_12_Upper Depot To Bhakti Shakti_Up-0730_0,Upper Depot To Bhakti Shakti,,0,,4834,,,12-Jun,1,1,12 - Upper Depot To Bhakti Shakti,12-upper-depot-to-bhakti-shakti
+159,1,NORMAL_159_Ma Na Pa To Talegaon Dhamdhere_UP-0710_0,Ma Na Pa To Talegaon Dhamdhere,,0,,5054,,,159/15,1,1,159 - Ma Na Pa To Talegaon Dhamdhere,159-ma-na-pa-to-talegaon-dhamdhere
+159,1,NORMAL_159_Ma Na Pa To Kasturi Shikshan Sanstha_UP-0730_0,Ma Na Pa To Kasturi Shikshan Sanstha,,1,,5055,,,159/17,1,1,159 - Ma Na Pa To Kasturi Shikshan Sanstha,159-ma-na-pa-to-kasturi-shikshan-sanstha
+159,1,NORMAL_159_Talegaon Dhamdhere To Ma Na Pa_Down-0615_0,Talegaon Dhamdhere To Ma Na Pa,,0,,5053,,,159/1,1,1,159 - Talegaon Dhamdhere To Ma Na Pa,159-talegaon-dhamdhere-to-ma-na-pa
+159,1,NORMAL_159_Kasturi Shikshan Sanstha To Ma Na Pa_Down-0900_0,Kasturi Shikshan Sanstha To Ma Na Pa,,1,,5056,,,159/17,2,2,159 - Kasturi Shikshan Sanstha To Ma Na Pa,159-kasturi-shikshan-sanstha-to-ma-na-pa
+159,1,NORMAL_159_Ma Na Pa To Koregaon Bhima_Up-0515_0,Ma Na Pa To Koregaon Bhima,,0,,3329,,,159/25,1,1,159 - Ma Na Pa To Koregaon Bhima,159-ma-na-pa-to-koregaon-bhima
+159,1,NORMAL_159_Koregaon Bhima To Ma Na Pa_Down-0630_0,Koregaon Bhima To Ma Na Pa,,0,,3332,,,159/25,2,2,159 - Koregaon Bhima To Ma Na Pa,159-koregaon-bhima-to-ma-na-pa
+376,1,NORMAL_376_Bhakti Shakti To Sambhaji Nagar_Up-0530_0,Bhakti Shakti To Sambhaji Nagar,,1,,3926,,,376/16,1,1,376 - Bhakti Shakti To Sambhaji Nagar,376-bhakti-shakti-to-sambhaji-nagar
+376,1,NORMAL_376_Sambhajinagar To Katraj_Down-0545_0,Sambhajinagar To Katraj,,1,,4839,,,376/16,2,2,376 - Sambhajinagar To Katraj,376-sambhajinagar-to-katraj
+376,1,NORMAL_376_Katraj To Sambhajinagar_Up-0730_0,Katraj To Sambhajinagar,,1,,4801,,,376/16,3,3,376 - Katraj To Sambhajinagar,376-katraj-to-sambhajinagar
+376,1,NORMAL_376_Sambhaji Nagar To Bhakti Shakti_Down-1340_0,Sambhaji Nagar To Bhakti Shakti,,1,,3927,,,376/16,6,6,376 - Sambhaji Nagar To Bhakti Shakti,376-sambhaji-nagar-to-bhakti-shakti
+376,1,NORMAL_376_Bhakti Shakti To Katraj (Vai YCM)_Down-0610_0,Bhakti Shakti To Katraj (Vai YCM),,0,,4802,,,376/1,1,1,376 - Bhakti Shakti To Katraj (Vai YCM),376-bhakti-shakti-to-katraj-vai-ycm
+376,1,NORMAL_376_Katraj To Bhakti Shakti_Up-0755_0,Katraj To Bhakti Shakti,,0,,4803,,,376/1,2,2,376 - Katraj To Bhakti Shakti,376-katraj-to-bhakti-shakti
+376,1,NORMAL_376_Bhakti Shakti To Warje Malwadi_Down-0805_0,Bhakti Shakti To Warje Malwadi,,1,,4805,,,376/10,2,1,376 - Bhakti Shakti To Warje Malwadi,376-bhakti-shakti-to-warje-malwadi
+376,1,NORMAL_376_Bhakti Shakti To Shewalwadi_Down-0515_0,Bhakti Shakti To Shewalwadi,,1,,4807,,,376/11,1,1,376 - Bhakti Shakti To Shewalwadi,376-bhakti-shakti-to-shewalwadi
+376,1,NORMAL_376_Shewalwadi To Bhakti Shakti_Up-0645_0,Shewalwadi To Bhakti Shakti,,1,,4806,,,376/11,2,2,376 - Shewalwadi To Bhakti Shakti,376-shewalwadi-to-bhakti-shakti
+21,1,NORMAL_21_Swargate To Pimple Nilakh_Up-0600_0,Swargate To Pimple Nilakh,,0,,4281,,,21-Nov,1,1,21 - Swargate To Pimple Nilakh,21-swargate-to-pimple-nilakh
+21,1,NORMAL_21_Pimple Nilakh To Swargate_Down-0700_0,Pimple Nilakh To Swargate,,0,,4284,,,21-Nov,2,2,21 - Pimple Nilakh To Swargate,21-pimple-nilakh-to-swargate
+11,1,NORMAL_11_Katraj To Pimple gurav_Up-0645_0,Katraj To Pimple gurav,,0,,2952,,,Nov-17,1,1,11 - Katraj To Pimple gurav,11-katraj-to-pimple-gurav
+11,1,NORMAL_11_Pimple gurav To Katraj_Down-0800_0,Pimple gurav To Katraj,,0,,2870,,,Nov-17,2,2,11 - Pimple gurav To Katraj,11-pimple-gurav-to-katraj
+13,1,NORMAL_13_Upper Depot To Swargate_Up-0800_0,Upper Depot To Swargate,,1,,5228,,,13/20,1,1,13 - Upper Depot To Swargate,13-upper-depot-to-swargate
+13,1,NORMAL_13_Swargate To Upper Depot_Down-0830_0,Swargate To Upper Depot,,1,,5229,,,13/20,2,2,13 - Swargate To Upper Depot,13-swargate-to-upper-depot
+336,1,NORMAL_336_Pimpri Depot To Bhakti Shakti_Up-0515_0,Pimpri Depot To Bhakti Shakti,,1,,5057,,,336/1,1,1,336 - Pimpri Depot To Bhakti Shakti,336-pimpri-depot-to-bhakti-shakti
+363A,1,NORMAL_363A_Nigdi To Kiwalegaon_Up-1050_0,Nigdi To Kiwalegaon,,0,,3956,,,363/1,9,9,363A - Nigdi To Kiwalegaon,363a-nigdi-to-kiwalegaon
+336,1,NORMAL_336_Bhakti Shakti To Pimpri Depot_Down-2105_0,Bhakti Shakti To Pimpri Depot,,1,,5058,,,336/1,10,5,336 - Bhakti Shakti To Pimpri Depot,336-bhakti-shakti-to-pimpri-depot
+53,1,NORMAL_53_Mandai Stand To DSK Vishwa_Up-0530_0,Mandai Stand To DSK Vishwa,,0,,4196,,,53/1,1,1,53 - Mandai Stand To DSK Vishwa,53-mandai-stand-to-dsk-vishwa
+53,1,NORMAL_53_DSK Vishwa To Mandai Stand_Down-0620_0,DSK Vishwa To Mandai Stand,,0,,4198,,,53/1,2,2,53 - DSK Vishwa To Mandai Stand,53-dsk-vishwa-to-mandai-stand
+193,1,NORMAL_193_Hadapsar Gadital To Uruli Kanchan_Up-0600_0,Hadapsar Gadital To Uruli Kanchan,,0,,3651,,,193/1,1,1,193 - Hadapsar Gadital To Uruli Kanchan,193-hadapsar-gadital-to-uruli-kanchan
+13,1,NORMAL_13_Upper Depot To Shivajinagar (Ladies Sp)_Up-0740_0,Upper Depot To Shivajinagar (Ladies Sp),,1,,5042,,,13-Apr,1,1,13 - Upper Depot To Shivajinagar (Ladies Sp),13-upper-depot-to-shivajinagar-ladies-sp
+13,1,NORMAL_13_Shivajinagar To Upper Depot (Ladies Sp)_Down-0835_0,Shivajinagar To Upper Depot (Ladies Sp),,1,,5043,,,13-Apr,2,2,13 - Shivajinagar To Upper Depot (Ladies Sp),13-shivajinagar-to-upper-depot-ladies-sp
+323B,1,NORMAL_323B_Chikhali To Nehrunagar Depo_Down-2045_0,Chikhali To Nehrunagar Depo,,0,,3964,,,355/2,20,10,323B - Chikhali To Nehrunagar Depo,323b-chikhali-to-nehrunagar-depo
+183,1,NORMAL_183_Hadapsar Gadital To Kolawadi Via Theur_Up-0525_0,Hadapsar Gadital To Kolawadi Via Theur,,1,,5014,,,183/1,1,1,183 - Hadapsar Gadital To Kolawadi Via Theur,183-hadapsar-gadital-to-kolawadi-via-theur
+183,1,NORMAL_183_Kolawadi To Hadapsar Gadital Via Theur_Down-0610_0,Kolawadi To Hadapsar Gadital Via Theur,,1,,5015,,,183/1,2,2,183 - Kolawadi To Hadapsar Gadital Via Theur,183-kolawadi-to-hadapsar-gadital-via-theur
+183,1,NORMAL_183_Hadapsar Gadital To Theur_Up-0700_0,Hadapsar Gadital To Theur,,0,,3672,,,183/1,3,3,183 - Hadapsar Gadital To Theur,183-hadapsar-gadital-to-theur
+183,1,NORMAL_183_Theur To Hadapsar Gadital_Down-0745_0,Theur To Hadapsar Gadital,,0,,3888,,,183/1,4,4,183 - Theur To Hadapsar Gadital,183-theur-to-hadapsar-gadital
+51,1,NORMAL_51_Shivajinagar To Dhayari Maruti Mandi_Up-0500_0,Shivajinagar To Dhayari Maruti Mandi,,0,,3565,,,51/1,1,1,51 - Shivajinagar To Dhayari Maruti Mandi,51-shivajinagar-to-dhayari-maruti-mandi
+51,1,NORMAL_51_Dhayari Maruti Mandi To Shivajinagar_Down-0545_0,Dhayari Maruti Mandi To Shivajinagar,,0,,3566,,,51/1,2,2,51 - Dhayari Maruti Mandi To Shivajinagar,51-dhayari-maruti-mandi-to-shivajinagar
+51,1,NORMAL_51_Shivajinagar To DSK Vishwa_Up-0530_0,Shivajinagar To DSK Vishwa,,1,,5069,,,51/2,1,1,51 - Shivajinagar To DSK Vishwa,51-shivajinagar-to-dsk-vishwa
+51,1,NORMAL_51_DSK Vishwa To Shivajinagar_Down-0615_0,DSK Vishwa To Shivajinagar,,1,,5070,,,51/2,2,2,51 - DSK Vishwa To Shivajinagar,51-dsk-vishwa-to-shivajinagar
+329,1,NORMAL_329_Nigdi To Dehugaon Via Dehuroad_Up-0520_0,Nigdi To Dehugaon Via Dehuroad,,1,,5176,,,329/1,1,1,329 - Nigdi To Dehugaon Via Dehuroad,329-nigdi-to-dehugaon-via-dehuroad
+329,1,NORMAL_329_Dehugaon To Nigdi Via Dehuroad_Down-0600_0,Dehugaon To Nigdi Via Dehuroad,,1,,5177,,,329/1,2,2,329 - Dehugaon To Nigdi Via Dehuroad,329-dehugaon-to-nigdi-via-dehuroad
+323,1,NORMAL_323_Chikhali To Ma Na Pa_Down-2245_1,Chikhali To Ma Na Pa,,0,,4767,,,323/2,13,6,323 - Chikhali To Ma Na Pa,323-chikhali-to-ma-na-pa
+AC2_45,6,NORMAL_AC2_Nigdi To Hadapsar Gadital_Down-2010_0,Nigdi To Hadapsar Gadital,,1,,4384,,,AC2/1,8,4,AC2_45 - Nigdi To Hadapsar Gadital,ac2-45-nigdi-to-hadapsar-gadital
+276,1,NORMAL_276_Warje Malawadi To Chinchwad Gaon Up_Up-0525_0,Warje Malawadi To Chinchwad Gaon Up,,0,,3285,,,276/1,1,1,276 - Warje Malawadi To Chinchwad Gaon Up,276-warje-malawadi-to-chinchwad-gaon-up
+276,1,NORMAL_276_Chinchwad Gaon to Warje Malawadi_Down-0650_0,Chinchwad Gaon to Warje Malawadi,,0,,3289,,,276/1,2,2,276 - Chinchwad Gaon to Warje Malawadi,276-chinchwad-gaon-to-warje-malawadi
+103M,1,NORMAL_103M_Katraj To MIT College_Up-1635_0,Katraj To MIT College,,0,,3806,,,103/5,10,2,103M - Katraj To MIT College,103m-katraj-to-mit-college
+365_51,1,NORMAL_365_Hinjawadi Maan Phase 3 To Vadgaon Mawal_Up-0635_0,Hinjawadi Maan Phase 3 To Vadgaon Mawal,,1,,4448,,,365/1,2,2,365_51 - Hinjawadi Maan Phase 3 To Vadgaon Mawal,365-51-hinjawadi-maan-phase-3-to-vadgaon-mawal
+365_51,1,NORMAL_365_Vadgaon Mawal To Hinjawadi Maan Phase 3_Down-0810_0,Vadgaon Mawal To Hinjawadi Maan Phase 3,,1,,4447,,,365/1,3,3,365_51 - Vadgaon Mawal To Hinjawadi Maan Phase 3,365-51-vadgaon-mawal-to-hinjawadi-maan-phase-3
+10,1,NORMAL_10_Swargate To Keshavnagar_Up-0545_0,Swargate To Keshavnagar,,0,,3380,,,10-Jan,1,1,10 - Swargate To Keshavnagar,10-swargate-to-keshavnagar
+10,1,NORMAL_10_Keshavnagar To Swargate_Down-0640_0,Keshavnagar To Swargate,,0,,3381,,,10-Jan,2,2,10 - Keshavnagar To Swargate,10-keshavnagar-to-swargate
+132,1,NORMAL_132_Ma Na Pa To Shubham Society Nagar Road_UP-0530_0,Ma Na Pa To Shubham Society Nagar Road,,0,,3173,,,132/1,1,1,132 - Ma Na Pa To Shubham Society Nagar Road,132-ma-na-pa-to-shubham-society-nagar-road
+132,1,NORMAL_132_Manapa To Wadgaonsheri via Shubham_UP-0655_0,Manapa To Wadgaonsheri via Shubham,,0,,4121,,,132/6,1,1,132 - Manapa To Wadgaonsheri via Shubham,132-manapa-to-wadgaonsheri-via-shubham
+2H,1,NORMAL_2H_Sachchai Mata Mandir To Shivajinagar_Down-1635_0,Sachchai Mata Mandir To Shivajinagar,,0,,3498,,,02-Dec,8,2,2H - Sachchai Mata Mandir To Shivajinagar,2h-sachchai-mata-mandir-to-shivajinagar
+49,1,NORMAL_49_Khanapur To Pune Station_Down-0600_0,Khanapur To Pune Station,,0,,3561,,,49/1,1,1,49 - Khanapur To Pune Station,49-khanapur-to-pune-station
+49,1,NORMAL_49_Pune Station To Khanapur_Up-0715_0,Pune Station To Khanapur,,0,,3558,,,49/1,2,2,49 - Pune Station To Khanapur,49-pune-station-to-khanapur
+145A,1,NORMAL_145A_Pune Station To D2 Circle_Up-0530_0,Pune Station To D2 Circle,,0,,3750,,,145/1,1,1,145A - Pune Station To D2 Circle,145a-pune-station-to-d2-circle
+145A,1,NORMAL_145A_D2 Circle To Pune Station_Down-0640_0,D2 Circle To Pune Station,,0,,3751,,,145/1,2,2,145A - D2 Circle To Pune Station,145a-d2-circle-to-pune-station
+145,1,NORMAL_145_Pune Station To NDA Gol Market_Up-1120_0,Pune Station To NDA Gol Market,,0,,3572,,,145/1,5,5,145 - Pune Station To NDA Gol Market,145-pune-station-to-nda-gol-market
+145,1,NORMAL_145_NDA Golmarket To Pune Station_Down-1230_0,NDA Golmarket To Pune Station,,0,,3573,,,145/1,6,6,145 - NDA Golmarket To Pune Station,145-nda-golmarket-to-pune-station
+VJR2_49,1,NORMAL_VJR2_Warje Malwadi To Kesnand Phata_Up-0445_0,Warje Malwadi To Kesnand Phata,,0,,3357,,,VJR 2/1,1,1,VJR2_49 - Warje Malwadi To Kesnand Phata,vjr2-49-warje-malwadi-to-kesnand-phata
+146,1,NORMAL_146_Pune Station To Niljyoti Society_Up-0730_0,Pune Station To Niljyoti Society,,1,,3874,,,146/3,1,1,146 - Pune Station To Niljyoti Society,146-pune-station-to-niljyoti-society
+146,1,NORMAL_146_Niljyoti Society To Pune Station_Down-0810_0,Niljyoti Society To Pune Station,,1,,3875,,,146/3,2,2,146 - Niljyoti Society To Pune Station,146-niljyoti-society-to-pune-station
+146,1,NORMAL_146_Pune Station To Gokhalenagar_Up-2135_0,Pune Station To Gokhalenagar,,0,,3876,,,146/3,19,9,146 - Pune Station To Gokhalenagar,146-pune-station-to-gokhalenagar
+146,1,NORMAL_146_Gokhalenagar To Pune Station_Down-2210_0,Gokhalenagar To Pune Station,,0,,3877,,,146/3,20,10,146 - Gokhalenagar To Pune Station,146-gokhalenagar-to-pune-station
+361,1,NORMAL_361_Bhosari Terminal To Alandi_Down-0600_0,Bhosari Terminal To Alandi,,0,,3911,,,257/1,1,1,361 - Bhosari Terminal To Alandi,361-bhosari-terminal-to-alandi
+257,1,NORMAL_257_Alandi To Kesnand Phata via Markal_Down-0630_0,Alandi To Kesnand Phata via Markal,,1,,3239,,,257/1,2,2,257 - Alandi To Kesnand Phata via Markal,257-alandi-to-kesnand-phata-via-markal
+257,1,NORMAL_257_Kesnand Phata To Alandi via Markal_Up-0730_0,Kesnand Phata To Alandi via Markal,,1,,3435,,,257/1,3,3,257 - Kesnand Phata To Alandi via Markal,257-kesnand-phata-to-alandi-via-markal
+2J,1,NORMAL_2J_Katraj To Bhilarewadi_Up-0620_0,Katraj To Bhilarewadi,,0,,3476,,,Feb-15,1,1,2J - Katraj To Bhilarewadi,2j-katraj-to-bhilarewadi
+2,1,NORMAL_2_Bhilarewadi To Shivaji nagar_Up-0640_0,Bhilarewadi To Shivaji nagar,,0,,2495,,,Feb-15,2,2,2 - Bhilarewadi To Shivaji nagar,2-bhilarewadi-to-shivaji-nagar
+2,1,NORMAL_2_Shivaji nagar To Bhilarewadi_Down-0740_0,Shivaji nagar To Bhilarewadi,,0,,2929,,,Feb-15,3,3,2 - Shivaji nagar To Bhilarewadi,2-shivaji-nagar-to-bhilarewadi
+2J,1,NORMAL_2J_Bhilarewadi To Katraj_Down-1340_0,Bhilarewadi To Katraj,,0,,3478,,,Feb-15,8,8,2J - Bhilarewadi To Katraj,2j-bhilarewadi-to-katraj
+VJR2_49,1,NORMAL_VJR2_Kesnand Phata To Warje Malwadi_Down-0615_0,Kesnand Phata To Warje Malwadi,,0,,3358,,,VJR 2/1,2,2,VJR2_49 - Kesnand Phata To Warje Malwadi,vjr2-49-kesnand-phata-to-warje-malwadi
+331,1,NORMAL_331_Bhosari To Rahatnigaon_Up-1630_0,Bhosari To Rahatnigaon,,0,,3851,,,331/4,14,3,331 - Bhosari To Rahatnigaon,331-bhosari-to-rahatnigaon
+132,1,NORMAL_132_Shubham Society Nagar Road To Ma Na Pa_Down-0615_0,Shubham Society Nagar Road To Ma Na Pa,,0,,3174,,,132/1,2,2,132 - Shubham Society Nagar Road To Ma Na Pa,132-shubham-society-nagar-road-to-ma-na-pa
+132,1,NORMAL_132_Wadgaonsheri via Shubham To  Manapa_Down-0740_0,Wadgaonsheri via Shubham To  Manapa,,0,,4126,,,132/6,2,2,132 - Wadgaonsheri via Shubham To  Manapa,132-wadgaonsheri-via-shubham-to-manapa
+133,1,NORMAL_133_Ma Na Pa To Anand Park_Up-1210_0,Ma Na Pa To Anand Park,,0,,3200,,,133/3,5,5,133 - Ma Na Pa To Anand Park,133-ma-na-pa-to-anand-park
+148A,1,NORMAL_148A_Bhekarai Depot To Bhosari Terminal_Up-0545_0,Bhekarai Depot To Bhosari Terminal,,1,,3153,,,148/13,1,1,148A - Bhekarai Depot To Bhosari Terminal,148a-bhekarai-depot-to-bhosari-terminal
+148A,1,NORMAL_148A_Bhosari Terminal To Bhekarai Depot_Down-0745_0,Bhosari Terminal To Bhekarai Depot,,1,,3839,,,148/13,2,2,148A - Bhosari Terminal To Bhekarai Depot,148a-bhosari-terminal-to-bhekarai-depot
+302D,1,NORMAL_302D_Nehrunagar Depo To Pimprigaon_Up-0515_0,Nehrunagar Depo To Pimprigaon,,0,,4436,,,326/1,1,1,302D - Nehrunagar Depo To Pimprigaon,302d-nehrunagar-depo-to-pimprigaon
+326,1,NORMAL_326_Chikhali To Pimprigaon_Down-0600_0,Chikhali To Pimprigaon,,0,,3974,,,326/1,3,3,326 - Chikhali To Pimprigaon,326-chikhali-to-pimprigaon
+326A,1,NORMAL_326A_Chikhali To Nehrunagar Depo_Down-2100_0,Chikhali To Nehrunagar Depo,,0,,3972,,,326/1,21,10,326A - Chikhali To Nehrunagar Depo,326a-chikhali-to-nehrunagar-depo
+326A,1,NORMAL_326A_Nehrunagar Depo To Chikhali_Up-0550_0,Nehrunagar Depo To Chikhali,,0,,3971,,,326/2,1,1,326A - Nehrunagar Depo To Chikhali,326a-nehrunagar-depo-to-chikhali
+130,1,NORMAL_130_Yewalewadi To Shivajinagar_Up-0625_0,Yewalewadi To Shivajinagar,,0,,3445,,,130/2,1,1,130 - Yewalewadi To Shivajinagar,130-yewalewadi-to-shivajinagar
+130,1,NORMAL_130_Shivajinagar To Yewalewadi_Down-1020_0,Shivajinagar To Yewalewadi,,0,,3447,,,130/2,5,5,130 - Shivajinagar To Yewalewadi,130-shivajinagar-to-yewalewadi
+130A,1,NORMAL_130A_Yewalewadi To Katraj_Down-1420_0,Yewalewadi To Katraj,,0,,3456,,,130/2,8,8,130A - Yewalewadi To Katraj,130a-yewalewadi-to-katraj
+130A,1,NORMAL_130A_Katraj To Yewalewadi_Up-1610_0,Katraj To Yewalewadi,,0,,3455,,,130/2,9,1,130A - Katraj To Yewalewadi,130a-katraj-to-yewalewadi
+17A,1,NORMAL_17A_Natraj Stand To Narhegaon_Up-0530_0,Natraj Stand To Narhegaon,,1,,3769,,,17-Jan,1,1,17A - Natraj Stand To Narhegaon,17a-natraj-stand-to-narhegaon
+17,1,NORMAL_17_Narhegaon To Shaniwarwada_Down-0615_0,Narhegaon To Shaniwarwada,,0,,2327,,,17-Jan,2,2,17 - Narhegaon To Shaniwarwada,17-narhegaon-to-shaniwarwada
+17,1,NORMAL_17_Shaniwarwada To Narhegaon_Up-0715_0,Shaniwarwada To Narhegaon,,0,,3553,,,17-Jan,3,3,17 - Shaniwarwada To Narhegaon,17-shaniwarwada-to-narhegaon
+17A,1,NORMAL_17A_Narhegaon To Natraj Stand_Down-2150_0,Narhegaon To Natraj Stand,,1,,3771,,,17-Jan,14,6,17A - Narhegaon To Natraj Stand,17a-narhegaon-to-natraj-stand
+143A,1,NORMAL_143A_Galinde Path To Pune Station (Vai Nal Stop)_Up-0615_0,Galinde Path To Pune Station (Vai Nal Stop),,0,,3754,,,143/4,1,1,143A - Galinde Path To Pune Station (Vai Nal Stop),143a-galinde-path-to-pune-station-vai-nal-stop
+143A,1,NORMAL_143A_Pune Station To Galinde Path (Vai Nal Stop)_Down-0705_0,Pune Station To Galinde Path (Vai Nal Stop),,0,,3752,,,143/4,2,2,143A - Pune Station To Galinde Path (Vai Nal Stop),143a-pune-station-to-galinde-path-vai-nal-stop
+331,1,NORMAL_331_Rahatnigaon To Bhosari_Down-0800_0,Rahatnigaon To Bhosari,,0,,3852,,,331/1,3,3,331 - Rahatnigaon To Bhosari,331-rahatnigaon-to-bhosari
+304A,1,NORMAL_304A_Bhosari To Nehrunagar Depo_Down-2105_0,Bhosari To Nehrunagar Depo,,0,,4046,,,331/1,18,9,304A - Bhosari To Nehrunagar Depo,304a-bhosari-to-nehrunagar-depo
+13A,1,NORMAL_13A_Shivajinagar To VIT College_Down-0715_0,Shivajinagar To VIT College,,0,,3749,,,13/16,2,2,13A - Shivajinagar To VIT College,13a-shivajinagar-to-vit-college
+13A,1,NORMAL_13A_VIT College To Shivajinagar_Up-0810_0,VIT College To Shivajinagar,,0,,4575,,,13/16,3,3,13A - VIT College To Shivajinagar,13a-vit-college-to-shivajinagar
+19D,1,NORMAL_19D_Shivajinagar To Trinity College_Down-1505_0,Shivajinagar To Trinity College,,0,,3440,,,19-Jun,9,1,19D - Shivajinagar To Trinity College,19d-shivajinagar-to-trinity-college
+19D,1,NORMAL_19D_Trinity College To Shivajinagar_Up-1620_0,Trinity College To Shivajinagar,,0,,3429,,,19-Jun,10,2,19D - Trinity College To Shivajinagar,19d-trinity-college-to-shivajinagar
+354,1,NORMAL_354_Pimprigaon To Marketyard_Down-0530_0,Pimprigaon To Marketyard,,0,,3998,,,354/1,2,2,354 - Pimprigaon To Marketyard,354-pimprigaon-to-marketyard
+354,1,NORMAL_354_Marketyard To Pimprigaon_Up-0710_0,Marketyard To Pimprigaon,,0,,3997,,,354/1,3,3,354 - Marketyard To Pimprigaon,354-marketyard-to-pimprigaon
+354,1,NORMAL_354_Marketyard To Pimpri Road_Down-0800_0,Marketyard To Pimpri Road,,0,,4001,,,354/10,2,2,354 - Marketyard To Pimpri Road,354-marketyard-to-pimpri-road
+354,1,NORMAL_354_Pimpri Road To Marketyard_Up-0940_0,Pimpri Road To Marketyard,,0,,4000,,,354/10,3,3,354 - Pimpri Road To Marketyard,354-pimpri-road-to-marketyard
+30,1,NORMAL_30_Marketyard To Ghotawade Phata_Up-0500_0,Marketyard To Ghotawade Phata,,0,,2854,,,30-Jan,1,1,30 - Marketyard To Ghotawade Phata,30-marketyard-to-ghotawade-phata
+30,1,NORMAL_30_Ghotawade Phata To Marketyard_Down-0630_0,Ghotawade Phata To Marketyard,,0,,2813,,,30-Jan,2,2,30 - Ghotawade Phata To Marketyard,30-ghotawade-phata-to-marketyard
+84B,1,NORMAL_84B_Kothrud Stand To Sangrun_Up-0520_0,Kothrud Stand To Sangrun,,0,,2378,,,84/1,1,1,84B - Kothrud Stand To Sangrun,84b-kothrud-stand-to-sangrun
+84,1,NORMAL_84_Sangrun To Deccan Gymkhana_Down-0635_0,Sangrun To Deccan Gymkhana,,0,,2868,,,84/1,2,2,84 - Sangrun To Deccan Gymkhana,84-sangrun-to-deccan-gymkhana
+84,1,NORMAL_84_Deccan Gymkhana To Sangrun_Up-0805_0,Deccan Gymkhana To Sangrun,,0,,2233,,,84/1,3,3,84 - Deccan Gymkhana To Sangrun,84-deccan-gymkhana-to-sangrun
+198,1,NORMAL_198_Hadapsar Gadital To Railway Crossing Manjri_Up-0550_0,Hadapsar Gadital To Railway Crossing Manjri,,1,,5198,,,198/1,1,1,198 - Hadapsar Gadital To Railway Crossing Manjri,198-hadapsar-gadital-to-railway-crossing-manjri
+198,1,NORMAL_198_Railway Crossing Manjri To Hadapsar Gadital_Down-0630_0,Railway Crossing Manjri To Hadapsar Gadital,,1,,5204,,,198/1,2,2,198 - Railway Crossing Manjri To Hadapsar Gadital,198-railway-crossing-manjri-to-hadapsar-gadital
+133,1,NORMAL_133_Anand Park To Ma Na Pa_Down-0620_0,Anand Park To Ma Na Pa,,0,,3201,,,133/1,2,2,133 - Anand Park To Ma Na Pa,133-anand-park-to-ma-na-pa
+133,1,NORMAL_133_Sainathnagar Coloumbia Hospital To Ma Na Pa Dengle Pul 2_Down-2330_0,Sainathnagar Coloumbia Hospital To Ma Na Pa Dengle Pul 2,,1,,4581,,,133/3,16,8,133 - Sainathnagar Coloumbia Hospital To Ma Na Pa Dengle Pul 2,133-sainathnagar-coloumbia-hospital-to-ma-na-pa-dengle-pul-2
+61,1,NORMAL_61_Nasrapur To Swargate_Down-0630_0,Nasrapur To Swargate,,0,,2357,,,61/1,1,1,61 - Nasrapur To Swargate,61-nasrapur-to-swargate
+61,1,NORMAL_61_Swargate To Nasrapur_Up-0745_0,Swargate To Nasrapur,,0,,2255,,,61/1,2,2,61 - Swargate To Nasrapur,61-swargate-to-nasrapur
+341,1,NORMAL_341_Mohannagar to Ma Na Pa_Down-0715_0,Mohannagar to Ma Na Pa,,0,,3307,,,341/1,1,1,341 - Mohannagar to Ma Na Pa,341-mohannagar-to-ma-na-pa
+341,1,NORMAL_341_Ma Na Pa To Mohannagar_Up-0830_0,Ma Na Pa To Mohannagar,,0,,3305,,,341/1,3,3,341 - Ma Na Pa To Mohannagar,341-ma-na-pa-to-mohannagar
+345,1,NORMAL_345_Nigdi To Thergaon_Down-0530_0,Nigdi To Thergaon,,1,,4283,,,345/1,1,1,345 - Nigdi To Thergaon,345-nigdi-to-thergaon
+345,1,NORMAL_345_Thergaon  to Pune Station_Down-0600_0,Thergaon  to Pune Station,,0,,3287,,,345/1,2,2,345 - Thergaon  to Pune Station,345-thergaon-to-pune-station
+345,1,NORMAL_345_Pune Station to Thergaon_Up-0700_0,Pune Station to Thergaon,,0,,3283,,,345/1,3,3,345 - Pune Station to Thergaon,345-pune-station-to-thergaon
+345,1,NORMAL_345_Thergaon To Nigdi_Up-1300_0,Thergaon To Nigdi,,1,,4282,,,345/1,8,8,345 - Thergaon To Nigdi,345-thergaon-to-nigdi
+14,1,NORMAL_14_Kesnand Phata To Dhayari Maruti Mandir_Down-0550_0,Kesnand Phata To Dhayari Maruti Mandir,,0,,3356,,,14-Jan,1,1,14 - Kesnand Phata To Dhayari Maruti Mandir,14-kesnand-phata-to-dhayari-maruti-mandir
+144,1,NORMAL_144_Kothrud Stand To Pune Station_Up-0530_0,Kothrud Stand To Pune Station,,0,,3840,,,144/1,1,1,144 - Kothrud Stand To Pune Station,144-kothrud-stand-to-pune-station
+144,1,NORMAL_144_Pune Station To Kothrud Stand_Down-0620_0,Pune Station To Kothrud Stand,,0,,3843,,,144/1,2,2,144 - Pune Station To Kothrud Stand,144-pune-station-to-kothrud-stand
+144D,1,NORMAL_144D_Kumbare Park To Pune Station_Up-0700_0,Kumbare Park To Pune Station,,0,,3862,,,144/7,1,1,144D - Kumbare Park To Pune Station,144d-kumbare-park-to-pune-station
+144D,1,NORMAL_144D_Pune Station To Kumbare Park_Down-0755_0,Pune Station To Kumbare Park,,0,,3864,,,144/7,2,2,144D - Pune Station To Kumbare Park,144d-pune-station-to-kumbare-park
+144,1,NORMAL_144_Sai Sayajinagar To Pune Station_Up-0615_1,Sai Sayajinagar To Pune Station,,0,,3859,,,144/8,1,1,144 - Sai Sayajinagar To Pune Station,144-sai-sayajinagar-to-pune-station
+144,1,NORMAL_144_Pune Station To Pune Station_Round-0710_1,Pune Station To Pune Station,,1,,4266,,,144/8,2,2,144 - Pune Station To Pune Station,144-pune-station-to-pune-station
+361,1,NORMAL_361_Alandi To Bhosari Terminal_Up-1740_0,Alandi To Bhosari Terminal,,0,,3910,,,257/1,10,3,361 - Alandi To Bhosari Terminal,361-alandi-to-bhosari-terminal
+67,1,NORMAL_67_Swargate To Kharadi_UP-1445_0,Swargate To Kharadi,,0,,3187,,,67/4,7,1,67 - Swargate To Kharadi,67-swargate-to-kharadi
+3,1,NORMAL_3_Swargate To Pune Station_Up-0600_0,Swargate To Pune Station,,0,,2316,,,03-Jan,1,1,3 - Swargate To Pune Station,3-swargate-to-pune-station
+3,1,NORMAL_3_Pune Station To Swargate_Down-0640_0,Pune Station To Swargate,,0,,2678,,,03-Jan,2,2,3 - Pune Station To Swargate,3-pune-station-to-swargate
+191,1,NORMAL_191_Pune Station To Trinity College_Up-0600_0,Pune Station To Trinity College,,0,,3647,,,191/1,1,1,191 - Pune Station To Trinity College,191-pune-station-to-trinity-college
+191,1,NORMAL_191_Trinity College To Pune Station_Down-0700_0,Trinity College To Pune Station,,0,,3648,,,191/1,2,2,191 - Trinity College To Pune Station,191-trinity-college-to-pune-station
+201,1,NORMAL_201_Bhekrainagar To Alandi_Up-0510_0,Bhekrainagar To Alandi,,0,,3657,,,201/1,1,1,201 - Bhekrainagar To Alandi,201-bhekrainagar-to-alandi
+201,1,NORMAL_201_Alandi To Bhekrainagar_Down-0710_0,Alandi To Bhekrainagar,,0,,3658,,,201/1,2,2,201 - Alandi To Bhekrainagar,201-alandi-to-bhekrainagar
+46,1,NORMAL_46_Swargate To Lohgaon Via Dhanori_Up-0520_0,Swargate To Lohgaon Via Dhanori,,0,,4098,,,46/1,1,1,46 - Swargate To Lohgaon Via Dhanori,46-swargate-to-lohgaon-via-dhanori
+46,1,NORMAL_46_Lohgaon To Swargate Via Dhanori_Down-0620_0,Lohgaon To Swargate Via Dhanori,,0,,4100,,,46/1,2,2,46 - Lohgaon To Swargate Via Dhanori,46-lohgaon-to-swargate-via-dhanori
+67,1,NORMAL_67_Kharadi To Swargate_DOWN-0625_0,Kharadi To Swargate,,0,,3188,,,67/1,2,2,67 - Kharadi To Swargate,67-kharadi-to-swargate
+164,1,NORMAL_164_Swargate To Vimannagar_UP-0545_0,Swargate To Vimannagar,,0,,1059,,,164/1,1,1,164 - Swargate To Vimannagar,164-swargate-to-vimannagar
+164,1,NORMAL_164_Vimannagar To Swargate_DOWN-0645_0,Vimannagar To Swargate,,0,,1060,,,164/1,2,2,164 - Vimannagar To Swargate,164-vimannagar-to-swargate
+12,1,NORMAL_12_Bhakti Shakti To Upper Depot_Down-0705_0,Bhakti Shakti To Upper Depot,,0,,4809,,,12-Jan,2,2,12 - Bhakti Shakti To Upper Depot,12-bhakti-shakti-to-upper-depot
+314,1,NORMAL_314_Bhakti Shakti To Mhalunge Gaon / Dwarka City Phata (Y Junction)_Up-0535_0,Bhakti Shakti To Mhalunge Gaon / Dwarka City Phata (Y Junction),,1,,4623,,,314/1,1,1,314 - Bhakti Shakti To Mhalunge Gaon / Dwarka City Phata (Y Junction),314-bhakti-shakti-to-mhalunge-gaon-dwarka-city-phata-y-junction
+314,1,NORMAL_314_Mhalunge Gaon / Dwarka City Phata (Y Junction) To Bhakti Shakti_Down-0620_0,Mhalunge Gaon / Dwarka City Phata (Y Junction) To Bhakti Shakti,,1,,4622,,,314/1,2,2,314 - Mhalunge Gaon / Dwarka City Phata (Y Junction) To Bhakti Shakti,314-mhalunge-gaon-dwarka-city-phata-y-junction-to-bhakti-shakti
+117,1,NORMAL_117_Swargate To Dhayari Maruti Mandir_Up-0535_0,Swargate To Dhayari Maruti Mandir,,0,,3503,,,117/1,1,1,117 - Swargate To Dhayari Maruti Mandir,117-swargate-to-dhayari-maruti-mandir
+117,1,NORMAL_117_Dhayari Maruti Mandir To Swargate_Down-0615_0,Dhayari Maruti Mandir To Swargate,,0,,3504,,,117/1,2,2,117 - Dhayari Maruti Mandir To Swargate,117-dhayari-maruti-mandir-to-swargate
+107,1,NORMAL_107_Gharkul Vasahat Warje To Pimplegurav_Down-0530_0,Gharkul Vasahat Warje To Pimplegurav,,1,,3197,,,107/1,1,1,107 - Gharkul Vasahat Warje To Pimplegurav,107-gharkul-vasahat-warje-to-pimplegurav
+107,1,NORMAL_107_Pimplegurav To Gharkul Vasahat Warje_Up-0620_0,Pimplegurav To Gharkul Vasahat Warje,,1,,4438,,,107/1,2,2,107 - Pimplegurav To Gharkul Vasahat Warje,107-pimplegurav-to-gharkul-vasahat-warje
+117C,1,NORMAL_117C_Swargate To Raykarmala_Up-1735_0,Swargate To Raykarmala,,0,,3802,,,117/3,15,5,117C - Swargate To Raykarmala,117c-swargate-to-raykarmala
+117C,1,NORMAL_117C_Raykarmala To Swargate_Down-1835_0,Raykarmala To Swargate,,0,,3804,,,117/3,16,6,117C - Raykarmala To Swargate,117c-raykarmala-to-swargate
+234,1,NORMAL_234_Ma Na Pa To Kharadi Gaon_Up-0530_0,Ma Na Pa To Kharadi Gaon,,0,,3185,,,234/1,1,1,234 - Ma Na Pa To Kharadi Gaon,234-ma-na-pa-to-kharadi-gaon
+161,1,NORMAL_161_Warje Malwadi To Vimannagar_Up-0540_0,Warje Malwadi To Vimannagar,,0,,2932,,,161/1,1,1,161 - Warje Malwadi To Vimannagar,161-warje-malwadi-to-vimannagar
+161,1,NORMAL_161_Vimannagar To  Warje Malwadi_Down-0650_0,Vimannagar To  Warje Malwadi,,0,,2931,,,161/1,2,2,161 - Vimannagar To  Warje Malwadi,161-vimannagar-to-warje-malwadi
+234,1,NORMAL_234_Kharadi Gaon To Ma Na Pa_Down-0745_0,Kharadi Gaon To Ma Na Pa,,0,,3186,,,234/6,2,2,234 - Kharadi Gaon To Ma Na Pa,234-kharadi-gaon-to-ma-na-pa
+77,1,NORMAL_77_Warje Malwadi To Warje Malwadi_Round-0700_0,Warje Malwadi To Warje Malwadi,,0,,3617,,,77/1,1,1,77 - Warje Malwadi To Warje Malwadi,77-warje-malwadi-to-warje-malwadi
+113,1,NORMAL_113_Appa Balawant Chowk To Pimplegurav Via Medi Point Mayurnagri_Up-0705_0,Appa Balawant Chowk To Pimplegurav Via Medi Point Mayurnagri,,1,,4712,,,113/10,1,1,113 - Appa Balawant Chowk To Pimplegurav Via Medi Point Mayurnagri,113-appa-balawant-chowk-to-pimplegurav-via-medi-point-mayurnagri
+113,1,NORMAL_113_Pimplegurav To Appa Balawant Chowk Via Mayurnagri Medi Point_Down-0745_0,Pimplegurav To Appa Balawant Chowk Via Mayurnagri Medi Point,,1,,4711,,,113/10,2,2,113 - Pimplegurav To Appa Balawant Chowk Via Mayurnagri Medi Point,113-pimplegurav-to-appa-balawant-chowk-via-mayurnagri-medi-point
+91,1,NORMAL_91_Ishannagari To Ma Na Pa Congress Bhavan_Down-0850_0,Ishannagari To Ma Na Pa Congress Bhavan,,1,,4280,,,91/1,1,1,91 - Ishannagari To Ma Na Pa Congress Bhavan,91-ishannagari-to-ma-na-pa-congress-bhavan
+91,1,NORMAL_91_Ma Na Pa Congress Bhavan To Ishannagari_Up-0935_0,Ma Na Pa Congress Bhavan To Ishannagari,,1,,4279,,,91/1,2,2,91 - Ma Na Pa Congress Bhavan To Ishannagari,91-ma-na-pa-congress-bhavan-to-ishannagari
+118,1,NORMAL_118_Swargate To Venutai Chavan College_Up-0545_0,Swargate To Venutai Chavan College,,0,,3506,,,118/1,1,1,118 - Swargate To Venutai Chavan College,118-swargate-to-venutai-chavan-college
+118,1,NORMAL_118_Venutai Chavan College To Swargate_Down-0620_0,Venutai Chavan College To Swargate,,0,,3509,,,118/1,2,2,118 - Venutai Chavan College To Swargate,118-venutai-chavan-college-to-swargate
+216,1,NORMAL_216_Bharati Vidyapeeth To Bharati Vidyapeeth_Round-0625_0,Bharati Vidyapeeth To Bharati Vidyapeeth,,0,,3517,,,216/1,1,1,216 - Bharati Vidyapeeth To Bharati Vidyapeeth,216-bharati-vidyapeeth-to-bharati-vidyapeeth
+216C,1,NORMAL_216C_Bharati Vidyapeeth To Mandai_Up-0905_0,Bharati Vidyapeeth To Mandai,,0,,3712,,,216/4,1,1,216C - Bharati Vidyapeeth To Mandai,216c-bharati-vidyapeeth-to-mandai
+216A,1,NORMAL_216A_Mandai To Katraj_Down-0940_0,Mandai To Katraj,,0,,3708,,,216/4,2,2,216A - Mandai To Katraj,216a-mandai-to-katraj
+216C,1,NORMAL_216C_Mandai To Bharati Vidyapeeth_Down-1235_0,Mandai To Bharati Vidyapeeth,,0,,3713,,,216/4,5,5,216C - Mandai To Bharati Vidyapeeth,216c-mandai-to-bharati-vidyapeeth
+216A,1,NORMAL_216A_Katraj To Mandai_Up-1800_0,Katraj To Mandai,,0,,3707,,,216/4,7,2,216A - Katraj To Mandai,216a-katraj-to-mandai
+299,1,NORMAL_299_Katraj To Bhosarigaon_Up-0600_0,Katraj To Bhosarigaon,,0,,4752,,,299/1,1,1,299 - Katraj To Bhosarigaon,299-katraj-to-bhosarigaon
+299,1,NORMAL_299_Bhosarigaon To Katraj_Down-0720_0,Bhosarigaon To Katraj,,0,,4753,,,299/1,2,2,299 - Bhosarigaon To Katraj,299-bhosarigaon-to-katraj
+47,1,NORMAL_47_Sanaswadi Nandoshi To Shaniwarwada_Down-0650_0,Sanaswadi Nandoshi To Shaniwarwada,,0,,2466,,,47/1,1,1,47 - Sanaswadi Nandoshi To Shaniwarwada,47-sanaswadi-nandoshi-to-shaniwarwada
+47,1,NORMAL_47_Shaniwarwada To Sanaswadi Nandoshi_Up-0750_0,Shaniwarwada To Sanaswadi Nandoshi,,0,,2962,,,47/1,2,2,47 - Shaniwarwada To Sanaswadi Nandoshi,47-shaniwarwada-to-sanaswadi-nandoshi
+303,1,NORMAL_303_Akurdi Railway Station To Rupeenagar_Down-0850_0,Akurdi Railway Station To Rupeenagar,,1,,5081,,,303/3,4,4,303 - Akurdi Railway Station To Rupeenagar,303-akurdi-railway-station-to-rupeenagar
+303,1,NORMAL_303_Rupeenagar To Akurdi Railway Station_Up-0920_0,Rupeenagar To Akurdi Railway Station,,1,,5082,,,303/3,5,5,303 - Rupeenagar To Akurdi Railway Station,303-rupeenagar-to-akurdi-railway-station
+89,1,NORMAL_89_Swargate To Niljyoti_Up-0550_0,Swargate To Niljyoti,,0,,3459,,,89/1,1,1,89 - Swargate To Niljyoti,89-swargate-to-niljyoti
+89,1,NORMAL_89_Niljyoti To Swargate_Down-0625_0,Niljyoti To Swargate,,0,,3460,,,89/1,2,2,89 - Niljyoti To Swargate,89-niljyoti-to-swargate
+90,1,NORMAL_90_Swargate To Gokhalenagar_Up-0530_0,Swargate To Gokhalenagar,,0,,3464,,,90/1,1,1,90 - Swargate To Gokhalenagar,90-swargate-to-gokhalenagar
+90,1,NORMAL_90_Gokhalenagar To Swargate_Down-0605_0,Gokhalenagar To Swargate,,0,,4307,,,90/1,2,2,90 - Gokhalenagar To Swargate,90-gokhalenagar-to-swargate
+90,1,NORMAL_90_Swargate To Pandavnagar_Up-0720_0,Swargate To Pandavnagar,,0,,3461,,,90/4,1,1,90 - Swargate To Pandavnagar,90-swargate-to-pandavnagar
+90,1,NORMAL_90_Pandavnagar To Swargate_Down-0755_0,Pandavnagar To Swargate,,0,,3462,,,90/4,2,2,90 - Pandavnagar To Swargate,90-pandavnagar-to-swargate
+93,1,NORMAL_93_Deccan Gymkhana To Pimplenilakh_Up-0530_0,Deccan Gymkhana To Pimplenilakh,,0,,3468,,,93/1,1,1,93 - Deccan Gymkhana To Pimplenilakh,93-deccan-gymkhana-to-pimplenilakh
+93,1,NORMAL_93_Pimplenilakh To Deccan Gymkhana_Down-0615_0,Pimplenilakh To Deccan Gymkhana,,0,,3467,,,93/1,2,2,93 - Pimplenilakh To Deccan Gymkhana,93-pimplenilakh-to-deccan-gymkhana
+303,1,NORMAL_303_Bhakti Shakti To Bopodi_Down-0820_0,Bhakti Shakti To Bopodi,,1,,4053,,,303/4,5,5,303 - Bhakti Shakti To Bopodi,303-bhakti-shakti-to-bopodi
+154,1,NORMAL_154_Pune Station To Vishrantwadi_Up-0555_0,Pune Station To Vishrantwadi,,0,,4604,,,154/3,1,1,154 - Pune Station To Vishrantwadi,154-pune-station-to-vishrantwadi
+113,1,NORMAL_113_Mandai Stand To Vasantdada Putala Sangvi Mandai Stand_Round-0520_0,Mandai Stand To Vasantdada Putala Sangvi Mandai Stand,,1,,3252,,,113/1,1,1,113 - Mandai Stand To Vasantdada Putala Sangvi Mandai Stand,113-mandai-stand-to-vasantdada-putala-sangvi-mandai-stand
+151,1,NORMAL_151_Alandi To Ma Na Pa Dengle Pul 2 Via 509 Pune Station (Ladies Sp)_Down-0830_0,Alandi To Ma Na Pa Dengle Pul 2 Via 509 Pune Station (Ladies Sp),,1,,5128,,,151/6,2,2,151 - Alandi To Ma Na Pa Dengle Pul 2 Via 509 Pune Station (Ladies Sp),151-alandi-to-ma-na-pa-dengle-pul-2-via-509-pune-station-ladies-sp
+151,1,NORMAL_151_Ma Na Pa Petrol Pump To Alandi Via Pune Station 509 (Ladies Sp)_Up-1750_0,Ma Na Pa Petrol Pump To Alandi Via Pune Station 509 (Ladies Sp),,1,,5127,,,151/6,5,1,151 - Ma Na Pa Petrol Pump To Alandi Via Pune Station 509 (Ladies Sp),151-ma-na-pa-petrol-pump-to-alandi-via-pune-station-509-ladies-sp
+158,1,NORMAL_158_Lohgaon To Ma Na Pa (Ladies Sp)_Down-0830_0,Lohgaon To Ma Na Pa (Ladies Sp),,1,,4480,,,158/10,4,4,158 - Lohgaon To Ma Na Pa (Ladies Sp),158-lohgaon-to-ma-na-pa-ladies-sp
+158,1,NORMAL_158_Ma Na Pa To Lohgaon (Ladies Sp)_Up-0935_0,Ma Na Pa To Lohgaon (Ladies Sp),,1,,4479,,,158/10,5,5,158 - Ma Na Pa To Lohgaon (Ladies Sp),158-ma-na-pa-to-lohgaon-ladies-sp
+169,1,NORMAL_169_Ma Na Pa Dengle Pul To Vadgaon Sheri Via Kalyaninagar_Up-0735_0,Ma Na Pa Dengle Pul To Vadgaon Sheri Via Kalyaninagar,,1,,4638,,,169/8,1,1,169 - Ma Na Pa Dengle Pul To Vadgaon Sheri Via Kalyaninagar,169-ma-na-pa-dengle-pul-to-vadgaon-sheri-via-kalyaninagar
+169,1,NORMAL_169_Vadgaon Sheri To Ma Na Pa Dengle Pul Via Kalyaninagar (Ladies Sp)_Down-0820_0,Vadgaon Sheri To Ma Na Pa Dengle Pul Via Kalyaninagar (Ladies Sp),,1,,4996,,,169/8,2,2,169 - Vadgaon Sheri To Ma Na Pa Dengle Pul Via Kalyaninagar (Ladies Sp),169-vadgaon-sheri-to-ma-na-pa-dengle-pul-via-kalyaninagar-ladies-sp
+169,1,NORMAL_169_Vadgaon Sheri To Ma Na Pa Dengle Pul Via Kalyaninagar_Down-1135_0,Vadgaon Sheri To Ma Na Pa Dengle Pul Via Kalyaninagar,,1,,4639,,,169/8,6,6,169 - Vadgaon Sheri To Ma Na Pa Dengle Pul Via Kalyaninagar,169-vadgaon-sheri-to-ma-na-pa-dengle-pul-via-kalyaninagar
+348,1,NORMAL_348_Pune Station To Nigdi_Up-0855_0,Pune Station To Nigdi,,0,,4784,,,348/12,2,2,348 - Pune Station To Nigdi,348-pune-station-to-nigdi
+169,1,NORMAL_169_Ma Na Pa Dengle Pul To Vadgaon Sheri Via Kalyaninagar (Ladies Sp)_Up-1700_0,Ma Na Pa Dengle Pul To Vadgaon Sheri Via Kalyaninagar (Ladies Sp),,1,,4995,,,169/8,9,3,169 - Ma Na Pa Dengle Pul To Vadgaon Sheri Via Kalyaninagar (Ladies Sp),169-ma-na-pa-dengle-pul-to-vadgaon-sheri-via-kalyaninagar-ladies-sp
+VJR6,1,NORMAL_VJR6_Bhosari To Hinjawadi Maan Phase 3_Up-0530_0,Bhosari To Hinjawadi Maan Phase 3,,0,,3641,,,VJR 6/1,1,1,VJR6 - Bhosari To Hinjawadi Maan Phase 3,vjr6-bhosari-to-hinjawadi-maan-phase-3
+VJR6,1,NORMAL_VJR6_Hinjawadi Maan Phase 3 To Bhosari_Down-0645_0,Hinjawadi Maan Phase 3 To Bhosari,,0,,3316,,,VJR 6/1,2,2,VJR6 - Hinjawadi Maan Phase 3 To Bhosari,vjr6-hinjawadi-maan-phase-3-to-bhosari
+103,1,NORMAL_103_Kothrud Depot To Katraj (Ladies Sp)_Down-1650_1,Kothrud Depot To Katraj (Ladies Sp),,1,,4500,,,103/23,10,4,103 - Kothrud Depot To Katraj (Ladies Sp),103-kothrud-depot-to-katraj-ladies-sp
+103,1,NORMAL_103_Katraj To Kothrud Depot (Ladies Sp)_Up-0820_0,Katraj To Kothrud Depot (Ladies Sp),,1,,4499,,,103/21,3,3,103 - Katraj To Kothrud Depot (Ladies Sp),103-katraj-to-kothrud-depot-ladies-sp
+303,1,NORMAL_303_Bopodi To Bhakti Shakti_Up-1700_0,Bopodi To Bhakti Shakti,,1,,4052,,,303/4,16,3,303 - Bopodi To Bhakti Shakti,303-bopodi-to-bhakti-shakti
+348,1,NORMAL_348_Nigdi To Pune Station_Down-0520_0,Nigdi To Pune Station,,0,,4785,,,348/1,1,1,348 - Nigdi To Pune Station,348-nigdi-to-pune-station
+81,1,NORMAL_81_Kumbare Park To Pune Station_Up-0630_0,Kumbare Park To Pune Station,,0,,3626,,,81/1,1,1,81 - Kumbare Park To Pune Station,81-kumbare-park-to-pune-station
+81,1,NORMAL_81_Pune Station To Kumbare Park_Down-0720_0,Pune Station To Kumbare Park,,0,,3627,,,81/1,2,2,81 - Pune Station To Kumbare Park,81-pune-station-to-kumbare-park
+151,1,NORMAL_151_Pune Station To Alandi_Up-0605_0,Pune Station To Alandi,,0,,3634,,,150/1,1,1,151 - Pune Station To Alandi,151-pune-station-to-alandi
+151,1,NORMAL_151_Alandi To Pune Station_Down-0705_0,Alandi To Pune Station,,0,,3635,,,150/1,2,2,151 - Alandi To Pune Station,151-alandi-to-pune-station
+150_73,1,NORMAL_150_Pune Station Depo To Pimplegurav Via Wakdewadi Khadki Station Buddha Vihar_Up-0830_0,Pune Station Depo To Pimplegurav Via Wakdewadi Khadki Station Buddha Vihar,,1,,4553,,,150/1,3,3,150_73 - Pune Station Depo To Pimplegurav Via Wakdewadi Khadki Station Buddha Vihar,150-73-pune-station-depo-to-pimplegurav-via-wakdewadi-khadki-station-buddha-vihar
+150_73,1,NORMAL_150_Pimplegurav To Pune Station Depo Via Buddha Vihar Khadki Station Wakdewadi_Down-0925_0,Pimplegurav To Pune Station Depo Via Buddha Vihar Khadki Station Wakdewadi,,1,,4554,,,150/1,4,4,150_73 - Pimplegurav To Pune Station Depo Via Buddha Vihar Khadki Station Wakdewadi,150-73-pimplegurav-to-pune-station-depo-via-buddha-vihar-khadki-station-wakdewadi
+21A,1,NORMAL_21A_Swargate To Ammunition Factory_Up-0700_0,Swargate To Ammunition Factory,,0,,3716,,,21-Oct,1,1,21A - Swargate To Ammunition Factory,21a-swargate-to-ammunition-factory
+21A,1,NORMAL_21A_Ammunition Factory To Swargate_Down-0735_0,Ammunition Factory To Swargate,,0,,3717,,,21-Oct,2,2,21A - Ammunition Factory To Swargate,21a-ammunition-factory-to-swargate
+21B,1,NORMAL_21B_Swargate To HEMRL Company_Up-0805_0,Swargate To HEMRL Company,,0,,3720,,,21-Oct,3,3,21B - Swargate To HEMRL Company,21b-swargate-to-hemrl-company
+21B,1,NORMAL_21B_HEMRL Company To Swargate_Down-0855_0,HEMRL Company To Swargate,,0,,3721,,,21-Oct,4,4,21B - HEMRL Company To Swargate,21b-hemrl-company-to-swargate
+343_86,1,NORMAL_343_Vadgaon Mawal To Chakan Ambethan Chowk_Up-0615_0,Vadgaon Mawal To Chakan Ambethan Chowk,,1,,4153,,,343/1,2,2,343_86 - Vadgaon Mawal To Chakan Ambethan Chowk,343-86-vadgaon-mawal-to-chakan-ambethan-chowk
+343_86,1,NORMAL_343_Chakan Ambethan Chowk To Vadgaon Mawal_Down-0735_0,Chakan Ambethan Chowk To Vadgaon Mawal,,1,,4155,,,343/1,3,3,343_86 - Chakan Ambethan Chowk To Vadgaon Mawal,343-86-chakan-ambethan-chowk-to-vadgaon-mawal
+38,1,NORMAL_38_Dhankawadi To Na Ta Wadi_Up-0550_0,Dhankawadi To Na Ta Wadi,,0,,3533,,,38/1,1,1,38 - Dhankawadi To Na Ta Wadi,38-dhankawadi-to-na-ta-wadi
+237,1,NORMAL_237_Warje Malwadi To Kharadi gaon_UP-0520_0,Warje Malwadi To Kharadi gaon,,0,,1080,,,237/1,1,1,237 - Warje Malwadi To Kharadi gaon,237-warje-malwadi-to-kharadi-gaon
+237,1,NORMAL_237_Kharadi gaon To Warje Malwadi_Down-0645_0,Kharadi gaon To Warje Malwadi,,0,,1083,,,237/1,2,2,237 - Kharadi gaon To Warje Malwadi,237-kharadi-gaon-to-warje-malwadi
+145,1,NORMAL_145_Sutarwadi Pashan To Pune Station_Down-0530_0,Sutarwadi Pashan To Pune Station,,1,,4189,,,145/3,1,1,145 - Sutarwadi Pashan To Pune Station,145-sutarwadi-pashan-to-pune-station
+145,1,NORMAL_145_Pune Station To Sutarwadi Pashan_Up-0620_0,Pune Station To Sutarwadi Pashan,,1,,4190,,,145/3,2,2,145 - Pune Station To Sutarwadi Pashan,145-pune-station-to-sutarwadi-pashan
+252,1,NORMAL_252_Ma Na Pa Bhavan To Charholi Gaon_Up-0530_0,Ma Na Pa Bhavan To Charholi Gaon,,1,,4705,,,252/1,1,1,252 - Ma Na Pa Bhavan To Charholi Gaon,252-ma-na-pa-bhavan-to-charholi-gaon
+252,1,NORMAL_252_Charholi Gaon To Ma Na Pa Bhavan_Down-0640_0,Charholi Gaon To Ma Na Pa Bhavan,,1,,4706,,,252/1,2,2,252 - Charholi Gaon To Ma Na Pa Bhavan,252-charholi-gaon-to-ma-na-pa-bhavan
+166,1,NORMAL_166_Pune Station To Viman Nagar_UP-0540_0,Pune Station To Viman Nagar,,0,,3191,,,166/1,1,1,166 - Pune Station To Viman Nagar,166-pune-station-to-viman-nagar
+166,1,NORMAL_166_Vimannagar To Pune Station_Down-0610_0,Vimannagar To Pune Station,,0,,3192,,,166/1,2,2,166 - Vimannagar To Pune Station,166-vimannagar-to-pune-station
+181,1,NORMAL_181_Na Ta Wadi To Kondhwa Kh_Up-0635_0,Na Ta Wadi To Kondhwa Kh,,0,,3668,,,181/3,1,1,181 - Na Ta Wadi To Kondhwa Kh,181-na-ta-wadi-to-kondhwa-kh
+181,1,NORMAL_181_Kondhwa Kh To Na Ta Wadi_Down-0725_0,Kondhwa Kh To Na Ta Wadi,,0,,3670,,,181/3,2,2,181 - Kondhwa Kh To Na Ta Wadi,181-kondhwa-kh-to-na-ta-wadi
+181C,1,NORMAL_181C_Na Ta Wadi To Kondhwa Bk_Up-0535_0,Na Ta Wadi To Kondhwa Bk,,0,,3777,,,181/4,1,1,181C - Na Ta Wadi To Kondhwa Bk,181c-na-ta-wadi-to-kondhwa-bk
+181C,1,NORMAL_181C_Kondhwa Bk To Na Ta Wadi_Down-0635_0,Kondhwa Bk To Na Ta Wadi,,0,,3779,,,181/4,2,2,181C - Kondhwa Bk To Na Ta Wadi,181c-kondhwa-bk-to-na-ta-wadi
+295,1,NORMAL_295_Katraj To Narhegaon_Down-0540_0,Katraj To Narhegaon,,1,,5097,,,295/1,1,1,295 - Katraj To Narhegaon,295-katraj-to-narhegaon
+295,1,NORMAL_295_Narhegaon To Pune Station_Up-0600_0,Narhegaon To Pune Station,,1,,5092,,,295/1,2,2,295 - Narhegaon To Pune Station,295-narhegaon-to-pune-station
+295,1,NORMAL_295_Pune Station To Narhegaon_Down-0710_0,Pune Station To Narhegaon,,1,,5093,,,295/1,3,3,295 - Pune Station To Narhegaon,295-pune-station-to-narhegaon
+38,1,NORMAL_38_Na Ta Wadi To Dhankawadi_Down-0640_0,Na Ta Wadi To Dhankawadi,,0,,3534,,,38/1,2,2,38 - Na Ta Wadi To Dhankawadi,38-na-ta-wadi-to-dhankawadi
+113,1,NORMAL_113_Mahatma Phule Mandai To Sangvi_Up-0545_0,Mahatma Phule Mandai To Sangvi,,1,,3245,,,113/3,1,1,113 - Mahatma Phule Mandai To Sangvi,113-mahatma-phule-mandai-to-sangvi
+113,1,NORMAL_113_Sangvi To Mahatma Phule Mandai_Down-0630_0,Sangvi To Mahatma Phule Mandai,,1,,3217,,,113/3,2,2,113 - Sangvi To Mahatma Phule Mandai,113-sangvi-to-mahatma-phule-mandai
+158B,1,NORMAL_158B_Ma Na Pa To D.Y. Patil Vidhypith Lohgaon_Up-0850_0,Ma Na Pa To D.Y. Patil Vidhypith Lohgaon,,0,,3882,,,158/8,3,3,158B - Ma Na Pa To D.Y. Patil Vidhypith Lohgaon,158b-ma-na-pa-to-dy-patil-vidhypith-lohgaon
+158B,1,NORMAL_158B_D.Y. Patil Vidhypith Lohgaon To Ma Na Pa_Down-0955_0,D.Y. Patil Vidhypith Lohgaon To Ma Na Pa,,0,,3883,,,158/8,4,4,158B - D.Y. Patil Vidhypith Lohgaon To Ma Na Pa,158b-dy-patil-vidhypith-lohgaon-to-ma-na-pa
+158A(NEW),1,NORMAL_158A(NEW)_Ma Na Pa Dengle Pul To Dadachi Padal_Up-0540_0,Ma Na Pa Dengle Pul To Dadachi Padal,,0,,3756,,,158/9,1,1,158A(NEW) - Ma Na Pa Dengle Pul To Dadachi Padal,158anew-ma-na-pa-dengle-pul-to-dadachi-padal
+158A(NEW),1,NORMAL_158A(NEW)_Dadachi Padal To Ma Na Pa Dengle Pul_Down-0640_0,Dadachi Padal To Ma Na Pa Dengle Pul,,0,,3758,,,158/9,2,2,158A(NEW) - Dadachi Padal To Ma Na Pa Dengle Pul,158anew-dadachi-padal-to-ma-na-pa-dengle-pul
+295,1,NORMAL_295_Narhegaon To Katraj_Up-2210_0,Narhegaon To Katraj,,1,,5096,,,295/1,14,6,295 - Narhegaon To Katraj,295-narhegaon-to-katraj
+235,1,NORMAL_235_Katraj To Kharadi Gaon_Up-0520_0,Katraj To Kharadi Gaon,,0,,1120,,,235/1,1,1,235 - Katraj To Kharadi Gaon,235-katraj-to-kharadi-gaon
+235,1,NORMAL_235_Kharadi Gaon To Katraj_Down-0640_0,Kharadi Gaon To Katraj,,0,,1121,,,235/1,2,2,235 - Kharadi Gaon To Katraj,235-kharadi-gaon-to-katraj
+324,1,NORMAL_324_Bhosari To Hinjawadi Maan Phase 3_Up-0540_0,Bhosari To Hinjawadi Maan Phase 3,,0,,3659,,,324/1,1,1,324 - Bhosari To Hinjawadi Maan Phase 3,324-bhosari-to-hinjawadi-maan-phase-3
+324,1,NORMAL_324_Hinjawadi Maan Phase 3 to Bhosari_Down-0655_0,Hinjawadi Maan Phase 3 to Bhosari,,0,,3662,,,324/1,2,2,324 - Hinjawadi Maan Phase 3 to Bhosari,324-hinjawadi-maan-phase-3-to-bhosari
+256,1,NORMAL_256_Balewadi Depot To Ma Na Pa_Down-0535_0,Balewadi Depot To Ma Na Pa,,0,,3951,,,256/1,1,1,256 - Balewadi Depot To Ma Na Pa,256-balewadi-depot-to-ma-na-pa
+292A,1,NORMAL_292A_Kalyangaon To Swargate_Down-0550_0,Kalyangaon To Swargate,,0,,3733,,,292/1,1,1,292A - Kalyangaon To Swargate,292a-kalyangaon-to-swargate
+292,1,NORMAL_292_Swargate To Kondhanpur_Up-0720_0,Swargate To Kondhanpur,,0,,4010,,,292/1,2,2,292 - Swargate To Kondhanpur,292-swargate-to-kondhanpur
+292,1,NORMAL_292_Kondhanpur To Swargate_Down-0850_0,Kondhanpur To Swargate,,0,,4012,,,292/1,3,3,292 - Kondhanpur To Swargate,292-kondhanpur-to-swargate
+292B,1,NORMAL_292B_Swargate To Rahatwadegaon_Up-1330_0,Swargate To Rahatwadegaon,,0,,3734,,,292/1,6,1,292B - Swargate To Rahatwadegaon,292b-swargate-to-rahatwadegaon
+292B,1,NORMAL_292B_Rahatwadegaon To Swargate_Down-1500_0,Rahatwadegaon To Swargate,,0,,3735,,,292/1,7,2,292B - Rahatwadegaon To Swargate,292b-rahatwadegaon-to-swargate
+293A,1,NORMAL_293A_Swargate To Kusgaon_Up-1630_0,Swargate To Kusgaon,,0,,2259,,,292/1,8,3,293A - Swargate To Kusgaon,293a-swargate-to-kusgaon
+293A,1,NORMAL_293A_Kusgaon To Swargate_Down-1745_0,Kusgaon To Swargate,,0,,2728,,,292/1,9,4,293A - Kusgaon To Swargate,293a-kusgaon-to-swargate
+292C,1,NORMAL_292C_Swargate To Avsarwadi_Up-0525_0,Swargate To Avsarwadi,,0,,3736,,,292/2,1,1,292C - Swargate To Avsarwadi,292c-swargate-to-avsarwadi
+292C,1,NORMAL_292C_Avsarwadi To Swargate_Down-0635_0,Avsarwadi To Swargate,,0,,3737,,,292/2,2,2,292C - Avsarwadi To Swargate,292c-avsarwadi-to-swargate
+105,1,NORMAL_105_Balewadi Depot To Deccan Gymkhana_Down-0830_0,Balewadi Depot To Deccan Gymkhana,,0,,3433,,,105/1,1,1,105 - Balewadi Depot To Deccan Gymkhana,105-balewadi-depot-to-deccan-gymkhana
+105,1,NORMAL_105_Deccan Gymkhana To Balewadi Depot_Up-0945_0,Deccan Gymkhana To Balewadi Depot,,0,,3432,,,105/1,2,2,105 - Deccan Gymkhana To Balewadi Depot,105-deccan-gymkhana-to-balewadi-depot
+292A,1,NORMAL_292A_Swargate To Kalyangaon_Up-0615_0,Swargate To Kalyangaon,,0,,3732,,,292/4,1,1,292A - Swargate To Kalyangaon,292a-swargate-to-kalyangaon
+108,1,NORMAL_108_Sutardara To Pune Station_Up-0730_0,Sutardara To Pune Station,,0,,3486,,,108/1,1,1,108 - Sutardara To Pune Station,108-sutardara-to-pune-station
+108,1,NORMAL_108_Pune Station To Sutardara_Down-0820_0,Pune Station To Sutardara,,0,,3487,,,108/1,2,2,108 - Pune Station To Sutardara,108-pune-station-to-sutardara
+309,1,NORMAL_309_Dehugaon To Alandi_Down-1000_0,Dehugaon To Alandi,,0,,3759,,,309/2,5,5,309 - Dehugaon To Alandi,309-dehugaon-to-alandi
+256,1,NORMAL_256_PMC To Someshwarwadi_Up-0900_0,PMC To Someshwarwadi,,0,,3944,,,256/10,4,4,256 - PMC To Someshwarwadi,256-pmc-to-someshwarwadi
+256,1,NORMAL_256_Someshwarwadi To PMC_Down-0935_0,Someshwarwadi To PMC,,0,,3947,,,256/10,5,5,256 - Someshwarwadi To PMC,256-someshwarwadi-to-pmc
+154,1,NORMAL_154_Vishrantwadi To Sasoon Hospital_Down-0625_0,Vishrantwadi To Sasoon Hospital,,1,,4605,,,154/3,2,2,154 - Vishrantwadi To Sasoon Hospital,154-vishrantwadi-to-sasoon-hospital
+253,1,NORMAL_253_Upper Depot To Vidyanagar_Up-0520_0,Upper Depot To Vidyanagar,,0,,3327,,,253/1,1,1,253 - Upper Depot To Vidyanagar,253-upper-depot-to-vidyanagar
+253,1,NORMAL_253_Vidyanagar To Upper Depot_Down-0630_0,Vidyanagar To Upper Depot,,0,,3346,,,253/1,2,2,253 - Vidyanagar To Upper Depot,253-vidyanagar-to-upper-depot
+168,1,NORMAL_168_Ma Na Pa To Keshavnagar_Up-0520_0,Ma Na Pa To Keshavnagar,,0,,3590,,,168/1,1,1,168 - Ma Na Pa To Keshavnagar,168-ma-na-pa-to-keshavnagar
+168,1,NORMAL_168_Keshavnagar To Ma Na Pa_Down-0605_0,Keshavnagar To Ma Na Pa,,0,,3591,,,168/1,2,2,168 - Keshavnagar To Ma Na Pa,168-keshavnagar-to-ma-na-pa
+169,1,NORMAL_169_Ma Na Pa To Keshavnagar (Vai Koregaon Park)_Up-0535_0,Ma Na Pa To Keshavnagar (Vai Koregaon Park),,0,,4661,,,169/1,1,1,169 - Ma Na Pa To Keshavnagar (Vai Koregaon Park),169-ma-na-pa-to-keshavnagar-vai-koregaon-park
+169,1,NORMAL_169_Keshavnagar To Ma Na Pa (Vai Koregaon Park)_Down-0620_0,Keshavnagar To Ma Na Pa (Vai Koregaon Park),,0,,4662,,,169/1,2,2,169 - Keshavnagar To Ma Na Pa (Vai Koregaon Park),169-keshavnagar-to-ma-na-pa-vai-koregaon-park
+11,1,NORMAL_11_Marketyard To Pimplegurav (Ladies Sp)_Up-1750_0,Marketyard To Pimplegurav (Ladies Sp),,1,,5157,,,11-Jun,9,3,11 - Marketyard To Pimplegurav (Ladies Sp),11-marketyard-to-pimplegurav-ladies-sp
+80,1,NORMAL_80_Cipla Center To Ma Na Pa_Down-0840_0,Cipla Center To Ma Na Pa,,0,,4136,,,80/1,1,1,80 - Cipla Center To Ma Na Pa,80-cipla-center-to-ma-na-pa
+80,1,NORMAL_80_Ma Na Pa To Cipla Center To Ma Na Pa_Round-0920_0,Ma Na Pa To Cipla Center To Ma Na Pa,,1,,4830,,,80/1,2,2,80 - Ma Na Pa To Cipla Center To Ma Na Pa,80-ma-na-pa-to-cipla-center-to-ma-na-pa
+80,1,NORMAL_80_Ma Na Pa To Garden City To Ma Na Pa_Round-1100_0,Ma Na Pa To Garden City To Ma Na Pa,,1,,4831,,,80/1,3,3,80 - Ma Na Pa To Garden City To Ma Na Pa,80-ma-na-pa-to-garden-city-to-ma-na-pa
+80,1,NORMAL_80_PMC To Gardencity_Up-1900_0,PMC To Gardencity,,0,,4188,,,80/1,6,3,80 - PMC To Gardencity,80-pmc-to-gardencity
+80,1,NORMAL_80_Gardencity To PMC_Down-0725_0,Gardencity To PMC,,0,,4182,,,80/2,1,1,80 - Gardencity To PMC,80-gardencity-to-pmc
+AC2_45,6,NORMAL_AC2_Hadapsar Gadital To Nigdi_Up-0700_0,Hadapsar Gadital To Nigdi,,1,,4383,,,AC2/1,1,1,AC2_45 - Hadapsar Gadital To Nigdi,ac2-45-hadapsar-gadital-to-nigdi
+11,1,NORMAL_11_Pimplegurav To Marketyard (Ladies Sp)_Down-0905_0,Pimplegurav To Marketyard (Ladies Sp),,1,,5156,,,11-Dec,2,2,11 - Pimplegurav To Marketyard (Ladies Sp),11-pimplegurav-to-marketyard-ladies-sp
+31,1,NORMAL_31_Taljai Pathar To Pune Station_Up-0530_0,Taljai Pathar To Pune Station,,0,,2310,,,31-Jan,1,1,31 - Taljai Pathar To Pune Station,31-taljai-pathar-to-pune-station
+31,1,NORMAL_31_Pune Station To Taljai Pathar_Down-0625_0,Pune Station To Taljai Pathar,,0,,2994,,,31-Jan,2,2,31 - Pune Station To Taljai Pathar,31-pune-station-to-taljai-pathar
+175,1,NORMAL_175_Ma Na Pa To Hadapsar Gadital_Up-0620_0,Ma Na Pa To Hadapsar Gadital,,0,,4909,,,175/1,1,1,175 - Ma Na Pa To Hadapsar Gadital,175-ma-na-pa-to-hadapsar-gadital
+175,1,NORMAL_175_Hadapsar Gadital To Ma Na Pa_Down-0710_0,Hadapsar Gadital To Ma Na Pa,,0,,4919,,,175/1,2,2,175 - Hadapsar Gadital To Ma Na Pa,175-hadapsar-gadital-to-ma-na-pa
+177,1,NORMAL_177_Pune Station To Salunke Vihar_Up-0520_0,Pune Station To Salunke Vihar,,0,,3664,,,177/1,1,1,177 - Pune Station To Salunke Vihar,177-pune-station-to-salunke-vihar
+177,1,NORMAL_177_Salunke Vihar To Pune Station_Down-0600_0,Salunke Vihar To Pune Station,,0,,3665,,,177/1,2,2,177 - Salunke Vihar To Pune Station,177-salunke-vihar-to-pune-station
+50,7,NORMAL_50_Deccan Gymkhana To Sinhgad_Up-0200_0,Deccan Gymkhana To Sinhgad,,1,,4378,,,50/7,2,2,50 - Deccan Gymkhana To Sinhgad,50-deccan-gymkhana-to-sinhgad
+50,7,NORMAL_50_Sinhgad To Deccan Gymkhana_Down-0600_0,Sinhgad To Deccan Gymkhana,,1,,4379,,,50/7,3,3,50 - Sinhgad To Deccan Gymkhana,50-sinhgad-to-deccan-gymkhana
+50,7,NORMAL_50_Pune Station To Sinhgad Paytha_Up-0500_0,Pune Station To Sinhgad Paytha,,1,,5188,,,50/6,1,1,50 - Pune Station To Sinhgad Paytha,50-pune-station-to-sinhgad-paytha
+50,7,NORMAL_50_Sinhgad Paytha To Pune Station_Down-0645_0,Sinhgad Paytha To Pune Station,,1,,5189,,,50/6,2,2,50 - Sinhgad Paytha To Pune Station,50-sinhgad-paytha-to-pune-station
+8,1,NORMAL_8_Hadapsar Gadital To Mhatobachi Alandi_Up-0640_0,Hadapsar Gadital To Mhatobachi Alandi,,0,,4367,,,08-Jan,1,1,8 - Hadapsar Gadital To Mhatobachi Alandi,8-hadapsar-gadital-to-mhatobachi-alandi
+8,1,NORMAL_8_Mhatobachi Alandi To Hadapsar Gadital_Down-0730_0,Mhatobachi Alandi To Hadapsar Gadital,,0,,4918,,,08-Jan,2,2,8 - Mhatobachi Alandi To Hadapsar Gadital,8-mhatobachi-alandi-to-hadapsar-gadital
+78A,1,NORMAL_78A_Warje Malwadi To Marketyard_Down-1310_0,Warje Malwadi To Marketyard,,0,,2614,,,78/1,6,6,78A - Warje Malwadi To Marketyard,78a-warje-malwadi-to-marketyard
+151,1,NORMAL_151_Pune Station To Vishrantwadi_Up-0750_0,Pune Station To Vishrantwadi,,1,,5230,,,151/7,1,1,151 - Pune Station To Vishrantwadi,151-pune-station-to-vishrantwadi
+151,1,NORMAL_151_Vishrantwadi To Pune Station_Down-0905_0,Vishrantwadi To Pune Station,,1,,5231,,,151/7,2,2,151 - Vishrantwadi To Pune Station,151-vishrantwadi-to-pune-station
+377_84,1,NORMAL_377_Gharkul Vasahat To YCM Hospital_Down-0600_0,Gharkul Vasahat To YCM Hospital,,1,,4462,,,377/1,2,2,377_84 - Gharkul Vasahat To YCM Hospital,377-84-gharkul-vasahat-to-ycm-hospital
+377_84,1,NORMAL_377_YCM Hospital To Gharkul Vasahat_Up-0645_0,YCM Hospital To Gharkul Vasahat,,1,,4461,,,377/1,3,3,377_84 - YCM Hospital To Gharkul Vasahat,377-84-ycm-hospital-to-gharkul-vasahat
+188,1,NORMAL_188_Hadapsar Gadital To Katraj_Up-0600_0,Hadapsar Gadital To Katraj,,0,,3643,,,188/1,1,1,188 - Hadapsar Gadital To Katraj,188-hadapsar-gadital-to-katraj
+188,1,NORMAL_188_Katraj To Hadapsar Gadital_Down-0700_0,Katraj To Hadapsar Gadital,,0,,3644,,,188/1,2,2,188 - Katraj To Hadapsar Gadital,188-katraj-to-hadapsar-gadital
+190,1,NORMAL_190_Hadapsar Gadital To Fursungi_Up-0530_0,Hadapsar Gadital To Fursungi,,0,,3896,,,190/1,1,1,190 - Hadapsar Gadital To Fursungi,190-hadapsar-gadital-to-fursungi
+190,1,NORMAL_190_Fursungi To Hadapsar Gadital_Down-0550_0,Fursungi To Hadapsar Gadital,,0,,3897,,,190/1,2,2,190 - Fursungi To Hadapsar Gadital,190-fursungi-to-hadapsar-gadital
+172_38,1,NORMAL_172_Hadapsar Gadital To Vadgaon Sheri_Up-0730_0,Hadapsar Gadital To Vadgaon Sheri,,1,,4611,,,172/1,1,1,172_38 - Hadapsar Gadital To Vadgaon Sheri,172-38-hadapsar-gadital-to-vadgaon-sheri
+172_38,1,NORMAL_172_Vadgaon Sheri To Hadapsar Gadital_Down-0815_0,Vadgaon Sheri To Hadapsar Gadital,,1,,4612,,,172/1,2,2,172_38 - Vadgaon Sheri To Hadapsar Gadital,172-38-vadgaon-sheri-to-hadapsar-gadital
+197,1,NORMAL_197_Hadapsar Gadital To Kothrud Depot_Up-0525_0,Hadapsar Gadital To Kothrud Depot,,0,,3655,,,197/1,1,1,197 - Hadapsar Gadital To Kothrud Depot,197-hadapsar-gadital-to-kothrud-depot
+197,1,NORMAL_197_Kothrud Depot To Hadapsar Gadital_Down-0645_0,Kothrud Depot To Hadapsar Gadital,,0,,3656,,,197/1,2,2,197 - Kothrud Depot To Hadapsar Gadital,197-kothrud-depot-to-hadapsar-gadital
+202,1,NORMAL_202_Hadapsar Gadital To Warje Malwadi_Up-0530_0,Hadapsar Gadital To Warje Malwadi,,1,,3901,,,202/1,1,1,202 - Hadapsar Gadital To Warje Malwadi,202-hadapsar-gadital-to-warje-malwadi
+202,1,NORMAL_202_Warje Malwadi To Hadapsar Gadital_Down-0650_0,Warje Malwadi To Hadapsar Gadital,,0,,3904,,,202/1,2,2,202 - Warje Malwadi To Hadapsar Gadital,202-warje-malwadi-to-hadapsar-gadital
+147,1,NORMAL_147_Pune Station To Nhavi Sandas_Up-0515_0,Pune Station To Nhavi Sandas,,0,,5205,,,147/1,1,1,147 - Pune Station To Nhavi Sandas,147-pune-station-to-nhavi-sandas
+147,1,NORMAL_147_Nhavi Sandas To Pune Station_Down-0640_0,Nhavi Sandas To Pune Station,,0,,5206,,,147/1,2,2,147 - Nhavi Sandas To Pune Station,147-nhavi-sandas-to-pune-station
+187,1,NORMAL_187_Bhekrainagar To Pune Station_Up-0545_0,Bhekrainagar To Pune Station,,0,,3640,,,187/1,1,1,187 - Bhekrainagar To Pune Station,187-bhekrainagar-to-pune-station
+187,1,NORMAL_187_Pune Station To Bhekrainagar_Down-0635_0,Pune Station To Bhekrainagar,,0,,3642,,,187/1,2,2,187 - Pune Station To Bhekrainagar,187-pune-station-to-bhekrainagar
+215,1,NORMAL_215_Swargate To Chintamani Dyanpith_Up-1000_0,Swargate To Chintamani Dyanpith,,0,,4439,,,215/3,6,6,215 - Swargate To Chintamani Dyanpith,215-swargate-to-chintamani-dyanpith
+215,1,NORMAL_215_Chintamani Dyanpith To Swargate_Down-1045_0,Chintamani Dyanpith To Swargate,,0,,4440,,,215/3,7,7,215 - Chintamani Dyanpith To Swargate,215-chintamani-dyanpith-to-swargate
+230,1,NORMAL_230_Bharati Vidyapeeth To Pune Station_Up-0545_0,Bharati Vidyapeeth To Pune Station,,0,,3679,,,230/1,1,1,230 - Bharati Vidyapeeth To Pune Station,230-bharati-vidyapeeth-to-pune-station
+230,1,NORMAL_230_Pune Station To Bharati Vidyapeeth_Down-0635_0,Pune Station To Bharati Vidyapeeth,,0,,3685,,,230/1,2,2,230 - Pune Station To Bharati Vidyapeeth,230-pune-station-to-bharati-vidyapeeth
+264,1,NORMAL_264_Bahulgaon To Ma Na Pa_Down-0715_0,Bahulgaon To Ma Na Pa,,0,,3718,,,264/1,1,1,264 - Bahulgaon To Ma Na Pa,264-bahulgaon-to-ma-na-pa
+264,1,NORMAL_264_Ma Na Pa To Bahulgaon_Up-0930_0,Ma Na Pa To Bahulgaon,,0,,4704,,,264/1,2,2,264 - Ma Na Pa To Bahulgaon,264-ma-na-pa-to-bahulgaon
+281,1,NORMAL_281_Warje Malwadi To Bhakti Shakti_Up-0530_0,Warje Malwadi To Bhakti Shakti,,0,,4746,,,281/1,1,1,281 - Warje Malwadi To Bhakti Shakti,281-warje-malwadi-to-bhakti-shakti
+281,1,NORMAL_281_Bhakti Shakti To Warje Malwadi_Down-0710_0,Bhakti Shakti To Warje Malwadi,,0,,4747,,,281/1,2,2,281 - Bhakti Shakti To Warje Malwadi,281-bhakti-shakti-to-warje-malwadi
+371_78,1,NORMAL_371_Pimprigaon To Nigdi_Up-1725_0,Pimprigaon To Nigdi,,1,,4449,,,371/2,14,5,371_78 - Pimprigaon To Nigdi,371-78-pimprigaon-to-nigdi
+282,1,NORMAL_282_Warje Malwadi To Bhosari Terminal_Up-0555_0,Warje Malwadi To Bhosari Terminal,,1,,4748,,,282/1,1,1,282 - Warje Malwadi To Bhosari Terminal,282-warje-malwadi-to-bhosari-terminal
+282,1,NORMAL_282_Bhosari Terminal To Warje Malwadi_Down-0735_0,Bhosari Terminal To Warje Malwadi,,1,,4749,,,282/1,2,2,282 - Bhosari Terminal To Warje Malwadi,282-bhosari-terminal-to-warje-malwadi
+284,1,NORMAL_284_Kothrud Depot To Bhakti Shakti_Up-0555_0,Kothrud Depot To Bhakti Shakti,,0,,4750,,,284/1,1,1,284 - Kothrud Depot To Bhakti Shakti,284-kothrud-depot-to-bhakti-shakti
+284,1,NORMAL_284_Bhakti Shakti To Kothrud Depot_Down-0735_0,Bhakti Shakti To Kothrud Depot,,0,,4751,,,284/1,2,2,284 - Bhakti Shakti To Kothrud Depot,284-bhakti-shakti-to-kothrud-depot
+279A,1,NORMAL_279A_Kothrud Depo To Khamboli_Up-0535_0,Kothrud Depo To Khamboli,,0,,4089,,,279/1,1,1,279A - Kothrud Depo To Khamboli,279a-kothrud-depo-to-khamboli
+279,1,NORMAL_279_Khamboli To Deccan Gymkhana_Down-0700_0,Khamboli To Deccan Gymkhana,,0,,3992,,,279/1,2,2,279 - Khamboli To Deccan Gymkhana,279-khamboli-to-deccan-gymkhana
+279,1,NORMAL_279_Deccan Gymkhana To Khamboli_Up-0905_0,Deccan Gymkhana To Khamboli,,0,,3991,,,279/1,3,3,279 - Deccan Gymkhana To Khamboli,279-deccan-gymkhana-to-khamboli
+117B,1,NORMAL_117B_Swargate To Shree Control_Up-1645_0,Swargate To Shree Control,,0,,3799,,,117/12,13,3,117B - Swargate To Shree Control,117b-swargate-to-shree-control
+117B,1,NORMAL_117B_Shree Control To Swargate_Down-1740_0,Shree Control To Swargate,,0,,3801,,,117/12,14,4,117B - Shree Control To Swargate,117b-shree-control-to-swargate
+294,1,NORMAL_294_Katraj To Khadakwasla To Katraj_Round-0630_0,Katraj To Khadakwasla To Katraj,,1,,4082,,,294/1,1,1,294 - Katraj To Khadakwasla To Katraj,294-katraj-to-khadakwasla-to-katraj
+297,1,NORMAL_297_Rajas Society To Shivajinagar_Up-0540_0,Rajas Society To Shivajinagar,,0,,3693,,,297/1,1,1,297 - Rajas Society To Shivajinagar,297-rajas-society-to-shivajinagar
+297,1,NORMAL_297_Shivajinagar To Rajas Society_Down-0630_0,Shivajinagar To Rajas Society,,0,,3706,,,297/1,2,2,297 - Shivajinagar To Rajas Society,297-shivajinagar-to-rajas-society
+371_78,1,NORMAL_371_Nigdi To Pimprigaon_Down-0545_0,Nigdi To Pimprigaon,,1,,4450,,,371/1,1,1,371_78 - Nigdi To Pimprigaon,371-78-nigdi-to-pimprigaon
+323,1,NORMAL_323_Ma Na Pa To Chikhali_Up-1535_0,Ma Na Pa To Chikhali,,0,,4766,,,323/1,9,2,323 - Ma Na Pa To Chikhali,323-ma-na-pa-to-chikhali
+85A,1,NORMAL_85A_Khothrud Stand To Mohakarwadi_Up-0615_0,Khothrud Stand To Mohakarwadi,,1,,3212,,,85/1,1,1,85A - Khothrud Stand To Mohakarwadi,85a-khothrud-stand-to-mohakarwadi
+85,1,NORMAL_85_Mohakarwadi To Ma Na Pa_Down-0705_0,Mohakarwadi To Ma Na Pa,,0,,3631,,,85/1,2,2,85 - Mohakarwadi To Ma Na Pa,85-mohakarwadi-to-ma-na-pa
+85,1,NORMAL_85_Ma Na Pa To Mohakarwadi_Up-0825_0,Ma Na Pa To Mohakarwadi,,0,,3630,,,85/1,3,3,85 - Ma Na Pa To Mohakarwadi,85-ma-na-pa-to-mohakarwadi
+85,1,NORMAL_85_Ma Na Pa Congress Bhavan To Kothrud Depot_Down-2125_0,Ma Na Pa Congress Bhavan To Kothrud Depot,,1,,3629,,,85/1,11,5,85 - Ma Na Pa Congress Bhavan To Kothrud Depot,85-ma-na-pa-congress-bhavan-to-kothrud-depot
+120,1,NORMAL_120_Ma Na Pa To Indoorance System Chakan Mhalunge_Up-0540_0,Ma Na Pa To Indoorance System Chakan Mhalunge,,0,,4861,,,120/1,1,1,120 - Ma Na Pa To Indoorance System Chakan Mhalunge,120-ma-na-pa-to-indoorance-system-chakan-mhalunge
+120,1,NORMAL_120_Indoorance System Chakan Mhalunge To Ma Na Pa_Down-0615_0,Indoorance System Chakan Mhalunge To Ma Na Pa,,0,,4829,,,120/1,2,2,120 - Indoorance System Chakan Mhalunge To Ma Na Pa,120-indoorance-system-chakan-mhalunge-to-ma-na-pa
+216B,1,NORMAL_216B_Bharati Vidyapeeth To Pune Vidhyapeeth_Up-0910_0,Bharati Vidyapeeth To Pune Vidhyapeeth,,0,,3710,,,216/5,1,1,216B - Bharati Vidyapeeth To Pune Vidhyapeeth,216b-bharati-vidyapeeth-to-pune-vidhyapeeth
+216B,1,NORMAL_216B_Pune Vidhyapeeth To Bharati Vidyapeeth_Down-1025_0,Pune Vidhyapeeth To Bharati Vidyapeeth,,0,,3711,,,216/5,2,2,216B - Pune Vidhyapeeth To Bharati Vidyapeeth,216b-pune-vidhyapeeth-to-bharati-vidyapeeth
+327A,1,NORMAL_327A_Nehrunagar Depo To Hinjawadi Maan Phase 3_Up-0820_0,Nehrunagar Depo To Hinjawadi Maan Phase 3,,0,,3984,,,316/1,1,1,327A - Nehrunagar Depo To Hinjawadi Maan Phase 3,327a-nehrunagar-depo-to-hinjawadi-maan-phase-3
+316,1,NORMAL_316_Chinchwadgaon To Hinjawadi Maan Phase 3_Up-0845_0,Chinchwadgaon To Hinjawadi Maan Phase 3,,0,,3792,,,316/1,2,2,316 - Chinchwadgaon To Hinjawadi Maan Phase 3,316-chinchwadgaon-to-hinjawadi-maan-phase-3
+316,1,NORMAL_316_Hinjawadi Maan Phase 3 To Chinchwadgaon_Down-0935_0,Hinjawadi Maan Phase 3 To Chinchwadgaon,,0,,3794,,,316/1,3,3,316 - Hinjawadi Maan Phase 3 To Chinchwadgaon,316-hinjawadi-maan-phase-3-to-chinchwadgaon
+327A,1,NORMAL_327A_Hinjawadi Maan Phase 3 To Nehrunagar Depo_Down-1835_0,Hinjawadi Maan Phase 3 To Nehrunagar Depo,,0,,3990,,,316/1,11,5,327A - Hinjawadi Maan Phase 3 To Nehrunagar Depo,327a-hinjawadi-maan-phase-3-to-nehrunagar-depo
+319,1,NORMAL_319_Alandi To Vadgaon Mawal_Up-0645_0,Alandi To Vadgaon Mawal,,0,,3796,,,319/1,2,2,319 - Alandi To Vadgaon Mawal,319-alandi-to-vadgaon-mawal
+319,1,NORMAL_319_Vadgaon Mawal To Alandi_Down-0815_0,Vadgaon Mawal To Alandi,,0,,3798,,,319/1,3,3,319 - Vadgaon Mawal To Alandi,319-vadgaon-mawal-to-alandi
+194_03,1,NORMAL_194_Swargate To Undri Pisoli (Jagdamba Bhavan)_Up-0805_0,Swargate To Undri Pisoli (Jagdamba Bhavan),,1,,4531,,,194/1,1,1,194_03 - Swargate To Undri Pisoli (Jagdamba Bhavan),194-03-swargate-to-undri-pisoli-jagdamba-bhavan
+194_03,1,NORMAL_194_Undri Pisoli (Jagdamba Bhavan) To Swargate_Down-0925_0,Undri Pisoli (Jagdamba Bhavan) To Swargate,,1,,4529,,,194/1,2,2,194_03 - Undri Pisoli (Jagdamba Bhavan) To Swargate,194-03-undri-pisoli-jagdamba-bhavan-to-swargate
+325,1,NORMAL_325_Pune Station To Masulkar Colony_Up-0750_0,Pune Station To Masulkar Colony,,0,,4770,,,325/1,1,1,325 - Pune Station To Masulkar Colony,325-pune-station-to-masulkar-colony
+325,1,NORMAL_325_Masulkar Colony To Pune Station_Down-0800_0,Masulkar Colony To Pune Station,,0,,4771,,,325/1,2,2,325 - Masulkar Colony To Pune Station,325-masulkar-colony-to-pune-station
+331D,1,NORMAL_331D_Charholigaon To Nehrunagar Depo_Up-0620_0,Charholigaon To Nehrunagar Depo,,0,,3853,,,331/10,1,1,331D - Charholigaon To Nehrunagar Depo,331d-charholigaon-to-nehrunagar-depo
+331,1,NORMAL_331_Charholigaon To Rahatnigaon_Up-0700_0,Charholigaon To Rahatnigaon,,0,,3858,,,331/10,2,2,331 - Charholigaon To Rahatnigaon,331-charholigaon-to-rahatnigaon
+331,1,NORMAL_331_Rahatnigaon To Charholigaon_Down-0820_0,Rahatnigaon To Charholigaon,,0,,3856,,,331/10,3,3,331 - Rahatnigaon To Charholigaon,331-rahatnigaon-to-charholigaon
+331C,1,NORMAL_331C_Nehrunagar Depo To Rahatnigaon_Up-0620_0,Nehrunagar Depo To Rahatnigaon,,0,,3855,,,331/11,1,1,331C - Nehrunagar Depo To Rahatnigaon,331c-nehrunagar-depo-to-rahatnigaon
+339,1,NORMAL_339_Santnagar MIDC Police Station To Katraj_Down-0715_0,Santnagar MIDC Police Station To Katraj,,0,,4781,,,339/2,1,1,339 - Santnagar MIDC Police Station To Katraj,339-santnagar-midc-police-station-to-katraj
+339,1,NORMAL_339_Katraj To Santnagar MIDC Police Station_Up-0850_0,Katraj To Santnagar MIDC Police Station,,0,,4780,,,339/2,2,2,339 - Katraj To Santnagar MIDC Police Station,339-katraj-to-santnagar-midc-police-station
+196,1,NORMAL_196_Swargate To Tukaidarshan Kaleborate Nagar_Up-0745_0,Swargate To Tukaidarshan Kaleborate Nagar,,1,,5067,,,196/1,1,1,196 - Swargate To Tukaidarshan Kaleborate Nagar,196-swargate-to-tukaidarshan-kaleborate-nagar
+196,1,NORMAL_196_Tukaidarshan Kaleborate Nagar To Swargate_Down-0840_0,Tukaidarshan Kaleborate Nagar To Swargate,,1,,5068,,,196/1,2,2,196 - Tukaidarshan Kaleborate Nagar To Swargate,196-tukaidarshan-kaleborate-nagar-to-swargate
+344,1,NORMAL_344_Alandi To Pimple Nilakh_Up-0610_0,Alandi To Pimple Nilakh,,0,,3903,,,344/1,1,1,344 - Alandi To Pimple Nilakh,344-alandi-to-pimple-nilakh
+344,1,NORMAL_344_Pimple Nilakh To Alandi_Down-0650_0,Pimple Nilakh To Alandi,,0,,3902,,,344/1,2,2,344 - Pimple Nilakh To Alandi,344-pimple-nilakh-to-alandi
+295,1,NORMAL_295_Pune Station To Katraj_Down-2130_0,Pune Station To Katraj,,1,,5095,,,295/2,13,5,295 - Pune Station To Katraj,295-pune-station-to-katraj
+347,1,NORMAL_347_Dapodi To Alandi_Down-0600_0,Dapodi To Alandi,,0,,3995,,,347/1,1,1,347 - Dapodi To Alandi,347-dapodi-to-alandi
+347,1,NORMAL_347_Alandi To Dapodi_Up-0645_0,Alandi To Dapodi,,0,,3993,,,347/1,2,2,347 - Alandi To Dapodi,347-alandi-to-dapodi
+369_55,1,NORMAL_369_Bhakti Shakti To Bhamchandra Vidhyalay Vasuli_Up-0610_0,Bhakti Shakti To Bhamchandra Vidhyalay Vasuli,,1,,4222,,,369/1,1,1,369_55 - Bhakti Shakti To Bhamchandra Vidhyalay Vasuli,369-55-bhakti-shakti-to-bhamchandra-vidhyalay-vasuli
+369_55,1,NORMAL_369_Bhamchandra Vidhyalay Vasuli To Bhakti Shakti_Down-0710_0,Bhamchandra Vidhyalay Vasuli To Bhakti Shakti,,1,,4223,,,369/1,2,2,369_55 - Bhamchandra Vidhyalay Vasuli To Bhakti Shakti,369-55-bhamchandra-vidhyalay-vasuli-to-bhakti-shakti
+217,1,NORMAL_217_Jambhulwadi To Gujarwadi_Up-0810_0,Jambhulwadi To Gujarwadi,,0,,3983,,,217/1,4,4,217 - Jambhulwadi To Gujarwadi,217-jambhulwadi-to-gujarwadi
+217,1,NORMAL_217_Gujarwadi To Jambhulwadi_Down-0900_0,Gujarwadi To Jambhulwadi,,0,,3986,,,217/1,5,5,217 - Gujarwadi To Jambhulwadi,217-gujarwadi-to-jambhulwadi
+332,1,NORMAL_332_Pimpri To Pune Station_Down-0555_0,Pimpri To Pune Station,,0,,2779,,,332/1,1,1,332 - Pimpri To Pune Station,332-pimpri-to-pune-station
+332,1,NORMAL_332_Pune Station To Pimpri_Up-0730_0,Pune Station To Pimpri,,0,,2780,,,332/1,2,2,332 - Pune Station To Pimpri,332-pune-station-to-pimpri
+93,7,NORMAL_93_Kothrud Depot To Deccan Gymkhana_Down-0435_0,Kothrud Depot To Deccan Gymkhana,,1,,3470,,,50/7,1,1,93 - Kothrud Depot To Deccan Gymkhana,93-kothrud-depot-to-deccan-gymkhana
+93,7,NORMAL_93_Deccan Gymkhana To Kothrud Depot_Up-1115_0,Deccan Gymkhana To Kothrud Depot,,1,,3311,,,50/7,8,8,93 - Deccan Gymkhana To Kothrud Depot,93-deccan-gymkhana-to-kothrud-depot
+339,1,NORMAL_339_Pune station To Indrayani nagar_Down-0540_0,Pune station To Indrayani nagar,,0,,4783,,,339/4,1,1,339 - Pune station To Indrayani nagar,339-pune-station-to-indrayani-nagar
+339,1,NORMAL_339_Indrayani nagar To Pune station_Up-0650_0,Indrayani nagar To Pune station,,0,,4782,,,339/4,2,2,339 - Indrayani nagar To Pune station,339-indrayani-nagar-to-pune-station
+82,1,NORMAL_82_Ganpati Matha To Ma Na Pa Congress Bhavan_Up-1515_0,Ganpati Matha To Ma Na Pa Congress Bhavan,,1,,5125,,,82/18,4,1,82 - Ganpati Matha To Ma Na Pa Congress Bhavan,82-ganpati-matha-to-ma-na-pa-congress-bhavan
+131_12,1,NORMAL_131_Ma Na Pa to Vadgaon Shinde_Up-0530_0,Ma Na Pa to Vadgaon Shinde,,1,,4545,,,131/1,1,1,131_12 - Ma Na Pa to Vadgaon Shinde,131-12-ma-na-pa-to-vadgaon-shinde
+131_12,1,NORMAL_131_Vadgaon Shinde to Ma Na Pa_Down-0640_0,Vadgaon Shinde to Ma Na Pa,,1,,4546,,,131/1,2,2,131_12 - Vadgaon Shinde to Ma Na Pa,131-12-vadgaon-shinde-to-ma-na-pa
+127_86,1,NORMAL_127_Swargate to Vadgaon Mawal_Up-0645_0,Swargate to Vadgaon Mawal,,1,,4552,,,127/1,1,1,127_86 - Swargate to Vadgaon Mawal,127-86-swargate-to-vadgaon-mawal
+127_86,1,NORMAL_127_Vadgaon Mawal to Swargate_Down-0735_0,Vadgaon Mawal to Swargate,,1,,4551,,,127/1,2,2,127_86 - Vadgaon Mawal to Swargate,127-86-vadgaon-mawal-to-swargate
+207,1,NORMAL_207_Saswad To Hadapsar_Down-2120_0,Saswad To Hadapsar,,0,,4347,,,207/1,12,7,207 - Saswad To Hadapsar,207-saswad-to-hadapsar
+RATRANI9,1,NORMAL_RATRANI9_Pune station To Kesnand phata_Up-2315_0,Pune station To Kesnand phata,,1,,4573,,,RATRANI9/1,1,1,RATRANI9 - Pune station To Kesnand phata,ratrani9-pune-station-to-kesnand-phata
+RATRANI9,1,NORMAL_RATRANI9_Kesnand phata To Pune station_Down-0000_0,Kesnand phata To Pune station,,1,,4574,,,RATRANI9/1,2,2,RATRANI9 - Kesnand phata To Pune station,ratrani9-kesnand-phata-to-pune-station
+306,1,NORMAL_306_Bhakti Shakti To Hinjawadi Maan Phase 3_Up-0545_0,Bhakti Shakti To Hinjawadi Maan Phase 3,,1,,5018,,,306/1,1,1,306 - Bhakti Shakti To Hinjawadi Maan Phase 3,306-bhakti-shakti-to-hinjawadi-maan-phase-3
+306,1,NORMAL_306_Hinjawadi Maan Phase 3 To Dange Chowk_Down-0645_0,Hinjawadi Maan Phase 3 To Dange Chowk,,0,,3747,,,306/1,2,2,306 - Hinjawadi Maan Phase 3 To Dange Chowk,306-hinjawadi-maan-phase-3-to-dange-chowk
+306,1,NORMAL_306_Dange Chowk To Hinjawadi Maan Phase 3_Up-0730_0,Dange Chowk To Hinjawadi Maan Phase 3,,0,,3746,,,306/1,3,3,306 - Dange Chowk To Hinjawadi Maan Phase 3,306-dange-chowk-to-hinjawadi-maan-phase-3
+RATRANI7,1,NORMAL_RATRANI7_Pune station To Kondhwa gate_Up-2140_0,Pune station To Kondhwa gate,,1,,4665,,,RATRANI7/1,1,1,RATRANI7 - Pune station To Kondhwa gate,ratrani7-pune-station-to-kondhwa-gate
+RATRANI7,1,NORMAL_RATRANI7_Kondhwa gate To Pune station_Down-2300_0,Kondhwa gate To Pune station,,1,,4666,,,RATRANI7/1,2,2,RATRANI7 - Kondhwa gate To Pune station,ratrani7-kondhwa-gate-to-pune-station
+52A,1,NORMAL_52A_Osade Phata To Swargate_Down-0615_0,Osade Phata To Swargate,,0,,3238,,,52/1,1,1,52A - Osade Phata To Swargate,52a-osade-phata-to-swargate
+52,1,NORMAL_52_Swargate To Khanapur_Up-0740_0,Swargate To Khanapur,,0,,3567,,,52/1,2,2,52 - Swargate To Khanapur,52-swargate-to-khanapur
+52,1,NORMAL_52_Khanapur To Swargate_Down-0900_0,Khanapur To Swargate,,0,,3568,,,52/1,3,3,52 - Khanapur To Swargate,52-khanapur-to-swargate
+52A,1,NORMAL_52A_Swargate To Osade Phata_Up-1955_0,Swargate To Osade Phata,,0,,2888,,,52/1,10,5,52A - Swargate To Osade Phata,52a-swargate-to-osade-phata
+52B,1,NORMAL_52B_Khanapur To Marketyard_Down-0615_0,Khanapur To Marketyard,,0,,2806,,,52/2,2,2,52B - Khanapur To Marketyard,52b-khanapur-to-marketyard
+52B,1,NORMAL_52B_Marketyard To Khanapur_Up-0745_0,Marketyard To Khanapur,,0,,2858,,,52/2,3,3,52B - Marketyard To Khanapur,52b-marketyard-to-khanapur
+306,1,NORMAL_306_Hinjawadi Maan Phase 3 To Bhakti Shakti_Down-2005_0,Hinjawadi Maan Phase 3 To Bhakti Shakti,,1,,5019,,,306/1,16,8,306 - Hinjawadi Maan Phase 3 To Bhakti Shakti,306-hinjawadi-maan-phase-3-to-bhakti-shakti
+346_89,1,NORMAL_346_Bhosari To Wagholi_Down-0805_0,Bhosari To Wagholi,,1,,4415,,,346/1,1,1,346_89 - Bhosari To Wagholi,346-89-bhosari-to-wagholi
+346_89,1,NORMAL_346_Wagholi To Bhosari_Up-0925_0,Wagholi To Bhosari,,1,,4414,,,346/1,2,2,346_89 - Wagholi To Bhosari,346-89-wagholi-to-bhosari
+106,1,NORMAL_106_Kothrud Depot To Dhayari Maruti Mandir_Up-0600_0,Kothrud Depot To Dhayari Maruti Mandir,,1,,4200,,,106/1,1,1,106 - Kothrud Depot To Dhayari Maruti Mandir,106-kothrud-depot-to-dhayari-maruti-mandir
+106,1,NORMAL_106_Dhayari Maruti Mandir to Kothrud Depot_Down-0645_0,Dhayari Maruti Mandir to Kothrud Depot,,1,,4416,,,106/1,2,2,106 - Dhayari Maruti Mandir to Kothrud Depot,106-dhayari-maruti-mandir-to-kothrud-depot
+207,1,NORMAL_207_Swargate To Saswad_Up-1350_0,Swargate To Saswad,,0,,4344,,,207/1,7,2,207 - Swargate To Saswad,207-swargate-to-saswad
+189,1,NORMAL_189_Hadapsar Gadital To Devachi Uruli (Dhangar Vasti)_Up-0600_0,Hadapsar Gadital To Devachi Uruli (Dhangar Vasti),,1,,4618,,,189/1,1,1,189 - Hadapsar Gadital To Devachi Uruli (Dhangar Vasti),189-hadapsar-gadital-to-devachi-uruli-dhangar-vasti
+189,1,NORMAL_189_Devachi Uruli (Dhangar Vasti) To Hadapsar Gadital_Down-0630_0,Devachi Uruli (Dhangar Vasti) To Hadapsar Gadital,,1,,4620,,,189/1,2,2,189 - Devachi Uruli (Dhangar Vasti) To Hadapsar Gadital,189-devachi-uruli-dhangar-vasti-to-hadapsar-gadital
+207,1,NORMAL_207_Saswad To Swargate_Down-1510_0,Saswad To Swargate,,0,,4345,,,207/1,8,3,207 - Saswad To Swargate,207-saswad-to-swargate
+207,1,NORMAL_207_Hadapsar Gadital To Swargate_Down-1305_0,Hadapsar Gadital To Swargate,,1,,4617,,,207/1,6,1,207 - Hadapsar Gadital To Swargate,207-hadapsar-gadital-to-swargate
+275_12,1,NORMAL_275_Kothrud Stand To Chinchwadgaon_Up-0545_0,Kothrud Stand To Chinchwadgaon,,1,,4162,,,275/1,1,1,275_12 - Kothrud Stand To Chinchwadgaon,275-12-kothrud-stand-to-chinchwadgaon
+275_12,1,NORMAL_275_Chinchwadgaon To Kothrud Stand_Down-0700_0,Chinchwadgaon To Kothrud Stand,,1,,4165,,,275/1,2,2,275_12 - Chinchwadgaon To Kothrud Stand,275-12-chinchwadgaon-to-kothrud-stand
+206,1,NORMAL_206_Hadapsar Gadital To Vishalnagar_Up-0545_0,Hadapsar Gadital To Vishalnagar,,0,,3669,,,206/1,1,1,206 - Hadapsar Gadital To Vishalnagar,206-hadapsar-gadital-to-vishalnagar
+206,1,NORMAL_206_Vishalnagar To Hadapsar Gadital_Down-0710_0,Vishalnagar To Hadapsar Gadital,,0,,3671,,,206/1,2,2,206 - Vishalnagar To Hadapsar Gadital,206-vishalnagar-to-hadapsar-gadital
+401_30,3,NORMAL_401_Phule Nagar To Viddya Niketan 6_Up-0650_0,Phule Nagar To Viddya Niketan 6,,1,,4389,,,401/7,2,2,401_30 - Phule Nagar To Viddya Niketan 6,401-30-phule-nagar-to-viddya-niketan-6
+401_30,3,NORMAL_401_Viddya Niketan 6 To Phule Nagar_Down-1130_0,Viddya Niketan 6 To Phule Nagar,,1,,4390,,,401/7,5,5,401_30 - Viddya Niketan 6 To Phule Nagar,401-30-viddya-niketan-6-to-phule-nagar
+401_30,6,NORMAL_401_Ram Nagar To St.Tukaram School_Up-0635_0,Ram Nagar To St.Tukaram School,,1,,4510,,,401/8,2,2,401_30 - Ram Nagar To St.Tukaram School,401-30-ram-nagar-to-sttukaram-school
+401_30,3,NORMAL_401_St.Tukaram School To Kothrud Depo_Down-1130_0,St.Tukaram School To Kothrud Depo,,1,,4511,,,401/8,5,5,401_30 - St.Tukaram School To Kothrud Depo,401-30-sttukaram-school-to-kothrud-depo
+401_30,3,NORMAL_401_Ambedkar Society To Viddy Niketan 6_Up-0650_0,Ambedkar Society To Viddy Niketan 6,,1,,4376,,,401/9,2,2,401_30 - Ambedkar Society To Viddy Niketan 6,401-30-ambedkar-society-to-viddy-niketan-6
+401_30,3,NORMAL_401_Viddya Niketan 6 To Ambedkar Society_Down-1130_0,Viddya Niketan 6 To Ambedkar Society,,1,,4377,,,401/9,5,5,401_30 - Viddya Niketan 6 To Ambedkar Society,401-30-viddya-niketan-6-to-ambedkar-society
+312,1,NORMAL_312_Pune Station To Chinchwadgaon_Up-0450_0,Pune Station To Chinchwadgaon,,0,,4758,,,312/1,1,1,312 - Pune Station To Chinchwadgaon,312-pune-station-to-chinchwadgaon
+350,1,NORMAL_350_Nigdi To Dehugaon Via Talwade_Up-0530_0,Nigdi To Dehugaon Via Talwade,,1,,5171,,,350/1,1,1,350 - Nigdi To Dehugaon Via Talwade,350-nigdi-to-dehugaon-via-talwade
+350,1,NORMAL_350_Dehugaon To Nigdi Via Talwade_Down-0610_0,Dehugaon To Nigdi Via Talwade,,1,,5172,,,350/1,2,2,350 - Dehugaon To Nigdi Via Talwade,350-dehugaon-to-nigdi-via-talwade
+378_85,1,NORMAL_378_Pimpri Depot To Vasantdada Putla Sangvi_Up-0515_0,Pimpri Depot To Vasantdada Putla Sangvi,,1,,4250,,,378/1,1,1,378_85 - Pimpri Depot To Vasantdada Putla Sangvi,378-85-pimpri-depot-to-vasantdada-putla-sangvi
+378_85,1,NORMAL_378_Vasantdada Putla Sangvi via Katepuram Phugewadi to Bhosari Terminal_Up-0615_0,Vasantdada Putla Sangvi via Katepuram Phugewadi to Bhosari Terminal,,1,,4246,,,378/1,2,2,378_85 - Vasantdada Putla Sangvi via Katepuram Phugewadi to Bhosari Terminal,378-85-vasantdada-putla-sangvi-via-katepuram-phugewadi-to-bhosari-terminal
+378_85,1,NORMAL_378_Bhosari Terminal to Vasantdada Putla Sangvi via Katepuram Phugewadi_Down-0725_0,Bhosari Terminal to Vasantdada Putla Sangvi via Katepuram Phugewadi,,1,,4453,,,378/1,3,3,378_85 - Bhosari Terminal to Vasantdada Putla Sangvi via Katepuram Phugewadi,378-85-bhosari-terminal-to-vasantdada-putla-sangvi-via-katepuram-phugewadi
+302C,1,NORMAL_302C_Gavhanevasti Bhosari To Nehrunagar Depo_Down-2015_0,Gavhanevasti Bhosari To Nehrunagar Depo,,0,,3681,,,378/1,13,6,302C - Gavhanevasti Bhosari To Nehrunagar Depo,302c-gavhanevasti-bhosari-to-nehrunagar-depo
+302C,1,NORMAL_302C_Nehrunagar Depo To Gavhanevasti Bhosari_Up-0600_0,Nehrunagar Depo To Gavhanevasti Bhosari,,0,,3680,,,378/3,1,1,302C - Nehrunagar Depo To Gavhanevasti Bhosari,302c-nehrunagar-depo-to-gavhanevasti-bhosari
+255_49,1,NORMAL_255_Sutarwadi Bus Stand To Pimplegurav_Up-0600_0,Sutarwadi Bus Stand To Pimplegurav,,1,,4218,,,255/1,1,1,255_49 - Sutarwadi Bus Stand To Pimplegurav,255-49-sutarwadi-bus-stand-to-pimplegurav
+255_49,1,NORMAL_255_Pimplegurav  To Sutarwadi Bus Stand_Down-0645_0,Pimplegurav  To Sutarwadi Bus Stand,,1,,4430,,,255/1,2,2,255_49 - Pimplegurav  To Sutarwadi Bus Stand,255-49-pimplegurav-to-sutarwadi-bus-stand
+39,1,NORMAL_39_Dhankawadi To Pune Station_Up-0600_0,Dhankawadi To Pune Station,,0,,3528,,,39/1,1,1,39 - Dhankawadi To Pune Station,39-dhankawadi-to-pune-station
+39,1,NORMAL_39_Pune Station To Dhankawadi_Down-0645_0,Pune Station To Dhankawadi,,0,,3531,,,39/1,2,2,39 - Pune Station To Dhankawadi,39-pune-station-to-dhankawadi
+41,1,NORMAL_41_Upper Depot To Sangvi_Up-0705_0,Upper Depot To Sangvi,,0,,2843,,,41/1,1,1,41 - Upper Depot To Sangvi,41-upper-depot-to-sangvi
+41,1,NORMAL_41_Sangvi To Upper Depot_Down-0835_0,Sangvi To Upper Depot,,0,,2956,,,41/1,2,2,41 - Sangvi To Upper Depot,41-sangvi-to-upper-depot
+104,1,NORMAL_104_Deccan Gymkhana To DSK Vishwa_Up-0530_0,Deccan Gymkhana To DSK Vishwa,,0,,3427,,,104/1,1,1,104 - Deccan Gymkhana To DSK Vishwa,104-deccan-gymkhana-to-dsk-vishwa
+104,1,NORMAL_104_DSK Vishwa To Deccan Gymkhana_Down-0610_0,DSK Vishwa To Deccan Gymkhana,,0,,3428,,,104/1,2,2,104 - DSK Vishwa To Deccan Gymkhana,104-dsk-vishwa-to-deccan-gymkhana
+110,1,NORMAL_110_Ma Na Pa To Ma Na Pa_Round-0610_0,Ma Na Pa To Ma Na Pa,,0,,3489,,,110/1,1,1,110 - Ma Na Pa To Ma Na Pa,110-ma-na-pa-to-ma-na-pa
+121,1,NORMAL_121_Bhosari Terminal To Ma Na Pa_Down-0510_0,Bhosari Terminal To Ma Na Pa,,0,,4823,,,121/1,1,1,121 - Bhosari Terminal To Ma Na Pa,121-bhosari-terminal-to-ma-na-pa
+121,1,NORMAL_121_Ma Na Pa To Bhosari Terminal_Up-0545_0,Ma Na Pa To Bhosari Terminal,,0,,4825,,,121/1,2,2,121 - Ma Na Pa To Bhosari Terminal,121-ma-na-pa-to-bhosari-terminal
+123,1,NORMAL_123_Ma Na Pa To Bhakti Shakti_Up-0550_0,Ma Na Pa To Bhakti Shakti,,0,,4735,,,123/1,1,1,123 - Ma Na Pa To Bhakti Shakti,123-ma-na-pa-to-bhakti-shakti
+123,1,NORMAL_123_Bhakti Shakti To Ma Na Pa_Down-0645_0,Bhakti Shakti To Ma Na Pa,,0,,4736,,,123/1,2,2,123 - Bhakti Shakti To Ma Na Pa,123-bhakti-shakti-to-ma-na-pa
+170B,1,NORMAL_170B_Pune Station To Kondhwa Hospital_Up-0605_0,Pune Station To Kondhwa Hospital,,0,,3760,,,170/12,1,1,170B - Pune Station To Kondhwa Hospital,170b-pune-station-to-kondhwa-hospital
+170B,1,NORMAL_170B_Kondhwa Hospital To Pune Station_Down-0700_0,Kondhwa Hospital To Pune Station,,0,,3761,,,170/12,2,2,170B - Kondhwa Hospital To Pune Station,170b-kondhwa-hospital-to-pune-station
+179,1,NORMAL_179_Swargate To Vadachiwadi_Up-0835_0,Swargate To Vadachiwadi,,0,,3666,,,179/1,1,1,179 - Swargate To Vadachiwadi,179-swargate-to-vadachiwadi
+179,1,NORMAL_179_Vadachiwadi To swargate_Down-0930_0,Vadachiwadi To swargate,,0,,3667,,,179/1,2,2,179 - Vadachiwadi To swargate,179-vadachiwadi-to-swargate
+327C,1,NORMAL_327C_Nehrunagar Depo To Alandi_Up-0545_0,Nehrunagar Depo To Alandi,,0,,3978,,,302/5,1,1,327C - Nehrunagar Depo To Alandi,327c-nehrunagar-depo-to-alandi
+296A,1,NORMAL_296A_Katraj To Jambhulwadi_Up-0520_0,Katraj To Jambhulwadi,,0,,3673,,,290/1,1,1,296A - Katraj To Jambhulwadi,296a-katraj-to-jambhulwadi
+296,1,NORMAL_296_Jambhulwadi To Shivajinagar_Up-0540_0,Jambhulwadi To Shivajinagar,,0,,4036,,,290/1,2,2,296 - Jambhulwadi To Shivajinagar,296-jambhulwadi-to-shivajinagar
+296,1,NORMAL_296_Shivajinagar To Jambhulwadi_Down-0650_0,Shivajinagar To Jambhulwadi,,0,,4037,,,290/1,3,3,296 - Shivajinagar To Jambhulwadi,296-shivajinagar-to-jambhulwadi
+296A,1,NORMAL_296A_Jambhulwadi To Katraj_Down-2130_0,Jambhulwadi To Katraj,,0,,3674,,,290/1,14,6,296A - Jambhulwadi To Katraj,296a-jambhulwadi-to-katraj
+335,1,NORMAL_335_Nehrunagar Depot To Jambe_Up-0540_0,Nehrunagar Depot To Jambe,,1,,3868,,,335/1,1,1,335 - Nehrunagar Depot To Jambe,335-nehrunagar-depot-to-jambe
+335,1,NORMAL_335_Nere Dattawadi To Nehrunagar Depot_Down-2115_0,Nere Dattawadi To Nehrunagar Depot,,1,,5087,,,335/2,18,8,335 - Nere Dattawadi To Nehrunagar Depot,335-nere-dattawadi-to-nehrunagar-depot
+207,1,NORMAL_207_Hadapsar To Saswad_Up-1735_0,Hadapsar To Saswad,,0,,4346,,,207/6,13,5,207 - Hadapsar To Saswad,207-hadapsar-to-saswad
+68S,1,NORMAL_68S_Upper Depot To Sutardara_Down-0740_0,Upper Depot To Sutardara,,0,,2770,,,68/1,1,1,68S - Upper Depot To Sutardara,68s-upper-depot-to-sutardara
+68S,1,NORMAL_68S_Sutardara To Upper Depot_Up-0840_0,Sutardara To Upper Depot,,0,,2210,,,68/1,2,2,68S - Sutardara To Upper Depot,68s-sutardara-to-upper-depot
+9,1,NORMAL_9_Hadapsar Gadital To Uruli Railway Station_Up-1735_0,Hadapsar Gadital To Uruli Railway Station,,0,,2769,,,07-Nov,9,1,9 - Hadapsar Gadital To Uruli Railway Station,9-hadapsar-gadital-to-uruli-railway-station
+9,1,NORMAL_9_Uruli Railway Station To Hadapsar Gadital_Down-1855_0,Uruli Railway Station To Hadapsar Gadital,,0,,3005,,,07-Nov,10,2,9 - Uruli Railway Station To Hadapsar Gadital,9-uruli-railway-station-to-hadapsar-gadital
+360,1,NORMAL_360_Mhalungegaon To Alandi Via Balewadi_Down-0550_0,Mhalungegaon To Alandi Via Balewadi,,1,,5114,,,360/1,1,1,360 - Mhalungegaon To Alandi Via Balewadi,360-mhalungegaon-to-alandi-via-balewadi
+360,1,NORMAL_360_Alandi To Mhalungegaon Via Balewadi_Up-0710_0,Alandi To Mhalungegaon Via Balewadi,,1,,5113,,,360/1,2,2,360 - Alandi To Mhalungegaon Via Balewadi,360-alandi-to-mhalungegaon-via-balewadi
+116,1,NORMAL_116_Ma Na Pa To Khadki Bazar_Up-0720_0,Ma Na Pa To Khadki Bazar,,0,,3501,,,116/1,1,1,116 - Ma Na Pa To Khadki Bazar,116-ma-na-pa-to-khadki-bazar
+116,1,NORMAL_116_Khadki Bazar To Ma Na Pa_Down-0805_0,Khadki Bazar To Ma Na Pa,,0,,3502,,,116/1,2,2,116 - Khadki Bazar To Ma Na Pa,116-khadki-bazar-to-ma-na-pa
+342_85,1,NORMAL_342_Pimpri Depot To Dange Chowk Vai Telco Road_Up-0730_0,Pimpri Depot To Dange Chowk Vai Telco Road,,1,,4272,,,342/1,1,1,342_85 - Pimpri Depot To Dange Chowk Vai Telco Road,342-85-pimpri-depot-to-dange-chowk-vai-telco-road
+342_85,1,NORMAL_342_Dange Chowk To Sant Nagar RTO Office Via Telco Road_Up-0815_0,Dange Chowk To Sant Nagar RTO Office Via Telco Road,,1,,4274,,,342/1,2,2,342_85 - Dange Chowk To Sant Nagar RTO Office Via Telco Road,342-85-dange-chowk-to-sant-nagar-rto-office-via-telco-road
+342_85,1,NORMAL_342_Sant Nagar RTO Office To Dange Chowk Via Telco Road_Down-0915_0,Sant Nagar RTO Office To Dange Chowk Via Telco Road,,1,,4275,,,342/1,3,3,342_85 - Sant Nagar RTO Office To Dange Chowk Via Telco Road,342-85-sant-nagar-rto-office-to-dange-chowk-via-telco-road
+RATRANI3,1,NORMAL_RATRANI3_Hadapsar Gadital To Swargate_Down-2100_0,Hadapsar Gadital To Swargate,,1,,4568,,,RATRANI3/1,1,1,RATRANI3 - Hadapsar Gadital To Swargate,ratrani3-hadapsar-gadital-to-swargate
+RATRANI3,1,NORMAL_RATRANI3_Swargate To Hadapsar Gadital_Up-2140_0,Swargate To Hadapsar Gadital,,1,,4567,,,RATRANI3/1,2,2,RATRANI3 - Swargate To Hadapsar Gadital,ratrani3-swargate-to-hadapsar-gadital
+RATRANI4,1,NORMAL_RATRANI4_Hadapsar Gadital To Pune station_Up-2120_0,Hadapsar Gadital To Pune station,,1,,4565,,,RATRANI4/1,1,1,RATRANI4 - Hadapsar Gadital To Pune station,ratrani4-hadapsar-gadital-to-pune-station
+RATRANI4,1,NORMAL_RATRANI4_Pune Station To Hadapsar Gadital_Down-2200_0,Pune Station To Hadapsar Gadital,,1,,4563,,,RATRANI4/1,2,2,RATRANI4 - Pune Station To Hadapsar Gadital,ratrani4-pune-station-to-hadapsar-gadital
+291,1,NORMAL_291_Hadapsar To Upper depot_Down-0515_0,Hadapsar To Upper depot,,1,,5180,,,291/15,1,1,291 - Hadapsar To Upper depot,291-hadapsar-to-upper-depot
+291,1,NORMAL_291_Upper depot To Hadapsar_Up-0600_0,Upper depot To Hadapsar,,1,,5178,,,291/15,2,2,291 - Upper depot To Hadapsar,291-upper-depot-to-hadapsar
+101,1,NORMAL_101_Kothrud Depot To Kondhwa Kh_Up-0600_0,Kothrud Depot To Kondhwa Kh,,1,,4953,,,101/1,1,1,101 - Kothrud Depot To Kondhwa Kh,101-kothrud-depot-to-kondhwa-kh
+101,1,NORMAL_101_Kondhwa Kh To Kothrud Depot_Down-0705_0,Kondhwa Kh To Kothrud Depot,,1,,4954,,,101/1,2,2,101 - Kondhwa Kh To Kothrud Depot,101-kondhwa-kh-to-kothrud-depot
+101,1,NORMAL_101_Kothrud Depot To Sidharthnagar_Up-0910_0,Kothrud Depot To Sidharthnagar,,1,,4676,,,101/2,3,3,101 - Kothrud Depot To Sidharthnagar,101-kothrud-depot-to-sidharthnagar
+101,1,NORMAL_101_Sidharthnagar To Kothrud Depot_Down-1030_0,Sidharthnagar To Kothrud Depot,,1,,4677,,,101/2,4,4,101 - Sidharthnagar To Kothrud Depot,101-sidharthnagar-to-kothrud-depot
+102,1,NORMAL_102_Kothrud Depot To Lohgaon_Up-0520_0,Kothrud Depot To Lohgaon,,0,,3392,,,102/1,1,1,102 - Kothrud Depot To Lohgaon,102-kothrud-depot-to-lohgaon
+102,1,NORMAL_102_Lohgaon To Kothrud Depot_Down-0640_0,Lohgaon To Kothrud Depot,,0,,3413,,,102/1,2,2,102 - Lohgaon To Kothrud Depot,102-lohgaon-to-kothrud-depot
+5,1,NORMAL_5_Pune Station To Swargate_Down-0530_0,Pune Station To Swargate,,0,,3389,,,05-Jan,1,1,5 - Pune Station To Swargate,5-pune-station-to-swargate
+298,1,NORMAL_298_Chinchwad Gaon To Katraj_Down-1440_0,Chinchwad Gaon To Katraj,,0,,3313,,,298/1,6,2,298 - Chinchwad Gaon To Katraj,298-chinchwad-gaon-to-katraj
+36_47,1,NORMAL_36_Ma Na Pa To Chinchwadgaon_Up-0530_0,Ma Na Pa To Chinchwadgaon,,0,,3306,,,36/1,1,1,36_47 - Ma Na Pa To Chinchwadgaon,36-47-ma-na-pa-to-chinchwadgaon
+213,1,NORMAL_213_Vimannagar To Katraj_DOWN-0705_0,Vimannagar To Katraj,,0,,1069,,,213/1,2,2,213 - Vimannagar To Katraj,213-vimannagar-to-katraj
+236,1,NORMAL_236_Khulewadi To Ma Na Pa_DOWN-0640_0,Khulewadi To Ma Na Pa,,0,,3178,,,236/1,2,2,236 - Khulewadi To Ma Na Pa,236-khulewadi-to-ma-na-pa
+236,1,NORMAL_236_Ma Na Pa To Kharadi Gaon_UP-0730_0,Ma Na Pa To Kharadi Gaon,,1,,5071,,,236/1,3,3,236 - Ma Na Pa To Kharadi Gaon,236-ma-na-pa-to-kharadi-gaon
+236,1,NORMAL_236_Kharadi Gaon To Ma Na Pa_DOWN-0830_0,Kharadi Gaon To Ma Na Pa,,1,,5072,,,236/1,4,4,236 - Kharadi Gaon To Ma Na Pa,236-kharadi-gaon-to-ma-na-pa
+318,1,NORMAL_318_Krishna nagar To Pune Station_Down-0600_0,Krishna nagar To Pune Station,,0,,3281,,,318/1,1,1,318 - Krishna nagar To Pune Station,318-krishna-nagar-to-pune-station
+318,1,NORMAL_318_Pune station To Krishna Nagar_Up-0715_0,Pune station To Krishna Nagar,,0,,3279,,,318/1,2,2,318 - Pune station To Krishna Nagar,318-pune-station-to-krishna-nagar
+350B,8,NORMAL_350B_Bhakti Shakti To Pimprigaon_Down-0635_0,Bhakti Shakti To Pimprigaon,,0,,3686,,,355/1,2,2,350B - Bhakti Shakti To Pimprigaon,350b-bhakti-shakti-to-pimprigaon
+358,1,NORMAL_358_Bhosari PMT Chowk To Nirgudigaon Via Charholi Phata_Down-0545_0,Bhosari PMT Chowk To Nirgudigaon Via Charholi Phata,,1,,5109,,,358/20,1,1,358 - Bhosari PMT Chowk To Nirgudigaon Via Charholi Phata,358-bhosari-pmt-chowk-to-nirgudigaon-via-charholi-phata
+358,1,NORMAL_358_Nirgudigaon To Bhosari PMT Chowk Via Charholi Phata_Up-0635_0,Nirgudigaon To Bhosari PMT Chowk Via Charholi Phata,,1,,5110,,,358/20,2,2,358 - Nirgudigaon To Bhosari PMT Chowk Via Charholi Phata,358-nirgudigaon-to-bhosari-pmt-chowk-via-charholi-phata
+84,1,NORMAL_84_Ganpati Matha To Kondhur Phata_Up-0500_0,Ganpati Matha To Kondhur Phata,,1,,5100,,,84/2,1,1,84 - Ganpati Matha To Kondhur Phata,84-ganpati-matha-to-kondhur-phata
+84,1,NORMAL_84_Kondhur Phata To Ganpati Matha_Down-0610_0,Kondhur Phata To Ganpati Matha,,1,,5101,,,84/2,2,2,84 - Kondhur Phata To Ganpati Matha,84-kondhur-phata-to-ganpati-matha
+204,1,NORMAL_204_Chinchwad Gaon to  Bhekrainagar_Down-0700_0,Chinchwad Gaon to  Bhekrainagar,,0,,3314,,,204/1,2,2,204 - Chinchwad Gaon to  Bhekrainagar,204-chinchwad-gaon-to-bhekrainagar
+301A_82,1,NORMAL_301A_Katraj To Hadapsar Gadital_Up-0600_0,Katraj To Hadapsar Gadital,,1,,4939,,,301A/1,1,1,301A_82 - Katraj To Hadapsar Gadital,301a-82-katraj-to-hadapsar-gadital
+301A_82,1,NORMAL_301A_Hadapsar Gadital To Katraj_Down-0710_0,Hadapsar Gadital To Katraj,,1,,4940,,,301A/1,2,2,301A_82 - Hadapsar Gadital To Katraj,301a-82-hadapsar-gadital-to-katraj
+RATRANI1,1,NORMAL_RATRANI1_Katraj To Shivajinagar Night Service_Up-2240_0,Katraj To Shivajinagar Night Service,,1,,4557,,,RATRANI1/1,1,1,RATRANI1 - Katraj To Shivajinagar Night Service,ratrani1-katraj-to-shivajinagar-night-service
+RATRANI1,1,NORMAL_RATRANI1_Shivajinagar To Katraj Night Service_Down-2325_0,Shivajinagar To Katraj Night Service,,1,,4555,,,RATRANI1/1,2,2,RATRANI1 - Shivajinagar To Katraj Night Service,ratrani1-shivajinagar-to-katraj-night-service
+RATRANI2,1,NORMAL_RATRANI2_Katraj To Pune Station_Up-2300_0,Katraj To Pune Station,,1,,4561,,,RATRANI2/1,1,1,RATRANI2 - Katraj To Pune Station,ratrani2-katraj-to-pune-station
+RATRANI2,1,NORMAL_RATRANI2_Pune Station To Katraj_Down-2350_0,Pune Station To Katraj,,1,,4559,,,RATRANI2/1,2,2,RATRANI2 - Pune Station To Katraj,ratrani2-pune-station-to-katraj
+357,1,NORMAL_357_Bhosari Terminal To Pune Station_Down-0455_0,Bhosari Terminal To Pune Station,,1,,5151,,,357/1,1,1,357 - Bhosari Terminal To Pune Station,357-bhosari-terminal-to-pune-station
+357,1,NORMAL_357_Pune Station To Bhosari Terminal_Up-0545_0,Pune Station To Bhosari Terminal,,1,,4840,,,357/1,2,2,357 - Pune Station To Bhosari Terminal,357-pune-station-to-bhosari-terminal
+135,1,NORMAL_135_Pune Station To Wadebolhai_Up-0530_0,Pune Station To Wadebolhai,,0,,5207,,,135/1,1,1,135 - Pune Station To Wadebolhai,135-pune-station-to-wadebolhai
+135,1,NORMAL_135_Wadebolhai To Pune Station_Down-0630_0,Wadebolhai To Pune Station,,0,,5208,,,135/1,2,2,135 - Wadebolhai To Pune Station,135-wadebolhai-to-pune-station
+27,1,NORMAL_27_Bharati Vidyapeeth To Shivajinagar_Up-0550_0,Bharati Vidyapeeth To Shivajinagar,,0,,2400,,,27-Jan,1,1,27 - Bharati Vidyapeeth To Shivajinagar,27-bharati-vidyapeeth-to-shivajinagar
+27,1,NORMAL_27_Shivajinagar To Bharati Vidyapeeth_Down-0650_0,Shivajinagar To Bharati Vidyapeeth,,0,,2922,,,27-Jan,2,2,27 - Shivajinagar To Bharati Vidyapeeth,27-shivajinagar-to-bharati-vidyapeeth
+27,1,NORMAL_27_Katraj To Shivajinagar_Up-0815_0,Katraj To Shivajinagar,,1,,5219,,,27-Apr,1,1,27 - Katraj To Shivajinagar,27-katraj-to-shivajinagar
+27,1,NORMAL_27_Shivajinagar To Katraj_Down-0905_0,Shivajinagar To Katraj,,1,,5220,,,27-Apr,2,2,27 - Shivajinagar To Katraj,27-shivajinagar-to-katraj
+26,1,NORMAL_26_Dhankawadi To Shivajinagar_Up-0530_0,Dhankawadi To Shivajinagar,,0,,2315,,,26-Jan,1,1,26 - Dhankawadi To Shivajinagar,26-dhankawadi-to-shivajinagar
+26,1,NORMAL_26_Shivajinagar To Dhankawadi_Down-0630_0,Shivajinagar To Dhankawadi,,0,,2923,,,26-Jan,2,2,26 - Shivajinagar To Dhankawadi,26-shivajinagar-to-dhankawadi
+26,1,NORMAL_26_Katraj To Shivajinagar_Up-0805_0,Katraj To Shivajinagar,,1,,5217,,,26-Apr,1,1,26 - Katraj To Shivajinagar,26-katraj-to-shivajinagar
+26,1,NORMAL_26_Shivajinagar To Katraj_Down-0855_0,Shivajinagar To Katraj,,1,,5218,,,26-Apr,2,2,26 - Shivajinagar To Katraj,26-shivajinagar-to-katraj
+209_96,1,NORMAL_209_Katraj To Saswad Bus Stand_Up-0515_0,Katraj To Saswad Bus Stand,,1,,5244,,,209/1,1,1,209_96 - Katraj To Saswad Bus Stand,209-96-katraj-to-saswad-bus-stand
+209_96,1,NORMAL_209_Saswad Bus Stand To Katraj_Down-0630_0,Saswad Bus Stand To Katraj,,1,,5245,,,209/1,2,2,209_96 - Saswad Bus Stand To Katraj,209-96-saswad-bus-stand-to-katraj

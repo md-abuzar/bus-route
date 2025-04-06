@@ -10,7 +10,7 @@ trips_df = pd.read_csv("trips.csv")
 stop_times_df = pd.read_csv("stop_times.csv")
 stops_df = pd.read_csv("stops.csv")
 
-routes_pmpl_df = pd.read_csv("pmpl/routes.csv")
+routes_pmpl_df = pd.read_csv("pmpl/new_pmpml_routes.csv")
 trips_pmpl_df = pd.read_csv("pmpl/trip.csv")
 stop_times_pmpl_df = pd.read_csv("pmpl/stop_times.csv")
 stops_pmpl_df = pd.read_csv("pmpl/stops.csv")
@@ -87,9 +87,6 @@ def buslive():
     except Exception as e:
         return {"error" : str(e)}
     
-    
-
-    
             
     ''' location = geolocator.reverse((entity.vehicle.position.latitude, entity.vehicle.position.longitude), exactly_one=True)
             print (location.address if location else "Unknown location")
@@ -109,15 +106,15 @@ def pmpmlbusnum():
 
 @app.route("/api/v1/pmpml/routes_id")
 def pmpmlrouteid():
-    route_id = trips_pmpl_df['route_id'].tolist()
+    route_id = routes_pmpl_df['slug'].tolist()
     return jsonify(route_id)
 
 @app.route("/api/v1/pmpml/num", methods=['GET', 'POST'])
 def pmpmlbusshortnum():
     try:
         route = request.json.get('route')
-        filtered_num = trips_pmpl_df[trips_pmpl_df['route_short_name'] == route]
-        num = filtered_num['route_id'].tolist()[0]
+        filtered_num = routes_pmpl_df[routes_pmpl_df['slug'] == route]
+        num = filtered_num['trip_id'].tolist()[0]
         return jsonify(num)
     except Exception as e:
         return {"error" : str(e)}
@@ -128,7 +125,7 @@ def pmpmlbusroutes():
     try:
         if request.method == 'POST':
             route_id = request.json.get('route_id')
-            filtered_trips_df = trips_pmpl_df[trips_pmpl_df['route_id'] == route_id]
+            filtered_trips_df = trips_pmpl_df[trips_pmpl_df['trip_id'] == route_id]
             trip_id = filtered_trips_df['trip_id'].tolist()[0]
 
             filtered_stop_times_df = stop_times_pmpl_df[stop_times_pmpl_df['trip_id'] == trip_id]

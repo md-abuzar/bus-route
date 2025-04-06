@@ -10,12 +10,12 @@ def slugify(text):
     return text
 
 # Read the CSV file into a pandas DataFrame
-df = pd.read_csv('routes.csv')  # Replace with the path to your CSV file
+df = pd.read_csv('pmpl/tripsnew.csv')  # Replace with the path to your CSV file
 
 # Apply the slugify function to the 'bus_num' column and create a new 'slug' column
-df['slug'] = df['bus_num'].apply(slugify)
+df['slug'] = df['route_short_name'].apply(slugify)
 
 # Save the DataFrame with the new 'slug' column to a new CSV file
-df.to_csv('output.csv', index=False)
+df.to_csv('new_pmpml_routes.csv', index=False)
 
 print("CSV file has been processed and saved as 'output.csv'")
