@@ -125,10 +125,15 @@ def pmpmlbusroutes():
     try:
         if request.method == 'POST':
             route_id = request.json.get('route_id')
+            print(route_id)
+            filtered_num = routes_pmpl_df[routes_pmpl_df['slug'] == route_id]
+            print(filtered_num)
+            num = filtered_num['trip_id'].tolist()[0]
+            print(num)
             '''filtered_trips_df = trips_pmpl_df[trips_pmpl_df['route_id'] == route_id]'''
             '''trip_id = filtered_trips_df['trip_id'].tolist()[0]'''
 
-            filtered_stop_times_df = stop_times_pmpl_df[stop_times_pmpl_df['trip_id'] == route_id]
+            filtered_stop_times_df = stop_times_pmpl_df[stop_times_pmpl_df['trip_id'] == num]
             stop_ids = filtered_stop_times_df['stop_id'].tolist()
             
             stop_list = []
